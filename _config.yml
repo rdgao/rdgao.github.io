@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard Gao"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We are here and nowhere."
   location         : "San Diego | Toronto"
   email            :
@@ -252,6 +252,18 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
