@@ -3,4 +3,12 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/old/</loc>
+<lastmod>2018-02-08T22:06:38-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/old/page1.html</loc>
+<lastmod>2018-02-08T22:32:42-08:00</lastmod>
+</url>
 </urlset>
