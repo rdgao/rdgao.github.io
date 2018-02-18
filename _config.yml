@@ -9,14 +9,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "rdgao"
-title_separator          : "-"
+title                    : "[Mind From Matter]"
+title_separator          : " | "
 name                     : "Richard Gao"
-description              : "An amazing website."
+description              : "Seeking the mind by looking at the brain. Posts about me, computational neuroscience, cognitive science, and life."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/teaser_placeholder.JPG # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia
 algolia:
@@ -83,17 +83,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-114332610-1
 
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Richard Gao"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "We are here and nowhere."
+  location         : "San Diego | Toronto"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -103,7 +103,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : _rdgao
   gitlab           :
   google_plus      :
   keybase          :
@@ -115,7 +115,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : _rdgao
   vine             :
   weibo            :
   xing             :
