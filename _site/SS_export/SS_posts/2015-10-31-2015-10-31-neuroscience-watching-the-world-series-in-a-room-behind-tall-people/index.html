@@ -1,0 +1,333 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>I've always wanted to write about some of the fundamental ideas in neuroscience in a people-friendly way. The problem is, it always seemed to be way too daunting to explain such fundamental ideas in any reasonably short blog entry, given all the history behind the idea and the recent debates over it. Well, nothing screams challenge than to do exactly that for a bunch of high school students, with a hard limit of ONE PAGE. Yes, I am, once again, shamelessly pasting homework assignments onto the blog, but this one I'm rather happy with. Plus, it's in the spirit of the World Series, even though I literally watched my first full inning of baseball when the Jays lost in game 6. </p>
+<p>This is a summary of a paper published a few years ago, which I thought was excellent science. Plus, it's a step forward for one of the fundamental ideas in neuroscience: information coding. I originally wanted to expand the version I had for the high schoolers, add some details here and there, and post it as a modified version. But god knows 1) I'm lazy and 2) I'll probably add 2 pages worth of stuff to this 1 page summary. Alas, here it is. Do let me know if it speaks to your inner high school self. I don't know if the paper is open access now, but it's linked at the bottom.</p>
+<hr>
+<p><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+<o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves/>
+<w:TrackFormatting/>
+<w:PunctuationKerning/>
+<w:ValidateAgainstSchemas/>
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF/>
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>JA</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+ <w:BreakWrappedTables/>
+ <w:SnapToGridInCell/>
+ <w:WrapTextWithPunct/>
+ <w:UseAsianBreakRules/>
+ <w:DontGrowAutofit/>
+ <w:SplitPgBreakAndParaMark/>
+ <w:EnableOpenTypeKerning/>
+ <w:DontFlipMirrorIndents/>
+ <w:OverrideTableStyleHps/>
+ <w:UseFELayout/>
+</w:Compatibility>
+<m:mathPr>
+ <m:mathFont m:val="Cambria Math"/>
+ <m:brkBin m:val="before"/>
+ <m:brkBinSub m:val="&#45;-"/>
+ <m:smallFrac m:val="off"/>
+ <m:dispDef/>
+ <m:lMargin m:val="0"/>
+ <m:rMargin m:val="0"/>
+ <m:defJc m:val="centerGroup"/>
+ <m:wrapIndent m:val="1440"/>
+ <m:intLim m:val="subSup"/>
+ <m:naryLim m:val="undOvr"/>
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="276">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Table Grid"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 1"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 2"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 3"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 4"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 5"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 6"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+<w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Cambria;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--StartFragment--></p>
+<p><span style="font-size:11.0pt">It’s Game 7 of the World Series, and your whole school (in Kansas) is packed into the gym watching a tiny TV. The problem is, so many people are standing in front of you that you can’t see anymore, but you still want to know what’s happening: what can you do? We all know that people lose all ability to speak coherently in the heat of the game, so you can’t ask someone to describe the events, but you CAN observe how intensely people are cheering around you, and the reaction of the room in general: quiet crowd, no runs; room explodes, someone probably scored. Your problem, as a scientist, is to guess the events on TV based solely on people’s responses, but you can only pay attention to so much. Then, is it more informative to listen for your friends immediately around you, since you know when and how they usually respond? Or is it better to listen to the room as a whole? This is exactly the question these neuroscientists are trying to answer – only, for the brain.</span></p>
+<p><span style="font-size:11.0pt">One of the fundamental assumptions we make in neuroscience is that events that occur in the world around us are reflected in brain activity. For example, to ‘hear’ your favorite song, your brain must process the sounds and identify it. How the brain does this is not 100% clear yet, but what we do know is that neurons – the fundamental information processing cells in the brain – respond to stimuli by changing when and how fast they ‘fire’ action potentials. Imagine if each of the 80 billion neurons in your brain is a tiny person, and the only way they can respond (as far as we know) is by shouting ‘YAY!’ When it sees something it likes, it gets excited and shouts ‘YAY YAY YAY’; otherwise, it stays silent. For a long time now, we’ve known that individual neurons respond to their preferred stimulus (sound, image, etc.) by changing the rate of their response, analogous to how fast it’s shouting (firing rate). Then, if we were to record the activity of a neuron - let’s call it Ned - as it responds to a sound, we’d be able to see how much of the sound corresponds to Ned’s activity, via “mutual information”. Essentially, mutual information </span><span style="font-size:11.0pt">quantifies how successfully we could guess the sound by observing Ned’s response. In our baseball example, Ned (from New York) cheering shares high mutual information with the Mets scoring a run. Similarly, the aggregate response of many neurons (like our crowd), called local field potential, could also be informative, even though we lose the individuals’ identities. These are all ways your brain can “code” information, so which is the most informative?</span></p>
+<p><span style="font-size:11.0pt">In this paper, the authors answer this question by playing sounds to a monkey, and measuring the mutual information between various sounds and the monkey’s brain response – both from individual neurons and the local field potential. Historically, neuroscientists have been fixated on the firing rate of individual neurons, but this study shows that other “codes” could be much more informative and reliable, especially in combination, such as the timing relationship between several different neurons’ response, as well as the relative timing of action potentials with respective to the local field. Intuitively, hearing Ned cheer could mean one of many things – the Mets pitching a strike, getting on base, or scoring a run. But hearing the room cheering and immediately groaning followed by Ned shouting excitedly probably means that the Royals almost hit it out the park, only to be caught by the Mets outfield leaping off the fence to make the catch. This is a really exciting result because it shows that the brain works as a whole, such that combinations of responses give us the most information about what we observe around us, and it opens up new ways for neuroscientists to accurately decode information in the brain, taking us a step closer to understanding how it all works.</span></p>
+<p><span style="font-size:15px">Source: Kayser et al. 2009. Neuron.</span><br>http://www.sciencedirect.com/science/article/pii/S0896627309000750</p>
+<!--EndFragment--><p> </p>
+</body></html>

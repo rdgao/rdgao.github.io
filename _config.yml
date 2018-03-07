@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Richard Gao"
   avatar           : /assets/images/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are here and nowhere."
+  bio              : "Engineering in my last life. Neuroscience in my current life. Who knows what happens when I wake up tomorrow?"
   location         : "San Diego | Toronto"
   email            :
   uri              :
@@ -259,6 +259,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      classes: wide
+
 
   # _pages
   - scope:

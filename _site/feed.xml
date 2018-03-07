@@ -1,5 +1,1199 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-25T15:46:03-08:00</updated><id>http://localhost:4000/</id><title type="html">[Mind From Matter]</title><subtitle>Seeking the mind by looking at the brain. Posts about me, computational neuroscience, cognitive science, and life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">First post!</title><link href="http://localhost:4000/test-post/" rel="alternate" type="text/html" title="First post!" /><published>2018-02-09T21:01:15-08:00</published><updated>2018-02-09T21:01:15-08:00</updated><id>http://localhost:4000/test-post</id><content type="html" xml:base="http://localhost:4000/test-post/">&lt;p&gt;Hi, my name is Bob.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-07T01:18:37-08:00</updated><id>http://localhost:4000/</id><title type="html">[ Mind From Matter ]</title><subtitle>Seeking the mind by looking at the brain. Posts about me, computational neuroscience, cognitive science, and life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">First post!</title><link href="http://localhost:4000/test-post/" rel="alternate" type="text/html" title="First post!" /><published>2018-02-09T21:01:15-08:00</published><updated>2018-02-09T21:01:15-08:00</updated><id>http://localhost:4000/test-post</id><content type="html" xml:base="http://localhost:4000/test-post/">&lt;p&gt;Hi, my name is Bob.&lt;/p&gt;
 
 &lt;h1 id=&quot;bold-testing&quot;&gt;bold testing&lt;/h1&gt;
 
-&lt;p&gt;what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="holas" /><summary type="html">A unique line of text to describe this post that will display in an archive listing and meta description with SEO benefits.</summary></entry></feed>
+&lt;p&gt;what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="holas" /><summary type="html">A unique line of text to describe this post that will display in an archive listing and meta description with SEO benefits.</summary></entry><entry><title type="html">Year 3 (and a half): TIL my PhD is Flappy Bird.</title><link href="http://localhost:4000/2017-12-17-year-3-and-a-half/" rel="alternate" type="text/html" title="Year 3 (and a half): TIL my PhD is Flappy Bird." /><published>2018-01-16T00:00:00-08:00</published><updated>2018-01-16T00:00:00-08:00</updated><id>http://localhost:4000/2017-12-17-year-3-and-a-half</id><content type="html" xml:base="http://localhost:4000/2017-12-17-year-3-and-a-half/">&lt;p&gt;It’s January of 2018. 40 months after I started my PhD. Wow. I know people say
+that the years feel shorter as you get older, but these days are just zipping
+by way too fast. I realized somewhere in October that I forgot to write one of
+these for my third year, and all of a sudden, we’re in 2018. So I’m late, what
+else is new.&lt;/p&gt;
+
+&lt;p&gt;This post is broken into two parts. The first part is about a recent shift in
+attitude I had on how to process failures and other “negative” emotions
+throughout the PhD, during which I also realized that getting a PhD is more
+like staying alive in Flappy Bird than running a marathon. Between when I
+started writing this post and now (~10 days), I’ve had two major rejections
+already (one paper, one conference submission). I’m still learning how to
+process these things, but what you will read below is my take on some wisdom I
+received through reading. The second part contains habits and lifestyle
+changes I’ve acquired over the last year or so, that I think contributed
+positively to my general well-being. &lt;strong&gt;Disclaimer&lt;/strong&gt; : none of what you’re
+about to read are meant to be advice, they’re more or less just entertaining
+chronicles of my graduate school adventure. But if you happen to find them
+useful or comforting, that’s all the better!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_5a5d4b4d71c10bc0942c22ae_1516063641764_Screen+Shot+2018-01-15+at+4.43.58+PM.png.58+PM.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;PhD - Perpetual heap of Discomfort&lt;/strong&gt;&lt;br /&gt;
+I thought PhD was like a marathon, and in some ways, it is - it’s grueling,
+long, and most of the time you’re by yourself. But in a marathon, every step
+you take contributes to getting you to the finish line. In a PhD, not so much.
+It’s more like this: imagine stepping off a cliff way above the clouds, and
+you’re falling through a mysterious unknown. Your trajectory has been
+determined, and many, many things will come straight at you, largely outside
+of your control. And you know, with every passing second, that you’re falling
+(probably to your death), and it’s scary as hell. That being the case, your
+attitude through the fall could be one of two things. The first is to
+completely reject the reality that is the unstoppable force of gravity and
+helplessly flail, feeling strong emotions at every possible opportunity. That
+could be a positive or negative emotion: maybe you see a branch that might
+stop or slow your fall, or maybe you hear the snap of the branch that you
+thought would save you. All of these little events in their individual moments
+seem disconnected and unrelated. From that perspective, their causes could
+either be that you personally are doing something right/wrong, or that life is
+being especially gratuitous/unfair. Through these three and half years,
+sometimes I blamed life and the people around me, and often I blamed myself,
+which starts the vicious cycle of unhappiness: “I seem to be falling. I see
+and grasp at every little thing, but things often don’t work out. Now I’m
+still falling and even more stressed out. Am I not learning quickly enough?
+How is everyone else doing this so gracefully? I wish I wasn’t falling. Oh
+shit, I’m still falling. Ugh… can’t I get a break or do something right?”&lt;/p&gt;
+
+&lt;p&gt;In hindsight, that’s not the only way to experience this perpetual fall and
+those emotions along the way, but I didn’t even consciously realize that that
+was a choice I was making, or that I even had a choice. A few months ago, I
+read “Man’s Search for Meaning” by Victor Frankl, and in it I found a piece of
+wisdom that would go a long way in helping me unlock and process my feelings
+of free-fall during my PhD, as well as life as a whole during these few years.
+In it, he says something to the effect of: &lt;strong&gt;in this day and age, people have
+a tendency to not only put themselves in situations where they are unhappy,
+but they then become unhappy about their unhappiness, because they have a need
+to be happy all the time.&lt;/strong&gt; After chewing on this for some time, I asked
+myself: have I been unhappy during these years, and have I been unhappy about
+my unhappiness, especially those unhappiness that stemmed from factors that
+were a natural progression of being in graduate school in a foreign country
+(which also happened to be a dumpster fire with a steady stream of shitty news
+to look at on Twitter)? I think the answer was yes.&lt;/p&gt;
+
+&lt;p&gt;All of the shitty stuff - work failures and personal failures - are real, and
+in a way, it’s not my fault. It’s not anybody’s fault. I don’t mean that life
+for graduate students can’t be made better by the institution as a whole - it
+certainly can. Nor am I deflecting responsibility from the things that I could
+have done better, like starting a deliverable early to avoid stressing myself
+out last minute. But I think a part of me put such a heavy expectation on this
+graduate school experience to be positive that I rejected the possibility that
+my unhappinesses were a product of the situation I put myself in, but rather
+time and time again blamed it on how much life sucks or how badly I’m doing as
+a researcher. This doesn’t mean I haven’t been happy at all. Quite the
+opposite, actually: I regularly find joy in the work I do and the progress
+I’ve made, the new friends I’ve made and the experiences we’ve shared, and the
+beautiful city and its ocean breeze I now think of as my new home, as well as
+the cherished opportunities I get to see my old home and everything it
+embodies. But these moments of happiness are fleeting, as all moments are.
+Except, their endings only thrust me back to the reality of my falling,
+against the expectation that each happy moment was suppose to mean that I have
+figured life out, and that the feeling of falling should have disappeared.&lt;/p&gt;
+
+&lt;p&gt;The realization that many aspects of my current situation made me unhappy was
+powerful, and quite a relief. It’s difficult to put them into the right words,
+but there’s a profound difference between the mindset that things are really
+great overall and there are just unexpected wrinkles along the way, versus the
+mindset - the more accurate one I’d say - that this process as a whole is
+challenging and frustrating, and inevitably will make me unhappy, and that’s
+perfectly fine, and I shouldn’t be too hard on myself or anyone around me
+because of it. When I left for San Diego three and a half years ago, I kind of
+just hopped on a plane and left. I didn’t think about how hard I made it for
+myself to see my family and old friends, experience the comfort of home in
+Toronto, and in general the challenges of starting life in a completely new
+place. On top of that, never did I really think about the challenges of doing
+a PhD, the real and daunting challenges that many before me have faced, which,
+summed in one phrase, is a relentless feeling of failure and uncertainty, both
+real and perceived.&lt;/p&gt;
+
+&lt;p&gt;So what now? In Frankl’s book, one of the things he talks about, within the
+framework of logotherapy - or logically looking at ourselves - is that we have
+a choice in changing our situations. Taking responsibility for my own
+happiness has always been my mantra, which, I think, was why I felt inadequate
+or that I always have to do more to improve my own situation. But to change my
+situation, I have to first accurately assess my situation, and these short-
+term ups and downs, in a way, were largely predetermined by the choice of
+being in graduate school 3 years ago. Yes, specific failures and disappoints
+may be avoidable, but they will inevitably come in one form or another. Of
+course, I can also choose to drop out at any time, and that would definitely
+alleviate certain aspects of this feeling of falling. But if I wanted to stick
+it through, I’d first have to acknowledge that failures, successes, more
+failures and the feeling of being not good enough even after successes are all
+a part of this process. A lot of people in academia, to their credit,
+acknowledge the reality of anxiety, stress, and things like imposter syndrome,
+for example. Every time I read a blog post on that, I think to myself:
+“everyone feels it, it’s not a big deal, and it makes sense to feel it, so I
+shouldn’t feel it now, because understanding it means I’m above it now.
+Right?” Wrong. No matter how many times I’m confronted with this feeling, and
+no matter how many times I feel satisfied with a piece of work I did, this
+feeling has not gone away, and to be honest, I don’t think it ever will. So my
+new resolution is just to embrace this feeling, and embrace the fall.
+Something else that helped is the Buddhist perspective (or philosophy?) that
+even “negative” emotions and events can be observed, appreciated, and
+understood (I really like Thich Nhat Hanh’s writing about this in &lt;a href=&quot;https://www.amazon.com/Being-Peace-Thich-Nhat-
+Hanh/dp/188837540X/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;amp;qid=1515982322&amp;amp;sr=8-1&quot;&gt;Being
+Peace&lt;/a&gt;),
+and that’s an invaluable treasure in life, just as the happy moments are.&lt;/p&gt;
+
+&lt;p&gt;(As I finish writing this, I am realizing that the falling process I described
+as getting a PhD is basically &lt;a href=&quot;http://flappybird.io/&quot;&gt;Flappy Bird&lt;/a&gt; rotated 90
+degrees: something is always propelling you forward, and you more or less
+can’t control how fast you go forward, even though that’s what you’re measured
+on. Instead, the effort you exert feels almost orthogonal to the direction you
+want to move towards, but nevertheless, it’s those little actions that keep
+you afloat and moving. Actually, that sounds like life in general. Holy shit -
+life is Flappy Bird.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;That being said, I think there were a few things I did over the last year or
+so that definitely contributed positively to my mental and physical well-
+being. Most of them fit in the larger theme of finding what works for myself,
+so no guarantees that it will work for anyone else, but it might be worth a
+try:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved off-campus&lt;/strong&gt; : La Jolla, nice as it is, is not very good for living,
+especially as a 25 year old with a diverse taste for cuisines (here comes the
+Soylent jokes). More importantly, living on campus literally meant that I live
+in the same place as I work, so I basically didn’t really live, and just
+worked. Turns out, living in a place where I can walk for more than 15 minutes
+and not having to stop because there’s nothing but highways is nice. Plus, I’m
+now in an area much closer to my friends, and spending quality social time (or
+get college-student-drunk) is definitely good for the soul! Also, having to
+take the bus for 30 minutes to and from work means there is a significant
+chunk of time away from my laptop, which brings me to…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casual reading&lt;/strong&gt; : sometimes I still spend the whole bus ride thinking about
+projects, but on most days I get a full hour of casual reading. I think I’ve
+read more books this year than I have in the rest of my life combined, and
+this sounds really stupid coming from a 26-year old, but books are great
+stuff! On the surface level, being immersed in a really good fictional
+narrative completely reenergizes my mind, and honestly on some days I look
+forward to that bus ride more than actually going to the office (or anything
+else in life) because of the book I’m reading. On a deeper level, the books
+themselves, both fiction and non-fiction, have had transformative effects on
+my life. I’d been meaning to put together a list of my personal favorites (who
+knows when this will happen), but top of my list so far: the Glass Bead Game,
+Dune, Half a Yellow Sun, All the Light We Cannot See, and I already mentioned
+Man’s Search for Meaning. Is this always good for productivity? No, because on
+some days, I would get to the office and read for another half an hour because
+I just can’t put it down. But do I enjoy it? You’re goddamn right I do.
+Shoutout to the people who have recommended or lent books to me, and my
+bookclub buddy (spoiler: it’s my girlfriend) who patiently reads the weird
+shit I want to read and picks books that I would’ve never read otherwise.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mid-day workout&lt;/strong&gt; : I now go to the gym before lunch for an hour and half
+every day, either to play basketball or to lift. I’ve even turned down free
+lunch events because it overlapped with my gym time. &lt;em&gt;GASP&lt;/em&gt; I know, right? Why
+was this helpful? For one, I feel like I’m in the best physical shape I have
+been for a while, which definitely helps me feel good about myself, especially
+during times where everything else is crap (running theme: how to have a good
+day when life is shit otherwise). The other benefit is that taking that midday
+break to do something active really helps the blood circulate to my brain
+again, because if there’s anything I learned about myself during grad school,
+it’s that I can’t sit still for more than 3 hours and still be fully there
+mentally. I’ve tried various routines to overcome this, but working for 8
+continuous hours a day always resulted in me dozing off for the second half of
+the day, no matter how many hours I’ve slept before or how many coffees I
+have. Midday nap doesn’t even do me as much good as exercise. I think the
+combined effect of adrenaline and breathing more deeply is a much more natural
+stimulant for the brain, and it has to come during the early afternoon for me,
+because going to the gym at night after a long workday (during which I’ve
+fallen asleep many times at my desk) is doubly ineffective.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Waking up earlier&lt;/strong&gt; : The awkward thing about exercising midday is that, of
+course, I’m now working like 5 hours a day instead of 7, even though those 5
+hours are all good, focused hours. To compensate for this, I usually try to
+wake up early (like at 6 am) to put in two extra hours, have a late breakfast,
+and go to the office. Because I woke up SOOO early (6 is hella early for a
+grad student!), I get sleepy by 9pm, which means I’m in bed at grandma hours,
+and the virtuous cycle continues. I’m really digging the tripartite workday
+now (work, breakfast, work, gym + lunch, work), and the added benefit is that
+even if I’m completely unproductive on campus for whatever reason (meetings,
+teaching, etc), I still feel good about the 2 hours I got done before my day
+even started. The only thing this isn’t good for is socializing on a
+weeknight, because it screws up the next morning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keeping a lab notebook&lt;/strong&gt; : working on computational projects means I usually
+try many many things before something worthwhile happens, and sometimes a
+whole day has to be spent on things like debugging code, or learning some
+software package. All this means that a lot of work has to be done before I
+see any real results, and that feels bad. Also, I find myself always referring
+back to simulation or analyses I did in vague ways because I can’t remember
+the details, but just remembering that it was interesting/important. So after
+the Nth time of that happening, I decided to keep track of my daily
+explorations and progress in Evernote. In hindsight, this makes a lot of
+sense, because that’s what people in wet labs do. I guess I just felt that
+computational stuff happens so quickly that it’s not worth writing down. But
+hey, even if it doesn’t matter, seeing a full notebook definitely makes me
+feel good even if nothing concrete came out of it yet, and that, my friends,
+is the word of the day today.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">It’s January of 2018. 40 months after I started my PhD. Wow. I know people say that the years feel shorter as you get older, but these days are just zipping by way too fast. I realized somewhere in October that I forgot to write one of these for my third year, and all of a sudden, we’re in 2018. So I’m late, what else is new.</summary></entry><entry><title type="html">26/52: Our thin layer of existence.</title><link href="http://localhost:4000/2017-10-8-2652-our-thin-layer-of-existence/" rel="alternate" type="text/html" title="26/52: Our thin layer of existence." /><published>2017-10-16T00:00:00-07:00</published><updated>2017-10-16T00:00:00-07:00</updated><id>http://localhost:4000/2017-10-8-2652-our-thin-layer-of-existence</id><content type="html" xml:base="http://localhost:4000/2017-10-8-2652-our-thin-layer-of-existence/">&lt;p&gt;Hawaii was an absolute treat for the senses, where almost every single day we
+witnessed something that was breathtaking: be it the sun setting into the
+infinite expanse of the orange horizon, the warm saltiness of the sea water on
+the skin that’s just cool enough to alert the peripheries, or the chirping of
+countless &lt;a href=&quot;https://www.youtube.com/watch?v=TA_9_zAK5sA&quot;&gt;coqui frogs&lt;/a&gt; going in
+and out of synchrony while the jungle leaves rustle peacefully under the
+backdrop of the star-lit night. Words are not enough to really convey these
+perceptions, and to be honest, neither are pictures, but &lt;a href=&quot;/hawaii-2017&quot;&gt;we tried
+anyway&lt;/a&gt;. One idea that cannot be conveyed without words,
+however, is the feeling of our minuteness I got - both me personally and human
+lives in general - when I witnessed just a little more of the world around us.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59dda9cebce1760a7e0dfab7_1507699199239_Hawaii+Select+-+5+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59dda9f64c326d14dfcd4c6a_1507699235386_Hawaii+Select+-+50+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddaa1ccf81e07216c16cbd_1507699407914_Hawaii+Select+-+64+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddaa4a8419c208bc2dcbbc_1507699407923_Hawaii+Select+-+91+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Traveling to new places is always an eye opening experience, especially when
+immersed in the ecology and culture of a foreign place. This was different,
+though - it revealed to me something that I foolishly thought I already knew
+intimately - the world in which I live. It’s like this: imagine you’re about
+to visit someone’s house for the first time. It’s cool, because you know
+you’ll see things you’ve never seen before, or at least how the same things
+might be arranged differently, so it’s an expected kind of novelty. Now
+imagine sitting on your own couch at home, with an abundance of familiarity
+surrounding you. Everything was either put there by you, or it’s been there
+for so long that it might as well have come with the place. All of a sudden,
+someone whispers a few words into your ears and you watch the familiarity in
+front of you unfold into an entirely new experience, realizing for the first
+time that there is so much more to your home than meets the eye. Hawaii gave
+me that feeling about this “world”, “my” world, and not just through its
+exquisite wild life on the surface, but extending from the depth of the ocean
+to the stars above. The whole two weeks were full of moments like those, but I
+will just describe a few things that happened over a span of 48 hours on the
+Big Island (Hawaii Island).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;The Earth shaping itself&lt;/strong&gt;&lt;br /&gt;
+The state of Hawaii is a chain of islands formed by underwater volcanic
+activity. I knew this, and it makes sense. How else does a chain of islands
+emerge in the middle of the ocean? I didn’t know, though, that there are
+&lt;strong&gt;active&lt;/strong&gt; volcanoes on the Big Island. That fact seems routine enough when
+you read about it, but being there and witnessing it is another thing. We
+visited the Volcano National Park, where the &lt;a href=&quot;https://en.wikipedia.org/wiki/Halemaumau_Crater&quot;&gt;Halemaumau
+Crater&lt;/a&gt; spews out a thick
+stream of never-ending smoke during the day, and transforms into a scary
+demonic pit at night. The park itself is a huge area of land that surrounds
+the crater, as well as the aftermath of some of the more explosive eruptions
+from a few decades ago. The landscape is incredibly eerie. It simultaneously
+makes me appreciate the wrath of Mother Earth, fear her swiftness in taking
+life away, and marvel at the incredible youth of the land beneath my feet and
+its newly sprouted inhabitants. When I think of a young Earth, I think of
+spring and budding greens. But here, youth is charred black, porous, and
+honestly looks kinda deadly and downright alien.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddacaf8dd041bee6994591_1507699996961_Hawaii+Select+-+104+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddaca112abd91eb4f18d4f_1507700001562_Hawaii+Select+-+136+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddac77d2b8572ff2bfc8ac_1507699850831_Hawaii+Select+-+119+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddac88d55b41bc94aa7bb6_1507699869861_Hawaii+Select+-+126+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The youthfulness of the land was further exhibited the next night, when we
+went to the edge of the park where lava is pouring out down the slope of the
+mountain and into the ocean. The feeling that we are standing there and
+witnessing NEW EARTH BEING BORN is truly incredible. Land is literally being
+formed around us, and the rocks we stepped on were younger than any of their
+visitors (and there were some hardy toddlers braving the lava rock hikes in
+the pitch black night). It was a sublime reminder that the world around us is
+dynamic, constantly morphing, swallowing itself and rebirthing itself - not
+only do plants and animals cycle through life and death, so too does the Earth
+they stand on.&lt;/p&gt;
+
+&lt;p&gt;Shit I never ever think about.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddad9180bd5ee90873fd6e_1507700120818_Hawaii+Select+-+156+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddadca268b96261dbab038_1507700201669_Hawaii+Select+-+159+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddada8d7bdce34b0bb4ada_1507700147224_Hawaii+Select+-+158+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddadba8419c208bc2de3f0_1507700162742_Hawaii+Select+-+162+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;The world outside of our world&lt;/strong&gt;&lt;br /&gt;
+I’ve always lived in crowded places with extremely dense light pollution.
+Among those, La Jolla is probably the only place where I can regularly see
+more than a handful of stars at night. I’ve heard of friends going out of the
+city to star gaze, but have never done it myself, nor have I ever really
+camped in my life (I know). So imagine my awe when we went three quarters way
+up Mauna Kea (9300 ft), which is the dormant volcano on the Big Island and
+peaks at almost 14000 ft!!! There a lot of cool little tidbits about this
+mountain, one of which being that the base of it is actually &lt;strong&gt;deep&lt;/strong&gt; under
+the ocean, so deep that if you measured from the base to its peak, it’s just
+slightly taller than Mount Everest at 33,000 ft. Driving up to observatory
+altitude is the embodiment of “0 to 100 real quick”. I think we went from
+beach to 9300 ft in about an hour? On the way up, we had to drive through a
+layer of super dense condensation (aka clouds), and it is a local saying that
+many people hit the invisible cows on the way up and down the mountain because
+visibility around the foggy area is no more than about 10 m ahead of you. But
+beyond that, the sky above feels like it reaches the depth of the universe.
+After nightfall, it’s as if we were transported to another dimension or planet
+outside of our own, because I’ve never ever seen that many stars shining so
+brightly. Apparently, from Mauna Kea, one can see every star available in the
+northern half of the sky, and about 80-90% (?) in the southern sky, because,
+you know, it’s a tall ass mountain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddafb50abd04ecb6253ac4_1507700669109_Hawaii+Select+-+190+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddafa8b7411c1345766363_1507700660924_Hawaii+Select+-+194+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddafbcccc5c5627a4a5c83_1507700676193_Hawaii+Select+-+191+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddafa5b7411c134576635b_1507700645876_Hawaii+Select+-+193+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Standing under that diamond studded ceiling, we got to see a lot of
+astronomical phenomena firsthand, through our own eyes (and sometimes through
+a telescope). For example, there were guides at the visitor information center
+that set up small telescopes for the crowd to take a closer look at the stars,
+and I actually saw for the first time Saturn and its ring. It looks like a
+&lt;a href=&quot;http://www.deepskywatch.com/images/articles/see-
+in-telescope/saturn-in-small-scope-n.jpg&quot;&gt;miniature, cartoon version&lt;/a&gt; of the Saturn I’m used to seeing in
+books and films: a small tilted ring encircling a smaller dot, both unicolor
+with a gray sheen. It was pretty neat. We also saw the ISS racing through the
+night sky in a perfect broad curve, and several shooting stars. By far the
+most indescribable feeling, though, was the smallness of humans and our planet
+under such a majestic sky. Standing on top of the cold peak, it was like the
+universe and all its mysteries were suddenly opened to me - I am directly
+experiencing, for the first time ever, how vast the space is out there and how
+little we really knew.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t quite a religious moment, but that was as close as I’ve ever gotten
+to marveling in the creation of some higher being.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;The world within our world&lt;/strong&gt;&lt;br /&gt;
+I’ve posted this before, and I have to post it again. I’ve watched this video
+myself about 20 times now, and every time I do, I can’t help but have a big
+stupid grin on my face. There are just so many completely spontaneous
+opportunities to witness animals enjoying themselves, be it a manta ray
+tumbling around, a family of sea turtle surfing the current, or a pack of
+dolphins playing hide and seek with us in the bay.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45fda8dd041f0a6ca28c6_1508138981984_Hawaii+Select+-+145+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45fc6ccc5c56363c09810_1508138954496_Hawaii+Select+-+188+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45fe449fc2ba4f983fafc_1508138994243_Hawaii+Select+-+144+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45ff0e5dd5bb5c7d54e42_1508139001817_Hawaii+Select+-+81+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45ffdf6576e84f90eb71f_1508139013423_Hawaii+Select+-+43+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e460032aeba55391b9a216_1508139020325_Hawaii+Select+-+35+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a surface-dweller, my idea of life is mostly concentrated around my
+altitude and on dry land. Rarely do my thoughts venture out into the other 70%
+of this planet. The waters around Hawaii, though, really made me feel that
+there is life all around us. Perhaps they’re different, and look a little
+strange, but life nonetheless. Breaking through the thin surface of the water
+that separates two worlds, you are instantaneously immersed in another
+storyline, like an invisible fly on the wall with the special privilege to
+witness the completely normal lives of all its characters. In those moment, I
+felt acknowledged and welcomed, and I hope I can do the same for them one day.
+It really makes me question, even now, the extent of other kinds of cognition,
+beyond our simply human ideals.&lt;/p&gt;
+
+&lt;p&gt;After all, we are but a thin layer of existence in a much, much larger whole.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Hawaii was an absolute treat for the senses, where almost every single day we witnessed something that was breathtaking: be it the sun setting into the infinite expanse of the orange horizon, the warm saltiness of the sea water on the skin that’s just cool enough to alert the peripheries, or the chirping of countless coqui frogs going in and out of synchrony while the jungle leaves rustle peacefully under the backdrop of the star-lit night. Words are not enough to really convey these perceptions, and to be honest, neither are pictures, but we tried anyway. One idea that cannot be conveyed without words, however, is the feeling of our minuteness I got - both me personally and human lives in general - when I witnessed just a little more of the world around us.</summary></entry><entry><title type="html">25/52: First research paper published!</title><link href="http://localhost:4000/2017-9-18-2552-first-research-paper-published/" rel="alternate" type="text/html" title="25/52: First research paper published!" /><published>2017-09-19T00:00:00-07:00</published><updated>2017-09-19T00:00:00-07:00</updated><id>http://localhost:4000/2017-9-18-2552-first-research-paper-published</id><content type="html" xml:base="http://localhost:4000/2017-9-18-2552-first-research-paper-published/">&lt;p&gt;Because I’m quite short on my 52 posts this year, I’m stealing this from the
+&lt;a href=&quot;http://voyteklab.com/inferring-ei-balance-from-lfp/&quot;&gt;lab blog&lt;/a&gt; (which I
+wrote!). But hey! First research paper published, jeez what a long process…&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlights (tl;dr)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The overarching goal of our recent &lt;em&gt;NeuroImage&lt;/em&gt; paper
+(&lt;a href=&quot;http://voyteklab.com/wp-content/uploads/Gao-NeuroImage2017.pdf&quot;&gt;PDF&lt;/a&gt;) is to
+make inferences about the brain’s synaptic/molecular-level processes using
+large-scale (very much non-molecular or microscopic) electrical recordings. In
+the following blog post, I will take you through the concept of excitation-
+inhibition (EI) balance, why it’s important to quantify, and how we go about
+doing so in the paper, which is the novel contribution. It’s aimed at a broad
+audience, so there are a lot of analogies and oversimplifications, and I refer
+you to the paper itself for the gory details. At the end, I reflect a little
+on the process and talk about the real (untold) story of how this paper came
+to be. &lt;em&gt;**&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A Tale of Two Forces&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Inside all of our brains, there are two fundamental and opposing forces – no,
+not good and evil – excitation and inhibition. Excitatory input, well,
+“excites” a neuron, causing it to depolarize (become more positively charged
+internally) and fire off an action potential if enough excitatory inputs
+converge. This is the fundamental mechanism by which neurons communicate:
+shorts bursts of electrical impulses. Inhibitory inputs, on the other hand, do
+exactly the opposite: they hyperpolarize a neuron, making it less likely to
+fire an action potential. Not to be hyperbolic, but since before you were born
+these two forces were waging war with and balancing one another through
+embryonic development, infancy, childhood, adulthood, and till death. There
+are lots of molecular mechanisms for excitation and inhibition, but for the
+most part, “excitatory neurons” are responsible for sending excitation via a
+neurotransmitter called glutamate, and “inhibitory neurons” are responsible
+for inhibition via GABA.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59c0ac641f318d7ed8ccbbc8_1505799282628_EI.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Like all great rivalries (think Batman and Joker, Celtics and Lakers), these
+two forces cannot exist without each other, but they also keep each other in
+check: too much excitation leads the brain to have run-away activity, such as
+what happens in seizure, while too much inhibition shuts everything down, as
+happens during sleep, anesthesia, or being drunk. This makes intuitive sense,
+and scientists have empirically validated this “excitation-inhibition balance”
+concept numerous times. This EI balance, as it’s called, is ubiquitous under
+normal conditions, and has been proposed to be crucial for neural computation,
+the routing of information in the brain, and many other processes.
+Furthermore, it’s been hypothesized, with some experimental evidence in
+animals, that an imbalance of excitation and inhibition is the cause (or
+result) of many neurological and psychiatric disorders, including epilepsy,
+schizophrenia, and autism, just to name a few.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Finding Balance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Given how important this intricate balance is, it is actually quite difficult
+to measure at any moment the ratio between excitatory and inhibitory inputs. I
+mentioned above that there is empirical evidence for balance and imbalance.
+However, in the vast majority of these cases, measurements are done by poking
+&lt;strong&gt;tiny&lt;/strong&gt; electrodes into single neurons and, via a protocol called voltage
+clamping, scientists record &lt;em&gt;within&lt;/em&gt; a single neuron how much excitatory and
+inhibitory input that neuron is receiving. Because the setup is so delicate,
+it’s often done in slices of brain tissue kept alive in a dish, or sometimes
+in a head-fixed, anesthetized mouse or rat – basically, in brain tissue that
+can’t move much, but not in humans. I mean, imagine doing this in the intact
+brain of a living human – yeah, I can’t either. And as far as I know, it’s
+never been done. This presents a pretty big conundrum: if we want to link a
+psychiatric disorder to an improper ratio between excitation and inhibition in
+the human brain directly, but we can’t actually measure that thing, how can we
+corroborate that EI (im)balance matters in the way we think it does?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59c0ac86e3df2804bd831f2e_1505799312222_imbalance.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Our Approach: Parsing Balance From “Background Noise”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is exactly the problem we try to solve in our recent paper published in
+&lt;em&gt;NeuroImage&lt;/em&gt; : how might one estimate the ratio between excitation and
+inhibition in a brain region without having to invasively record from within a
+brain cell (which is not something most people would like to happen to them)?&lt;/p&gt;
+
+&lt;p&gt;Well, recording inside a brain cell is hard, but recording outside brain cells
+– extracellularly – is a LOT easier. It’s still pretty invasive, depending on
+the technique, but much safer and more feasible in moving, living, behaving
+people. Of course, recording outside the brain cell is not the same as
+recording the inside – when we record electrical fluctuations in the space
+&lt;em&gt;around&lt;/em&gt; neurons, rather from within or right next to a single neuron, we’re
+picking up the activity of &lt;em&gt;thousands to millions&lt;/em&gt; of cells all &lt;a href=&quot;http://www.scholarpedia.org/article/Local_field_potential&quot;&gt;mixed up
+together&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first critical idea of our paper was that this aggregate signal – often
+referred to as the local field potential (LFP) – reflects excitatory and
+inhibitory inputs onto a large population of local cells, not just a single
+one. Therefore, we should be able to get a general estimate of balance by
+decoding this aggregate signal. The second piece of critical information was
+the realization that (for the most part) excitatory inputs are fast and
+inhibitory inputs are slow so that, even when they are mixed together from
+millions of different sources like in the LFP signal, we are still able to
+separate their effects: not in time, but in the frequency-domain (see our
+&lt;a href=&quot;https://github.com/voytekresearch/tutorials/blob/master/Power%20Spectral%20Density%20and%20Sampling%20Tutorial.ipynb&quot;&gt;frequency domain
+tutorial&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59c0acae2aeba5c28cbd8b11_1505799350978_model.png_&quot; alt=&quot;A: LFP model with excitatory and inhibitory inputs; B: the time course of E
+and I inputs from a single action potential; C: simulated synaptic inputs
+(blue and red) and LFP (black); F: LFP index of E:I
+ratio&quot; /&gt;
+A: LFP model with excitatory and inhibitory inputs; B: the time course of E
+and I inputs from a single action potential; C: simulated synaptic inputs
+(blue and red) and LFP (black); F: LFP index of E:I ratio&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Combining&lt;/strong&gt; &lt;strong&gt;Computational&lt;/strong&gt; &lt;strong&gt;Modeling&lt;/strong&gt; &lt;strong&gt;and&lt;/strong&gt; &lt;strong&gt;Empirical (Open) Data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pursuing this line of reasoning, we simulated populations of neurons &lt;em&gt;in
+silico&lt;/em&gt; and looked at how their activity would generate a local field
+potential recording. What this means is that we can generate, in a computer
+simulation, different ratios of excitatory or inhibitory inputs into a brain
+region and see how that influences the simulated LFP. Through this
+computational model we found an index for the relative ratio between
+excitation and inhibition.&lt;/p&gt;
+
+&lt;p&gt;For those of you that are into frequency-domain analysis of neural signal,
+this index is the 1/f power law exponent of the LFP power spectrum. Let’s
+unpack that a bit. In the figure above (panel B) you can see that the
+excitatory electrical currents (blue) that contribute to the LFP shoot up in
+voltage really quickly—within a few thousands of a second—and then slowly
+decay back down to zero. In contrast, the inhibitory currents (red) also shoot
+up pretty quickly—but not &lt;em&gt;as&lt;/em&gt; quickly—and then decay back to zero &lt;em&gt;much&lt;/em&gt; more
+slowly than the excitatory inputs. When you add up thousands of these currents
+happening all at different times, the simulated voltage (panel C, black) looks
+to us humans a lot like noise. But through the mathematical magic of the
+Fourier transform, when we look at this same signal’s frequency
+representation, they’re clearly distinguishable!&lt;/p&gt;
+
+&lt;p&gt;More technically, the idea is that the ratio between fast excitation and slow
+inhibition should be represented by the relative strength between high-
+frequency (rapidly fluctuating) and low-frequency (slowly fluctuating)
+signals. With this hypothesis in hand, we were able to make use of several
+publicly available databases of neural recordings to validate the predictions
+made by our computational models in a few different ways. One example from the
+paper: we were lucky enough to find a recording from macaque monkeys
+undergoing anesthesia, and the anesthetic agent, propofol, acts through
+amplifying inhibitory inputs in the brain at GABA synapses. Therefore, we
+predicted that when the monkey goes under, we should see a corresponding
+change in the power law exponent, and that’s exactly what we found! As you can
+see below, our EI index remains relatively stable during the awake state, then
+immediately shoots down toward an inhibition-greater-than-excitation regime
+during the anesthetized state before coming back to baseline after the
+anesthesia wears off.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59c0acdc017db2a991be001e_1505799399607_monkey.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaways and Disclaimers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So to summarize, we were able to make predictions, borne out of observations
+from previous physiological experiments and our own computational modeling,
+and then validate these predictions using data from &lt;strong&gt;existing databases&lt;/strong&gt; to
+draw a link between EI balance, which is a cellular-level process, and the
+local field potential, which is an aggregate circuit-level signal. Personally,
+I think that bridging the gap between these different levels of description in
+the brain is super interesting, and it’s one way for us to confirm our
+understanding of how the brain gives rise to cognition and behavior at
+multiple scales. Furthermore, we can now make use of the theoretical idea of
+EI balance in places where it was previously inaccessible, such as a human
+patients responding to treatments.&lt;/p&gt;
+
+&lt;p&gt;Before I wrap up, I just want to point out that &lt;strong&gt;this paper does not
+conclusively show that EI balance directly shifts the power law exponent&lt;/strong&gt; –
+what we show is a suggestive correlation. Nor does the correlation hold under
+all circumstances. We had to make a lot of assumptions in our model and the
+data we found, such as the noise-like process by which we generated the model
+inputs. I’m not throwing this out here to inhibit the excitement (hah, hah),
+but rather to limit the scope of our claim, especially for a public-facing
+blog piece like this.&lt;/p&gt;
+
+&lt;p&gt;Rather, ours is the first step of an ongoing investigation, and although we
+will probably find evidence that &lt;a href=&quot;http://voyteklab.com/more-
+evidence-1f-lffp-noise-indexes-excitationinhibition-balance/&quot;&gt;corroborates&lt;/a&gt; and
+&lt;a href=&quot;https://arxiv.org/abs/1708.09042&quot;&gt;contradicts&lt;/a&gt; our findings later on, it’s
+important that anyone reading this and getting excited (hah) about it
+understands that we do not, and likely will not, have the last word on this.
+Ultimately, though, I believe we stumbled onto something pretty cool and we’ll
+definitely follow up on those assumptions one by one, and hopefully have more
+blog posts to come!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Some Personal Reflection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This project was my first real scientific research project in grad school, and
+it definitely created in me a lot of joy and excitement, as well as caused a
+fair amount of brooding. As a whole, I really enjoyed the process of building
+a computational model, even if it was quite simple, and using the predictions
+from that to inform further empirical investigations. As I mentioned, I think
+we really need to bridge the gap between molecular-level mechanisms in the
+brain and circuit/organism-level “neural markers”, and computational modeling
+work allows us to do that in situations where it would be intractable for many
+reasons. I certainly subscribe to the notion that combining
+theoretical/computational work with empirical data is an exciting and fruitful
+line of research, because it fills a space between two successful but largely
+non-overlapping subfields in neuroscience (though that trend is now changing).&lt;/p&gt;
+
+&lt;p&gt;Also, the fact that we were able to test our predictions on publicly available
+data was such a blessing, as we simply did not have the capacity, as a new
+lab, to do those &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt; experiments ourselves. However, that
+meant combing through tons and tons of data where there might have been
+unlabeled or badly labeled information, only to reach the conclusion that the
+data is unusable for our purposes. There was some (a lot) of headbanging due
+to this, but ultimately, we found useful (FREE!) data and I’m very grateful
+for the people that made them available: &lt;a href=&quot;https://crcns.org/data-
+sets/hc/hc-2/about-hc-2&quot;&gt;CRCNS&lt;/a&gt; and Buzsaki Lab, &lt;a href=&quot;http://neurotycho.org/&quot;&gt;Neurotycho&lt;/a&gt;
+and Fujii Lab, as well as many friends and collaborators that donated data for
+us to test different routes. To support this open-access endeavor, all code
+used to produce the analysis and figures are on our lab GitHub, found
+&lt;a href=&quot;https://github.com/voytekresearch/eislope&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Untold Story&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One last note, for those of you that find the process of scientific discovery
+interesting: in this blog post, I tried to write the story as a lay-friendly
+CliffsNotes version of the paper, starting with the importance of EI balance
+and the motivation to find an accessible index of it in the LFP, then
+outlining how we went about solving that problem. That’s the scientific story,
+and while not false, it’s not chronological.&lt;/p&gt;
+
+&lt;p&gt;The actual story began with &lt;a href=&quot;http://voyteklab.com/journal-
+of-neuroscience-paper-age-related-changes-in-1f-neural-electrophysiological-
+noise/&quot;&gt;Brad’s 2015 paper&lt;/a&gt; showing that aging is associated with 1/f changes. That was actually
+what first interested me back when I started in 2014 – this seemingly
+ubiquitous phenomenon (1/f scaling) in neural data. After digging a bit to
+find various accounts for how 1/f observations arise in nature, we decided to
+just simulate the LFP ourselves and see what happens. Turns out, the 1/f
+naturally falls out of the temporal profile of synaptic currents, which both
+have exponential rise and decay.&lt;/p&gt;
+
+&lt;p&gt;Our model contained what I thought to be the bare minimum: excitatory and
+inhibitory currents. At that point, I didn’t have a clue about what EI balance
+was and what it has been linked to. I think I was twiddling parameters one
+day, and realized that changing the relative weight of E and I inputs will
+cause the 1/f exponent (or slope) to change because of their different time
+constants. Then, like any modern-day graduate student, I Googled to see if
+this is something that actually happens &lt;em&gt;in vivo&lt;/em&gt; , and the rest was history.
+This little anecdote really just speaks to the serendipity of science, and it
+couldn’t have happened without the many hours of spontaneous discussions in
+the lab, which I’m also very grateful for, and Google. I think these little
+stories really liven up the otherwise logical world of science, and I’d love
+to read about such stories from other people!&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Because I’m quite short on my 52 posts this year, I’m stealing this from the lab blog (which I wrote!). But hey! First research paper published, jeez what a long process…</summary></entry><entry><title type="html">24/52: Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I’ve seen.</title><link href="http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen/" rel="alternate" type="text/html" title="24/52: Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I've seen." /><published>2017-08-26T00:00:00-07:00</published><updated>2017-08-26T00:00:00-07:00</updated><id>http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen</id><content type="html" xml:base="http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen/">&lt;p&gt;We saw a lot of wonderful and incredible sights in Hawaii over the last two
+weeks, all of which I will shortly detail. But the one thing that stood out
+the most was this moment, so much so that I think it deserves its own entry.&lt;/p&gt;
+
+&lt;p&gt;We were snorkeling at Two Steps Beach on the Big Island, near Captain Cook. It
+was a treasure trove of marine life with an abundance of corals, but by that
+point we had been in Hawaii for a week and half, and everything I saw became
+unremarkable in that everything was routinely remarkable. I was swimming over
+to the other end of the bay to meet Mei on the beach, still hopeful that I
+might see a dolphin or two, when this great white shape appeared - about the
+size of me - and fanned out in front of me.&lt;/p&gt;
+
+&lt;p&gt;My immediate feeling was that of fear, since it’s not a run-of-the-mill
+experience to come face to face with a wild animal the size of myself on land,
+and who knows if this creature is benevolent. Even if it doesn’t eat me, what
+if I pissed it off by swimming near its home? This feeling of apprehension
+never quite went away, but gave way to so many more: excitement at this rare
+opportunity, curiosity in this strange beast, joy in watching it tumble round
+and round in the water. So I followed it around for two minutes, just out of
+reach. Not that it seemed to care.&lt;/p&gt;
+
+&lt;p&gt;I hate to anthropomorphize nature but in this moment, it’s impossible to not
+ponder the mind of this being, as it performed its strange dance. Perhaps
+joyously, perhaps hungrily. All of these thoughts and emotions combined
+themselves into a single concept - awe - and I found myself completely
+immersed in the presence of another entity in its undisturbed natural habitat,
+wondering just how many more lives like this one surrounded our thin surface
+of existence, evading our consciousness.&lt;/p&gt;
+
+&lt;p&gt;Without further ado (only edit I made was adding the music, over which you can
+still sometimes hear my gasps):&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">We saw a lot of wonderful and incredible sights in Hawaii over the last two weeks, all of which I will shortly detail. But the one thing that stood out the most was this moment, so much so that I think it deserves its own entry.</summary></entry><entry><title type="html">23/52: What is the hardest scientific endeavor of all? (Answer: neuroscience)</title><link href="http://localhost:4000/2017-6-12-2352-what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/" rel="alternate" type="text/html" title="23/52: What is the hardest scientific endeavor of all? (Answer: neuroscience)" /><published>2017-06-12T00:00:00-07:00</published><updated>2017-06-12T00:00:00-07:00</updated><id>http://localhost:4000/2017-6-12-2352-what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience</id><content type="html" xml:base="http://localhost:4000/2017-6-12-2352-what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/">&lt;p&gt;“The brain is the most complex thing in the universe.”&lt;/p&gt;
+
+&lt;p&gt;If there was one quote that grinds my gears more than all else, it is this
+one. It is simply an idiotic thing to say: the brain is not the most complex
+thing in the universe; the universe, which contains billions and billions of
+brains small and big, is the most complex thing in the universe. Even the
+interaction between two brains, certainly, is more complex than the brain
+itself. So why is neuroscience, the scientific study of the brain, the hardest
+of all?&lt;/p&gt;
+
+&lt;p&gt;Let’s take, as two examples, quantum physics and astrophysics, fields that
+study the tiniest and the grandest objects in our universe. These are
+extremely difficult things to study, because to even observe the signals
+necessary to start answering the questions we’ve set forth, it takes some real
+human ingenuity and delicate engineering to construct devices that can give us
+reliable measurements we can then use to make inferences. Watch this really
+great &lt;a href=&quot;https://www.youtube.com/watch?v=iphcyNWFD10&quot;&gt;video&lt;/a&gt; on LIGO and the
+detection of gravitational waves if you are not convinced, and coincidentally,
+it is a combination of both quantum physics and astrophysics (4:45 is the best
+part…why are they even wearing goggles?)&lt;/p&gt;
+
+&lt;p&gt;If that’s not the craziest thing I’ve heard of, which is literally at the
+physical boundary of the universe (as we understand today) on both the
+smallest and the largest scales, I don’t know what is. Maybe putting people on
+Mars? Maybe Elon Musk’s new brain hat? Which brings me to how much more
+difficult neuroscience is. Actually, it’s not just neuroscience, it’s all
+scientific efforts that try to study some aspect of the human mind, like
+psychology and cognitive science, but not, for example, neurobiology. And the
+reason I believe this is not because neuroscience is intrinsically hard - it
+most certainly pales in comparison to many branches of the physical and even
+social sciences.&lt;/p&gt;
+
+&lt;p&gt;What makes it hard, I think, is that it is incredibly difficult for a human to
+be objective when we study the brain and the mind: the phenomena we are
+interested in explaining are the ones that occur on a daily basis in our
+mundane lives, like paying attention to traffic, perceiving color, etc, and it
+is precisely these subjective experiences that we not only draw inspiration
+from, but also try to dissect as if they are objective things in the universe.
+I certainly don’t want to get into the debate of what is and what is not
+objectively real, a photon or consciousness, but I think we can agree that one
+is more objectively existing than the other, at least in terms of how we
+operationalize them scientifically. In fact, I think the more “dead” we think
+something is, the easier it is to study it objectively, which might explain
+the incredible disparity in our level of understanding of the brain compared
+to every other organ in our body. When we study the brain and the mind,
+confirmation bias does not only creep in at the objective scientific level,
+but the personal level as well. Yes, we can be diligent in checking results
+that confirm our hypotheses, but it is damn near impossible to be diligent in
+checking results that are consistent with our daily experiences and intuition.
+After all, if I’ve had these experiences, it must be the right, right?&lt;/p&gt;
+
+&lt;p&gt;Why is it so hard? I’m not sure, but if I were to venture a guess, I think it
+is rooted in our wish to preserve our own identities, livingness, and
+humanness. One of the things that makes us humans feel special is the belief
+that we are special: yes, dogs and cows and rats and dolphins all have brains,
+but we must be special in some way? And if we were to lose this feeling of
+specialness in the pursuit of an objective understanding of the brain and our
+humanness, we would paradoxically lose this humanness altogether. In fact, I
+believe it is crucial that we treat the human brain like we treat any other
+organism on this planet in order to properly study it, but that would create
+such an intense dissonance, because at the end of the day, when we’re done
+being neuroscientists, we’re back to being regular people - a friend, a
+spouse, a parent - all of which requires this special humanness to maintain,
+this special belief that we’re all the good guys at the end of the day.&lt;/p&gt;
+
+&lt;p&gt;I recently finished reading Paul Kalanithi’s When Breath Becomes Air, and his
+story contextualized our scientific effort in understanding the brain in a way
+that’s never explicitly occurred to me before - though I soon realized
+afterwards that it’s always been an implicit motivation for me, and perhaps
+for many others - and that is the search for meaning. I believed that we can
+ultimately objectively define the meaning of our existence by understanding
+the brain, the organ that presumably gives us this sense of meaning - our
+joys, pains, struggles, triumphs, and every other thing we feel - in the first
+place. Now that I consciously think about it, I don’t know whether this will
+ever happen: to objectively understand this sense of meaning, we may have to
+give up that there is any meaning in the first place, and simply describe our
+thoughts, movements, and interactions as physical quantities changing over
+time, like how we objectively describe ant colonies, economics, and a
+&lt;a href=&quot;https://www.wired.com/2011/11/starling-flock/&quot;&gt;murmuration of birds&lt;/a&gt;.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">“The brain is the most complex thing in the universe.”</summary></entry><entry><title type="html">22/52: The Disease of Productivity &amp;amp; Mindful Dishwashing</title><link href="http://localhost:4000/2017-6-5-2252-the-disease-of-productivity-mindful-dishwashing/" rel="alternate" type="text/html" title="22/52: The Disease of Productivity &amp; Mindful Dishwashing" /><published>2017-06-05T00:00:00-07:00</published><updated>2017-06-05T00:00:00-07:00</updated><id>http://localhost:4000/2017-6-5-2252-the-disease-of-productivity-mindful-dishwashing</id><content type="html" xml:base="http://localhost:4000/2017-6-5-2252-the-disease-of-productivity-mindful-dishwashing/">&lt;p&gt;Since I started graduate school, I think, I’ve revered industriousness and
+have been deathly afraid of unproductivity. It’s really weird, because I was
+just as gung-ho about doing well in high school and university, but in some
+sense I felt like at that time my life (and work) wasn’t really mine, and that
+I was just doing the bare minimum required to get the grades I was supposed to
+get, but no more - I was on a bus being driven to and fro. Even though EngSci
+was extremely time-consuming, I still had some “down time”, where it was set
+aside to just hang out with people, get stupid drunk, or go play basketball.
+Actually, it wasn’t “set aside” as much as I was doing anything to not spend
+time on school. Could I have gotten, better grades, been more involved in
+extracurriculars, or developed SOME kind of interest or hobby outside of
+school? Probably. But to be honest, the concept of setting aside time to do
+things as an investment of my future never occurred to me, and I just did
+whatever I wanted to do.&lt;/p&gt;
+
+&lt;p&gt;The moment I started graduate school, though, there was a fundamental change
+in my mindset. The best way I can describe it is that I began to think of my
+time doing research/reading/whatever as if it was time working on my own
+business: I get back as much as I put in, and no more, so if I want to be
+successful - and there is literally no bounds on what that means - I have to
+put in as much time as possible. In other words, every second of my time is a
+resource that I have to spend wisely to get the maximum return on investment I
+can get, and at this point in my life, it’s through working or reading or
+better equipping myself for research one way or another (narrow-minded, I
+know). From that moment on, I was always trying to preoccupy myself with work,
+and I convinced myself that unlimited industriousness is good. Of course it is&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;there are countless numbers of motivational videos on Youtube, and many
+times more of quotes saying hard work is the secret to life.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After three years, though, I’m starting to think it’s becoming a condition of
+some sort that I cannot get rid of. I don’t know what specifically I was
+thinking about, but one day I had a thought that perpetual and uncontrolled
+laziness or procrastination is like a disease, since a person may literally
+feel as if they have no control over their inability to get started on doing
+work. And it dawned on me - I have just as little control over my inability to
+&lt;strong&gt;NOT&lt;/strong&gt; think about work. Of course, that’s not to say that I’m always
+actually doing work, which is the stupid and ironic part, because I’m also
+starting to realize that, pushing myself or not, I end up doing about the same
+amount of work, except in one case, I feel extra bad that I’m taking time off
+so I just end up procrastinating doing something that I don’t really want to
+do, like watching the same video of Gordon Ramsey cooking a steak 5+ times on
+Youtube. For a while, I tried to consciously set aside time to relax by doing
+things that’s not work. But that never really worked, because I would just
+think that I could be spending this time doing work instead.&lt;/p&gt;
+
+&lt;p&gt;Now I realized I had it backwards: I was depending on the activity itself to
+relax me, but the truth is that relaxation comes from the conscious decision
+to do this thing - anything - instead of thinking about work. This happened a
+lot for meditation: I noticed that during times when there are no immediate
+deadlines, meditating is a huge boost to my energy level and general sense of
+wellbeing. But when I’m in a period of high stress because a deadline is
+approaching or just particularly busy with multiple things, meditating not
+only does not help, but makes the situation worse, because I end up getting
+distracted by work and then think that I should’ve just spent that time
+working instead. It was very frustrating because I thought meditating was
+suppose to make me more relaxed, not the opposite?! At some point, it dawned
+on me that meditation cannot make one’s mind more relaxed, but it is the
+relaxed mind itself - one that happily embarks on the small journey of being
+mindful despite all the chaos engulfing and bombarding the mind with
+responsibilities and tasks - that makes one’s mind more relaxed. In other
+words, more than half the battle is already won when I wholeheartedly commit
+myself to relaxing. Mind blown, right?&lt;/p&gt;
+
+&lt;p&gt;After a few more periods of alternating stress and relative idleness, I
+started to pick up on all the random little things that are truly indicators
+of my mental wellbeing. Willingness to meditate, of course, is probably a big
+one, precisely because it’s something that is truly unnecessary, in the sense
+that it does not accomplish anything that “needs to get done”. Going to the
+gym is another such thing. Household chores, in general, are pretty good
+litmus tests when I start to neglect them: dishes piling up in the sink even
+though I only cook like one meal a day, shirts not hung back up at the end of
+the day, etc. There is probably a direct inverse relationship between my daily
+cortisol level and how many times I flossed in the last week. Conversely, some
+things that I spend more time doing when I’m not doing well: Youtube, Twitter,
+and various other forms of social media, reading about random shit on
+Wikipedia or Buzzfeed, reading the news - though that’s largely a non-issue
+now since I avoid that like the plague. Anyway, the takeaway here is that how
+I’m treating myself in the face of external pressures is the best indicator of
+my mental wellbeing. Obviously I’m not saying to goof off every time there is
+more responsibility at work or something. It is simply to say that perhaps we
+need more loving and caring, from ourselves, precisely when we are being
+demanded the most (wow that sounds super obvious when I write it down that
+way).&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Since I started graduate school, I think, I’ve revered industriousness and have been deathly afraid of unproductivity. It’s really weird, because I was just as gung-ho about doing well in high school and university, but in some sense I felt like at that time my life (and work) wasn’t really mine, and that I was just doing the bare minimum required to get the grades I was supposed to get, but no more - I was on a bus being driven to and fro. Even though EngSci was extremely time-consuming, I still had some “down time”, where it was set aside to just hang out with people, get stupid drunk, or go play basketball. Actually, it wasn’t “set aside” as much as I was doing anything to not spend time on school. Could I have gotten, better grades, been more involved in extracurriculars, or developed SOME kind of interest or hobby outside of school? Probably. But to be honest, the concept of setting aside time to do things as an investment of my future never occurred to me, and I just did whatever I wanted to do.</summary></entry><entry><title type="html">21/52: Combatting bias in science</title><link href="http://localhost:4000/2017-5-29-2152-combatting-bias-in-science/" rel="alternate" type="text/html" title="21/52: Combatting bias in science" /><published>2017-05-30T00:00:00-07:00</published><updated>2017-05-30T00:00:00-07:00</updated><id>http://localhost:4000/2017-5-29-2152-combatting-bias-in-science</id><content type="html" xml:base="http://localhost:4000/2017-5-29-2152-combatting-bias-in-science/">&lt;p&gt;For week of May 22&lt;/p&gt;
+
+&lt;p&gt;This is the third post in my series of reflecting on the state of science,
+which, at this point, feels like it’s more likely to be a given week’s topic
+than not. In any case, today, I will be writing about bias within the
+selection process in science. This current line of thought has accumulated
+over several years and many broader conversations about affirmative action in
+both academia and industry with various people. I realize that affirmative
+action is a particular sensitive topic, and it seems like people are either
+super for it or super against it, so let me just start by saying that without
+a doubt I believe in the principles behind it, and given how recently it has
+become an adopted practice, it is a great first step towards balancing out
+structural inequalities. That being said, I think it is worth taking a closer
+look at to see how we are doing and what we’re trying to achieve.&lt;/p&gt;
+
+&lt;p&gt;The impetus behind writing this actual post today came from an interesting
+&lt;a href=&quot;http://drbecca.scientopia.org/2017/01/04/are-bias-and-privilege-
+free-phd-admissions-possible/&quot;&gt;blog post&lt;/a&gt; I recently read by (presumably) a fellow
+science blogger whom I only have Twitter relations with. In it, the author
+asks whether graduate school admission criteria, like GPA, previous lab
+experience, letters of recommendation, etc, are truly an indicator of future
+success, or are we simply selecting for previous privilege? And if the latter,
+how can we give opportunities to those who want to pursue science but did not
+have the luck of birth to prepare themselves for it? I found this post
+interesting because, while it was not the explicit purpose, it gave me insight
+on differentiating between personal and structural biases, the different goals
+we have for solving these issues, and how they need to be tackled differently.
+I just made up these categories on the spot, so forgive me if they are defined
+properly elsewhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Removing personal bias helps selecting objectively and optimally&lt;/strong&gt;&lt;br /&gt;
+I’ll get the easy one out of the way first: imagine yourself as the hiring
+manager for a position in your company, or an academic researcher deciding on
+whether to admit a new student into your lab next year. Personal biases often
+come in the form of color and gender, and studies have shown time and time
+again that men are likely to be perceived as more capable than women, and
+white candidates more than black candidates. This
+&lt;a href=&quot;https://facultyhiring.uoregon.edu/special-concerns/&quot;&gt;page&lt;/a&gt; from the
+University of Oregon on implicit bias during a hiring process details, with
+citations, many of the studies that have reported significant effects. The one
+I had in mind, for example, reports that “randomly assigning different names
+to resumes showed that job applicants with “white-sounding names” were more
+likely to be interviewed for open positions than were equally qualified
+applicants with “African American –sounding names” (Bertrand &amp;amp; Mullainathan,
+2004). These studies demonstrate that implicit bias is rampant amongst even
+the most “objective” professions, like science and medicine. Additionally,
+they almost always deal with gender and race, two things we can usually
+identify from resumes, applications, and certainly in person. While this is an
+ugly problem, it is fairly simple to fix as long as we commit to the value
+that equally-qualified candidates should have equal opportunities. As some of
+these studies have shown, once the interviewer is blind to the gender or race
+of the applicant, they are more likely to make an objective and unbiased
+selection, at least in terms of proportions of men-women or black-white
+selected. This is also why I dub this a personal bias: once we take the biases
+of the interviewer out of the equation, the problem (largely) disappears and
+objectively better candidates are more likely to be successful.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Removing structural bias means selecting sub-optimally?&lt;/strong&gt;&lt;br /&gt;
+Which brings me to the latter, and more difficult issue to tackle, and one
+that is discussed in the blog post I referenced above: structural biases.
+Structural (or systematic) biases are caused by systematic and historical
+issues in our society that makes one group of people more likely to be
+objectively qualified than another. In the context of academic research, a
+more qualified candidate will have, in order of importance: more research
+experience in labs during undergrad (or even high school), better
+recommendation letters from well-known researchers in the field, more well-
+rounded extracurriculars, better GPA, and potentially better GRE scores. If I
+was trying to choose grad students for my lab, of course I would more likely
+pick someone that has demonstrably proven that they can do good research, and
+I’ll happily make the selection while blinded to their gender and race. The
+problem, though, is that these qualifications are more likely to belong to
+someone that comes from a higher socioeconomic background, or colloquially,
+people with “privilege”. This is really not a contentious
+&lt;a href=&quot;http://www.nature.com/news/is-science-only-for-the-rich-1.20650&quot;&gt;fact&lt;/a&gt;: if a
+high school or college student has to work a part time job to support
+themselves or their family, can we even expect them to have as much time to
+study for their exams, much less take an active interest in research and
+athletics? Here, we are faced with two difficult questions: first, are the
+more qualified candidates not deserving of pursuing their science dreams,
+since, after all, they still had to work hard for the things they’ve
+accomplished? And second, are the less qualified candidates less deserving,
+because they will make lesser scientists in the future? I think the answer to
+both is no, but the difficulty of these questions lies in the fact that they
+cannot be normalized by blinding yourself, the interviewer, to color and
+gender alone, but it is rather a choice we have to make collectively and
+consciously, after we figure out what our values are and what we are trying to
+accomplish.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Let’s clearly define our objectives&lt;/strong&gt;&lt;br /&gt;
+So what are we trying to accomplish? On the one hand, it is simply trying to
+select the best prospective student possible. If this is the case,
+statistically speaking, it’s better to pick someone that has better
+credentials, no question. There might be candidates that are diamond-in-the-
+rough kinds of bets, or maybe their story speaks to you personally such that
+you believe they possess the character, if not the expertise, to be a good
+scientist in the lab and a better person in the future. These are, for the
+most part, rare personal choices that have implications for only the personnel
+involved. On the other hand, there is the problem of placing underrepresented
+groups into positions of power, so that the cycle of systematic oppression
+does not continue. It is about giving poor and underrepresented people quality
+education and critical thinking skills so that they can hopefully help their
+community in the future. If this is what we aim to accomplish, and I believe
+we should, then we need to be upfront to ourselves and everybody involved that
+we, at any given time, may not be trying to find the most qualified candidate
+for graduate school or an important position in the government. It is
+certainly a priority to place competent people into jobs where others depend
+on them, but perhaps the number one priority is consciously equalizing the
+disproportionate representation of different gender, race, and more
+importantly, socioeconomic groups. This means having admission quota, and it
+means selecting under-qualified candidates over more qualified ones, and that
+is exactly the point. But more importantly, we have to be honest with
+ourselves about what we want to achieve, because what doesn’t make sense is to
+say that we are battling inequalities, but then filling race or gender quotas
+with students whose parents are doctors or lawyers, and did undergraduate
+research under a Nobel Prize winner in an Ivy League school. Like I said,
+affirmative action in the form of student quotas is a first step towards
+consciously counterbalancing inequities, because intersectionality exists and
+there is a correlation between, for example, race and income. However, to say
+that quotas simultaneously select for the best candidates and try to equalize
+existing disparities is, if not disingenuous, then completely missing the
+point.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why bother?&lt;/strong&gt;&lt;br /&gt;
+To end, I think it’s worth talking briefly about why one might want to tackle
+structural inequalities, especially in science. One argument against it, for
+example, is that hardworking parents should be able to transfer those
+privileges gained to their children. If I’m an immigrant and broke into the
+elite ranks of doctorhood or lawyerhood, why should my children be punished
+for the position I’ve actively put them in where they don’t have to face the
+hardship I’ve faced? Anecdotally, I find this attitude most common in Asian
+technical immigrants, because they often start out dirt poor in North America
+but rarely get recognized as a legitimate minority groups, so in a way, they
+get the short end of both deals. I don’t have a good response to that, other
+than I think it’s perhaps the right thing to do to give up some privileges for
+the betterment of society as a whole, and getting snubbed for Harvard or
+Stanford and ending up at UCLA is really not that big of a problem. What is a
+problem, however, is a lack of diversity in higher education, as well as in
+decision making roles in the government. White dudes with private endowments,
+to be fair, made significant contributions to mathematics and physics for most
+of the last 2 or 3 centuries. But we are now at a point in society where
+different groups of people can and do bring significantly different - and
+valuable - perspectives in tackling challenging scientific and societal
+problems, and those perspectives are crucial in recognizing, sometimes
+literally, that a &lt;a href=&quot;https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms#t-210362&quot;&gt;problem
+exists&lt;/a&gt;.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">For week of May 22</summary></entry><entry><title type="html">20/52: On the reproducibility crisis and how theory in neuroscience can help to avert it</title><link href="http://localhost:4000/2017-5-20-2052-how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis/" rel="alternate" type="text/html" title="20/52: On the reproducibility crisis and how theory in neuroscience can help to avert it" /><published>2017-05-20T00:00:00-07:00</published><updated>2017-05-20T00:00:00-07:00</updated><id>http://localhost:4000/2017-5-20-2052-how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis</id><content type="html" xml:base="http://localhost:4000/2017-5-20-2052-how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis/">&lt;p&gt;This is the second of a series of posts where I talk about the current state
+of science, and today’s in particular will begin by looking at the
+reproducibility crisis, and how a seemingly technical problem can give rise to
+this real-world issue.&lt;/p&gt;
+
+&lt;p&gt;I was sitting in lecture for the class that I’m TAing this quarter last night&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;introduction to data science - and we began to talk about the current
+reproducibility crisis in science. The fact that reproducibility has been an
+issue, especially in biological and psychological sciences, is not news to me.
+In the last couple of years, there have been various accounts of this
+particular problem in the media, as well as scrutiny from the scientific
+community (see &lt;a href=&quot;http://www.nature.com/news/1-500-scientists-lift-the-
+lid-on-reproducibility-1.19970&quot;&gt;here&lt;/a&gt;, and an analytical explanation for
+neuroscience specifically
+&lt;a href=&quot;http://www.nature.com/nrn/journal/v14/n5/abs/nrn3475.html&quot;&gt;here&lt;/a&gt;). What
+caught my eye, though, was the graphic below, taken from the accompanying
+article from the
+&lt;a href=&quot;http://www.economist.com/news/briefing/21588057-scientists-think-
+science-self-correcting-alarming-degree-it-not-trouble&quot;&gt;Economist&lt;/a&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_591fe4f015cf7d684f0745e9_1495262463305__img.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;False Positive Results by Chance&lt;/strong&gt;&lt;br /&gt;
+Briefly, this schematic aims to explain why there seems to be so many false
+positive (hence irreproducible) findings in science. They begin with the
+assumption that most scientific hypotheses are false, and only a small
+fraction (10% here) of them will turn out to be correct after data is gathered
+through experiments (panel 1). This seems consistent with intuition, since
+most of our ideas will turn out to be crap, and a lot of experiments simply
+don’t work out. This is now purely personal speculation, but there seemed to
+be a kind of a golden-age of science - at least in biology - where fundamental
+and groundbreaking results were discovered in a flurry in the 80s and 90s.
+Nowadays, it seems harder to find the golden needle in a stack of hay, hence
+most of our hypotheses - the ones that we were so convinced would work after 3
+beers with the lab - are probably wrong.&lt;/p&gt;
+
+&lt;p&gt;Panel 2: even with careful statistical analysis, an experiment has the
+possibility of returning a false positive or false negative result. For
+example, if we hypothesize that eating strawberries makes your brain larger,
+we will set out to gather data and test this relationship. We often use a
+p=0.05 threshold for significance, meaning that if there was indeed no real
+relationship between strawberries and brain size, then only 5% of the time
+will our experimental data - given the threshold we set - produce an effect
+large enough BY CHANCE that we then go on to interpret as true. It follows,
+then, that 5% of all false hypotheses will return positive results by chance,
+not out of misconduct (45 out of 900). Similarly, a portion of actually
+positive findings (true hypotheses) will be deemed false after our
+experiments, also by chance (20% of 100 = 20). So in the end, we end up with
+80 (true positive) + 45 (false positive) = 125 positive findings.&lt;/p&gt;
+
+&lt;p&gt;Panel 3: of course, overwhelmingly, it is positive findings that actually make
+it out of the lab, so that we can make another headline that reads “Scientists
+discover _____”. Now, if we go back and re-examine these 125 discoveries, it’s
+likely that we will not be able to reproduce the majority of those 45 false
+positives (hard to get lucky twice). Hence, it seems that science is in a dire
+reproducibility crisis, since around a third of the positive findings cannot
+be reproduced by independent labs. There are real and systematic problems that
+make this happen. For example, bad incentive structures where a scientist is
+judged only by publications and citation counts will want to publish as much
+as possible to get grant funding and tenure so they can keep doing the science
+they love. In very few instances are these actually due to misconduct and
+conscious malpractice, and the scientific process was designed to catch these
+kinds of errors anyway. However, over time, sloppy standards get sloppier at
+no fault of any individual, and no one would bother to try to reproduce a work
+because reproducing someone else’s exciting finding won’t get you nearly as
+much recognition, so why not invest these precious grant dollars more
+efficiently? These are problems that most scientists acknowledge and lament,
+and wish to be different (I believe), so I won’t belabor the point here,
+though I may write a separate post about these larger issues.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How Theory Can Save Us&lt;/strong&gt;&lt;br /&gt;
+What I want to focus on is a new insight I stumbled upon while looking at this
+illustration: people can’t publish null findings. This fact is old as time
+itself, and even has its own name: &lt;strong&gt;publication bias&lt;/strong&gt;. It describes the
+situation where the result of an experiment influences whether it will get
+published, and most of the time it’s towards a positive bias. In other words,
+only “discoveries” tend to get published. I was exposed to and made wary of
+this the day I started graduate school, because neuroscience as a field seems
+to be one of the worst offenders of this. Almost every single person in the
+scientific community laments this, though efforts have definitely been made to
+curb this practice via mechanisms like pre-registration, where one shares the
+plan of an experiment prior to actually conducting it, clearly stating the
+hypothesis and expected finding. Publication bias is so pervasive that I never
+really stopped to think about why null findings are unsexy and unpublishable,
+until I saw that second panel in the schematic, and realized just how many
+more null findings there probably are compared to positive findings, and how
+much value these results would add to our body of knowledge about the brain at
+large.&lt;/p&gt;
+
+&lt;p&gt;But why aren’t these null findings published? Essentially, it boils down to
+one thing: null findings are unsexy because it doesn’t tell you anything
+informative. But failure to find anything is not uninformative on its own - it
+is only so because there is no theory behind why it should have NOT failed.
+Put it another way: if we think of most neuroscience experiments as fishing
+expeditions (biology is stamp-collecting, after all), going out into a random
+patch of sea and casting your net and not getting a single fish is not that
+surprising, therefore not very informative. However, if you are in the same
+patch of sea, lowered an empty bucket, and proceeded to not raise any water,
+this would be pretty informative, and certainly publishable. Why? Because our
+theory about the sea, water, and physics tells us that we really should expect
+to get water, and thus not getting water with a bucket means either: a) your
+bucket is leaking, b) physics is broken. Think about it: if in a well-
+conducted and well-controlled physics experiment that you found that an object
+did not drop to the ground after release, you wouldn’t just say, “oh well,
+just another failed experiment, back to the lab tomorrow.” No, you would
+probably publish a Nature paper saying you found a spot on Earth where there
+is no gravity. Expectations built from theory, or the lack thereof, is
+precisely what makes null findings informative or uninformative. If we have
+some expectations for how a neuroscience experiment would go - I’m not just
+talking about a hypothesis, I’m talking about the quantitative and falsifiable
+explanation we have in our heads FOR that hypothesis - then a positive and a
+negative finding would be equally informative. In fact, a negative finding is
+probably MORE informative, because it means your theory needs to be revised,
+which forms the basis of falsifiable science. But if we have no theory? A null
+finding is just another empty trip out to sea.&lt;/p&gt;
+
+&lt;p&gt;How will this help with the reproducibility crisis? Well, I think if we
+started to build actual neuroscientific theories that we believe in and can
+work with in a quantitative way, we will slowly be rid of the publication
+bias. After all, the most valuable artifact of physics is not the collection
+of empirical observations that we gathered in the last 200 years, it is the
+set of generalizable and useful theories we were able to abstract from and
+refine with the help of those observations. Similarly, a coherent theoretical
+framework in neuroscience and biology will shift the focus away from stamp-
+collecting and towards knowledge-building. Once the community at large accepts
+and values works that falsify theories or reproduce existing evidence, then we
+can move towards a sustainable incentive structure&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">This is the second of a series of posts where I talk about the current state of science, and today’s in particular will begin by looking at the reproducibility crisis, and how a seemingly technical problem can give rise to this real-world issue.</summary></entry><entry><title type="html">19/52: On Arrival, Sapir-Whorf, and Reading Fiction</title><link href="http://localhost:4000/2017-5-15-1952-on-arrival-sapir-whorf-and-reading-fiction/" rel="alternate" type="text/html" title="19/52: On Arrival, Sapir-Whorf, and Reading Fiction" /><published>2017-05-15T00:00:00-07:00</published><updated>2017-05-15T00:00:00-07:00</updated><id>http://localhost:4000/2017-5-15-1952-on-arrival-sapir-whorf-and-reading-fiction</id><content type="html" xml:base="http://localhost:4000/2017-5-15-1952-on-arrival-sapir-whorf-and-reading-fiction/">&lt;p&gt;(Cover image source: Arrival)&lt;/p&gt;
+
+&lt;p&gt;When I was younger - I’m talking about middle-school age - I read all sorts of
+books for fun. Captain Underpants, Artemis Fowl, and Harry Potter immediately
+come to mind. As I grew older, though, I stopped reading fictions altogether,
+and the little leisure reading I did do, I read almost exclusively non-fiction
+or facts-of-the-world types of books. Not only did I stop reading fiction, I
+took pride in not wasting time on stories. After all, if I wanted to entertain
+myself with a good story, I can watch a movie in a tenth of the time, and I
+can use the other nine tenths to learn some more math and science (NERD!).
+This was partly because I was actually very busy studying math and sciences,
+and partly because I hated high school English so much that I thought it would
+turn me off reading forever, not understanding that people can actually enjoy
+reading Shakespeare and other literary works without explicitly analyzing the
+iambic pentameters and centuries-old metaphors. In any case, after a 10-year
+drought, I started reading leisurely again since last fall, because I now have
+an hour-long bus commute as a part of my day. At first, I read just as a way
+to relax and get away from my usual riveting readings about neuroscience. But
+slowly, I have to say, I realized that reading works of literature and seeing
+how words can be combined in different ways to describe feelings has literally
+changed the way I experience the world, and the way I experience myself.&lt;/p&gt;
+
+&lt;p&gt;If you’ve seen the film Arrival, or read the book, you will know that the
+premise of the story is that a linguistic professor was able to experience
+time in nonlinear ways due to the nonlinear alien language she learned. If you
+haven’t, don’t worry - that’s not quite enough to spoil the movie and it’s
+still worth a watch. While the notion that anything can warp our perception of
+time might take some stretch of imagination, the idea that language shapes the
+way we think does not. In fact, the movie itself cites the &lt;a href=&quot;https://en.wikipedia.org/wiki/Linguistic_relativity&quot;&gt;Sapir-Whorf
+hypothesis&lt;/a&gt;, or the
+theory of linguistic relativity. I must say, when I heard Amy Adams make
+explicit reference to it, I felt a tiny geeky giddiness, because I actually
+learned about this in graduate school. It’s the same giddiness I got when I
+saw Johnny Depp trying to upload his mind into a computer in Transcendence,
+even though that movie made no f-ing sense. Anyway, my understanding of
+linguistic relativity pales in comparison to some of my friends and peers that
+are actually conducting research on this very topic, but the gist of it is
+that language is &lt;strong&gt;necessary&lt;/strong&gt; for complex thoughts, the thoughts we have
+depend greatly on the language we speak, and different cultures “think
+differently”, in a way, because of the different languages they speak. When I
+first learned about this theory three years ago, it was pretty easy to digest,
+and made no great impression on me. After all, it was not at all surprising to
+think that a native Chinese speaker would think in Chinese, and because of the
+difference in vocabulary, some concepts and cultural customs are simply not
+transferable to an English speaker. But I think I took it too literally, and
+re-learning the theory once again through a movie, during a time that I am, in
+a way, learning a new language through literary works, made me appreciate it
+so much more.&lt;/p&gt;
+
+&lt;p&gt;In essence, language is not only a tool that we use to outwardly describe
+concepts and thoughts to others, it is also the primary tool that we use to
+communicate to ourselves - through thoughts. Furthermore, language literally
+gives us access to some concepts that would otherwise not exist. In other
+words, annotating something for the first time with language defines and
+“creates” it, especially if this “something” cannot be captured with any other
+sensory modalities. For example, if we did not have a word for apples, it’s
+something that can still be materialized in our thoughts by ways of imagining
+its sight, smell, taste, and the sound the fruit makes when we bite into it.
+In that way, even though it will be a lot more difficult when you try to tell
+someone you want to buy an apple, the concept itself can (probably?) still
+exist, its meaning anchored through our senses. On the other hand, for
+something as abstract and fleeting as an emotion or feeling, it’s quite
+difficult to capture without words. Try to think about “sadness” without using
+the word, you will probably need to resort to a bodily feeling, like a
+tightness in your chest, or some previous memory that put you in that state of
+mind, like when you dropped a perfectly good ice cream cone. Some people are
+incredibly apt at relating their previous emotional experiences to new ones,
+such that old memories of the same feeling can serve as an anchor, and perhaps
+this is the skill (or talent) of empathy. Unfortunately, I am not such a
+person, and my emotional memory is very limited, both in detail and in how far
+back I can remember, so I can’t really rely on that to process even my own
+feelings time and time again, much less intuitively understand someone else’s.
+In fact, I thought emotions were so uncomplicated that I actively maintained
+that there are, scientifically speaking, only 6 elementary and &lt;a href=&quot;https://en.wikipedia.org/wiki/Paul_Ekman#Emotions_as_universal_categories&quot;&gt;universal
+emotions&lt;/a&gt;
+that can be described with single English words (happy, sad, angry, etc.).&lt;/p&gt;
+
+&lt;p&gt;For that reason, reading about detailed and intricate descriptions of how
+fictional characters feel, contextualized in the larger story where I
+understand their origins and goals and dreams and fears, has really opened my
+eyes to how &lt;strong&gt;I feel&lt;/strong&gt; , and in turn, how others might feel. Many a times, I
+have read a passage with the joyous feeling that, not only does someone else -
+someone wielding this pen - understand precisely how I’ve felt before, but
+that they gave me the words so that I can for the first time understand how I
+feel myself. It’s crazy. I recently finished reading All the Light We Cannot
+See, and I wrote a&lt;a href=&quot;http://www.rdgao.com/blog/2017/4/17/1552-language-beetles-bruce-lee-
+all-the-light-we-cannot-see&quot;&gt; few
+weeks&lt;/a&gt; ago about a particular passage that feels so
+mundane, yet it’s so accurate in its description of the frustration and
+helplessness one feels while trying to read under distraction - even though it
+never used those words. Another example: I am nearing the end of the Glass
+Bead Game by Hermann Hesse, and the subtle descriptions of Joseph Knecht’s
+tranquility and sorrow simply cannot be substituted by the words “content” and
+“sad”. Without delving too much into the book, I feel like I’ve learned for
+the first time that it is possible to think and feel at the same time, and in
+turn how I can process other people’s simultaneous thoughts and feelings on
+the fly. To me, it feels like wiping the condensation off of my mirror for the
+first time and seeing a part of myself I’ve never seen before. And with that,
+I feel like I understood the Sapir-Whorf hypothesis just a little more, and
+I’m pleasantly surprised that it actually has implications in my own personal
+life. Actually, the idea that reading quality literature gives you a window
+into someone else’s feelings is not new: I remember reading
+&lt;a href=&quot;http://www.rdgao.com/blog/2017/4/17/1552-language-beetles-bruce-lee-
+all-the-light-we-cannot-see&quot;&gt;this&lt;/a&gt; a few years ago but apparently completely forgot
+about it, probably during a time where I thought: “leisure reading? hah,
+that’s nice.” But evidently there is scientific support for the theory that
+literature can make you more empathetic to the feelings of others.&lt;/p&gt;
+
+&lt;p&gt;Extending this away from feelings and into a broader context: can you imagine
+a world without concepts of freedom, justice, and democracy? Well, I’m
+starting 1984, so I guess I will soon find out.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">(Cover image source: Arrival)</summary></entry></feed>
