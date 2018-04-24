@@ -16,7 +16,7 @@ description              : "Seeking the mind in the brain. Posts about computati
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/teaser_placeholder.JPG # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/sun.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Richard Gao"
   avatar           : /assets/images/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Seeking the mind in the brain. Opinions are my past self's - may disagree in the future."
+  bio              : "Seeking the mind in the brain. Opinions are my past self's and may come with expiration date."
   location         : "San Diego | Toronto"
   email            :
   uri              :
@@ -128,7 +128,6 @@ include:
   - _pages
 exclude:
   - extras
-  - _posts
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
@@ -261,7 +260,10 @@ defaults:
       comments: # true
       share: true
       related: true
-      classes: wide
+      classes:
+        - wide
+      sidebar:
+        nav: "docs"
 
 
   # _pages

@@ -5,25 +5,19 @@ main:
     description: "About Me"
   - title: "Blog"
     url: /blog/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   - title: "Projects"
     url: /projects/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
 
 docs:
   - title: "Blog Posts by Topic"
     children:
       - title: "Mind & Brain"
-        url: /docs/quick-start-guide/
-      - title: "Science"
-        url: /docs/installation/
-      - title: "Traveling"
-        url: /docs/upgrading/
-      - title: "Books"
-        url: /docs/upgrading/
+        url: /categories/#neuroscience
+      - title: "Data & Science"
+        url: /categories/#science
+      - title: "Books & Readings"
+        url: /categories/#readings
+      - title: "Travels"
+        url: /categories/#travels
       - title: "Musings"
-        url: /docs/structure/
+        url: /categories/#random

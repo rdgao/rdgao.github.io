@@ -1,8 +1,13 @@
 ---
-layout: archive
+layout: single
 permalink: /categories/
 title: "Posts by Category"
 author_profile: true
+classes:
+  - wide
+sidebar:
+  nav: "docs"
+read_time: False
 ---
 
 {% include group-by-array collection=site.posts field="categories" %}
