@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "[ Mind From Matter ]"
+title                    : "Mind From Matter"
 title_separator          : " | "
 name                     : "Richard Gao"
-description              : "Seeking the mind by looking at the brain. Posts about me, computational neuroscience, cognitive science, and life."
+description              : "Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and other things in life."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Richard Gao"
   avatar           : /assets/images/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineering in my last life. Neuroscience in my current life. Who knows what happens when I wake up tomorrow?"
+  bio              : "Seeking the mind in the brain. Opinions are my past self's - may disagree in the future."
   location         : "San Diego | Toronto"
   email            :
   uri              :
@@ -127,6 +127,8 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - extras
+  - _posts
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor

@@ -3,7 +3,7 @@ title: '26/52: Our thin layer of existence.'
 categories: []
 tags: []
 status: publish
-type: post
+type: posts
 published: true
 meta: {}
 ---
@@ -166,4 +166,3 @@ It really makes me question, even now, the extent of other kinds of cognition,
 beyond our simply human ideals.
 
 After all, we are but a thin layer of existence in a much, much larger whole.
-

@@ -6,3 +6,24 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+// SCSS overrides
+.greedy-nav {
+  background-color: white;
+  //height:0px;
+  a {
+    color: black;
+  }
+};
+.masthead {
+  background-color: white;
+  border-bottom: 3px solid grey;
+  //height:0px;
+}
+
+html {
+  font-size: 1.25em;
+}
+//background: black;
+//#height: 50px;

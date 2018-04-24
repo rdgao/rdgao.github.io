@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "About Me"
+  - title: "About"
     url: /about/
-    description: "About"
+    description: "About Me"
   - title: "Blog"
     url: /blog/
   # - title: "Sample Posts"
@@ -15,15 +15,15 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: "Posts by Topic"
+  - title: "Blog Posts by Topic"
     children:
-      - title: "Brain"
+      - title: "Mind & Brain"
         url: /docs/quick-start-guide/
-      - title: "Musings"
-        url: /docs/structure/
       - title: "Science"
         url: /docs/installation/
       - title: "Traveling"
         url: /docs/upgrading/
       - title: "Books"
         url: /docs/upgrading/
+      - title: "Musings"
+        url: /docs/structure/
