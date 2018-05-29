@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Mind From Matter"
 title_separator          : " | "
 name                     : "Richard Gao"
-description              : "Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and other things in life."
+description              : "Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Richard Gao"
   avatar           : /assets/images/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Seeking the mind in the brain. Opinions are my past self's and may come with expiration date."
+  bio              : "Seeking the mind in the brain (and sometimes in other things). Opinions are my past self's and may come with expiration date."
   location         : "San Diego | Toronto"
   email            :
   uri              :
@@ -260,8 +260,8 @@ defaults:
       comments: # true
       share: true
       related: true
-      classes:
-        - wide
+      #classes:
+      #  - wide
       sidebar:
         nav: "docs"
 

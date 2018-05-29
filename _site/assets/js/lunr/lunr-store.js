@@ -315,17 +315,12 @@ var store = [{
         "url": "http://localhost:4000/2017-9-18-2552-first-research-paper-published/",
         "teaser":"http://localhost:4000/assets/images/sun.jpg"},{
         "title": "26/52: Our thin layer of existence.",
-        "excerpt":"Hawaii was an absolute treat for the senses, where almost every single day wewitnessed something that was breathtaking: be it the sun setting into theinfinite expanse of the orange horizon, the warm saltiness of the sea water onthe skin that’s just cool enough to alert the peripheries, or the chirping...","categories": [],
+        "excerpt":"Hawaii was an absolute treat for the senses, where almost every single day wewitnessed something that was breathtaking: be it the sun setting into theinfinite expanse of the orange horizon, the warm saltiness of the sea water onthe skin that’s just cool enough to alert the peripheries, or the chirping...","categories": ["Travels"],
         "tags": [],
-        "url": "http://localhost:4000/2017-10-8-2652-our-thin-layer-of-existence/",
-        "teaser":"http://localhost:4000/assets/images/sun.jpg"},{
+        "url": "http://localhost:4000/travels/our-thin-layer-of-existence/",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg"},{
         "title": "Year 3 (and a half): TIL my PhD is Flappy Bird.",
-        "excerpt":"It’s January of 2018. 40 months after I started my PhD. Wow. I know people saythat the years feel shorter as you get older, but these days are just zippingby way too fast. I realized somewhere in October that I forgot to write one ofthese for my third year, and...","categories": [],
+        "excerpt":"It’s January of 2018. 40 months after I started my PhD. Wow. I know people saythat the years feel shorter as you get older, but these days are just zippingby way too fast. I realized somewhere in October that I forgot to write one ofthese for my third year, and...","categories": ["Reflection","Science"],
         "tags": [],
-        "url": "http://localhost:4000/2017-12-17-year-3-and-a-half/",
-        "teaser":"http://localhost:4000/assets/images/sun.jpg"},{
-        "title": "First post!",
-        "excerpt":"Hi, my name is Bob.bold testingwhat is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I...","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/test-post/",
-        "teaser":"http://localhost:4000/assets/images/sun.jpg"}]
+        "url": "http://localhost:4000/reflection/science/year-3-and-a-half/",
+        "teaser":"http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"}]

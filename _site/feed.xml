@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-23T19:08:49-07:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and other things in life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">First post!</title><link href="http://localhost:4000/test-post/" rel="alternate" type="text/html" title="First post!" /><published>2018-02-09T21:01:15-08:00</published><updated>2018-02-09T21:01:15-08:00</updated><id>http://localhost:4000/test-post</id><content type="html" xml:base="http://localhost:4000/test-post/">&lt;p&gt;Hi, my name is Bob.&lt;/p&gt;
-
-&lt;h1 id=&quot;bold-testing&quot;&gt;bold testing&lt;/h1&gt;
-
-&lt;p&gt;what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al. what is going on I don’t know markdown et al.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">First post on the new Jekyll-based website!</summary></entry><entry><title type="html">Year 3 (and a half): TIL my PhD is Flappy Bird.</title><link href="http://localhost:4000/2017-12-17-year-3-and-a-half/" rel="alternate" type="text/html" title="Year 3 (and a half): TIL my PhD is Flappy Bird." /><published>2018-01-16T00:00:00-08:00</published><updated>2018-01-16T00:00:00-08:00</updated><id>http://localhost:4000/2017-12-17-year-3-and-a-half</id><content type="html" xml:base="http://localhost:4000/2017-12-17-year-3-and-a-half/">&lt;p&gt;It’s January of 2018. 40 months after I started my PhD. Wow. I know people say
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-29T03:14:16-07:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">Year 3 (and a half): TIL my PhD is Flappy Bird.</title><link href="http://localhost:4000/reflection/science/year-3-and-a-half/" rel="alternate" type="text/html" title="Year 3 (and a half): TIL my PhD is Flappy Bird." /><published>2018-01-16T00:00:00-08:00</published><updated>2018-01-16T00:00:00-08:00</updated><id>http://localhost:4000/reflection/science/year-3-and-a-half</id><content type="html" xml:base="http://localhost:4000/reflection/science/year-3-and-a-half/">&lt;p&gt;It’s January of 2018. 40 months after I started my PhD. Wow. I know people say
 that the years feel shorter as you get older, but these days are just zipping
 by way too fast. I realized somewhere in October that I forgot to write one of
 these for my third year, and all of a sudden, we’re in 2018. So I’m late, what
@@ -17,12 +13,13 @@ already (one paper, one conference submission). I’m still learning how to
 process these things, but what you will read below is my take on some wisdom I
 received through reading. The second part contains habits and lifestyle
 changes I’ve acquired over the last year or so, that I think contributed
-positively to my general well-being. &lt;strong&gt;Disclaimer&lt;/strong&gt; : none of what you’re
-about to read are meant to be advice, they’re more or less just entertaining
-chronicles of my graduate school adventure. But if you happen to find them
-useful or comforting, that’s all the better!&lt;/p&gt;
+positively to my general well-being.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_5a5d4b4d71c10bc0942c22ae_1516063641764_Screen+Shot+2018-01-15+at+4.43.58+PM.png.58+PM.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: none of what you’re about to read are meant to be advice, they’re more or less just entertaining chronicles of my graduate school adventure. But if you happen to find them useful or comforting, that’s all the better!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;500&quot; src=&quot;/assets/images/blog/2018-01-16-year3-flappybird.png&quot; /&gt;
+&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -126,10 +123,8 @@ feeling has not gone away, and to be honest, I don’t think it ever will. So my
 new resolution is just to embrace this feeling, and embrace the fall.
 Something else that helped is the Buddhist perspective (or philosophy?) that
 even “negative” emotions and events can be observed, appreciated, and
-understood (I really like Thich Nhat Hanh’s writing about this in &lt;a href=&quot;https://www.amazon.com/Being-Peace-Thich-Nhat-
-Hanh/dp/188837540X/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;amp;qid=1515982322&amp;amp;sr=8-1&quot;&gt;Being
-Peace&lt;/a&gt;),
-and that’s an invaluable treasure in life, just as the happy moments are.&lt;/p&gt;
+understood (I really like Thich Nhat Hanh’s writing about this in &lt;a href=&quot;https://www.amazon.com/Being-Peace-Thich-Nhat-Hanh/dp/188837540X/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;amp;qid=1515982322&amp;amp;sr=8-1)&quot;&gt;Being
+Peace&lt;/a&gt;, and that’s an invaluable treasure in life, just as the happy moments are.&lt;/p&gt;
 
 &lt;p&gt;(As I finish writing this, I am realizing that the falling process I described
 as getting a PhD is basically &lt;a href=&quot;http://flappybird.io/&quot;&gt;Flappy Bird&lt;/a&gt; rotated 90
@@ -223,22 +218,22 @@ sense, because that’s what people in wet labs do. I guess I just felt that
 computational stuff happens so quickly that it’s not worth writing down. But
 hey, even if it doesn’t matter, seeing a full notebook definitely makes me
 feel good even if nothing concrete came out of it yet, and that, my friends,
-is the word of the day today.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">It’s January of 2018. 40 months after I started my PhD. Wow. I know people say that the years feel shorter as you get older, but these days are just zipping by way too fast. I realized somewhere in October that I forgot to write one of these for my third year, and all of a sudden, we’re in 2018. So I’m late, what else is new.</summary></entry><entry><title type="html">26/52: Our thin layer of existence.</title><link href="http://localhost:4000/2017-10-8-2652-our-thin-layer-of-existence/" rel="alternate" type="text/html" title="26/52: Our thin layer of existence." /><published>2017-10-16T00:00:00-07:00</published><updated>2017-10-16T00:00:00-07:00</updated><id>http://localhost:4000/2017-10-8-2652-our-thin-layer-of-existence</id><content type="html" xml:base="http://localhost:4000/2017-10-8-2652-our-thin-layer-of-existence/">&lt;p&gt;Hawaii was an absolute treat for the senses, where almost every single day we
+is the word of the day today.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Year 3 is done! Here's to half a PhD.</summary></entry><entry><title type="html">26/52: Our thin layer of existence.</title><link href="http://localhost:4000/travels/our-thin-layer-of-existence/" rel="alternate" type="text/html" title="26/52: Our thin layer of existence." /><published>2017-10-16T00:00:00-07:00</published><updated>2017-10-16T00:00:00-07:00</updated><id>http://localhost:4000/travels/our-thin-layer-of-existence</id><content type="html" xml:base="http://localhost:4000/travels/our-thin-layer-of-existence/">&lt;p&gt;Hawaii was an absolute treat for the senses, where almost every single day we
 witnessed something that was breathtaking: be it the sun setting into the
 infinite expanse of the orange horizon, the warm saltiness of the sea water on
 the skin that’s just cool enough to alert the peripheries, or the chirping of
 countless &lt;a href=&quot;https://www.youtube.com/watch?v=TA_9_zAK5sA&quot;&gt;coqui frogs&lt;/a&gt; going in
 and out of synchrony while the jungle leaves rustle peacefully under the
 backdrop of the star-lit night. Words are not enough to really convey these
-perceptions, and to be honest, neither are pictures, but &lt;a href=&quot;/hawaii-2017&quot;&gt;we tried
+perceptions, and to be honest, neither are pictures, but &lt;a href=&quot;/gallery/hawaii-2017&quot;&gt;we tried
 anyway&lt;/a&gt;. One idea that cannot be conveyed without words,
 however, is the feeling of our minuteness I got - both me personally and human
 lives in general - when I witnessed just a little more of the world around us.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59dda9cebce1760a7e0dfab7_1507699199239_Hawaii+Select+-+5+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59dda9f64c326d14dfcd4c6a_1507699235386_Hawaii+Select+-+50+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddaa1ccf81e07216c16cbd_1507699407914_Hawaii+Select+-+64+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddaa4a8419c208bc2dcbbc_1507699407923_Hawaii+Select+-+91+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-hanauma.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-mauisunset.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-road2hana.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-haleakala.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Traveling to new places is always an eye opening experience, especially when
 immersed in the ecology and culture of a foreign place. This was different,
@@ -268,10 +263,7 @@ emerge in the middle of the ocean? I didn’t know, though, that there are
 &lt;strong&gt;active&lt;/strong&gt; volcanoes on the Big Island. That fact seems routine enough when
 you read about it, but being there and witnessing it is another thing. We
 visited the Volcano National Park, where the &lt;a href=&quot;https://en.wikipedia.org/wiki/Halemaumau_Crater&quot;&gt;Halemaumau
-Crater&lt;/a&gt; spews out a thick
-stream of never-ending smoke during the day, and transforms into a scary
-demonic pit at night. The park itself is a huge area of land that surrounds
-the crater, as well as the aftermath of some of the more explosive eruptions
+Crater&lt;/a&gt; spews out a thick stream of never-ending smoke during the day, and transforms into a scary demonic pit at night. The park itself is a huge area of land that surrounds the crater, as well as the aftermath of some of the more explosive eruptions
 from a few decades ago. The landscape is incredibly eerie. It simultaneously
 makes me appreciate the wrath of Mother Earth, fear her swiftness in taking
 life away, and marvel at the incredible youth of the land beneath my feet and
@@ -279,10 +271,10 @@ its newly sprouted inhabitants. When I think of a young Earth, I think of
 spring and budding greens. But here, youth is charred black, porous, and
 honestly looks kinda deadly and downright alien.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddacaf8dd041bee6994591_1507699996961_Hawaii+Select+-+104+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddaca112abd91eb4f18d4f_1507700001562_Hawaii+Select+-+136+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddac77d2b8572ff2bfc8ac_1507699850831_Hawaii+Select+-+119+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddac88d55b41bc94aa7bb6_1507699869861_Hawaii+Select+-+126+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-crater.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-craternight.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-lavastone.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-infinitystone.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The youthfulness of the land was further exhibited the next night, when we
 went to the edge of the park where lava is pouring out down the slope of the
@@ -297,10 +289,10 @@ they stand on.&lt;/p&gt;
 
 &lt;p&gt;Shit I never ever think about.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddad9180bd5ee90873fd6e_1507700120818_Hawaii+Select+-+156+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddadca268b96261dbab038_1507700201669_Hawaii+Select+-+159+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddada8d7bdce34b0bb4ada_1507700147224_Hawaii+Select+-+158+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddadba8419c208bc2de3f0_1507700162742_Hawaii+Select+-+162+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-dragonmei.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-lavafolds.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-meditate.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-freshlava.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -327,18 +319,17 @@ brightly. Apparently, from Mauna Kea, one can see every star available in the
 northern half of the sky, and about 80-90% (?) in the southern sky, because,
 you know, it’s a tall ass mountain.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddafb50abd04ecb6253ac4_1507700669109_Hawaii+Select+-+190+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddafa8b7411c1345766363_1507700660924_Hawaii+Select+-+194+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddafbcccc5c5627a4a5c83_1507700676193_Hawaii+Select+-+191+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59ddafa5b7411c134576635b_1507700645876_Hawaii+Select+-+193+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-fog.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-inviscow.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-maunakea.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-maunakeaalt.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Standing under that diamond studded ceiling, we got to see a lot of
 astronomical phenomena firsthand, through our own eyes (and sometimes through
 a telescope). For example, there were guides at the visitor information center
 that set up small telescopes for the crowd to take a closer look at the stars,
 and I actually saw for the first time Saturn and its ring. It looks like a
-&lt;a href=&quot;http://www.deepskywatch.com/images/articles/see-
-in-telescope/saturn-in-small-scope-n.jpg&quot;&gt;miniature, cartoon version&lt;/a&gt; of the Saturn I’m used to seeing in
+&lt;a href=&quot;http://www.deepskywatch.com/images/articles/see-in-telescope/saturn-in-small-scope-n.jpg&quot;&gt;miniature, cartoon version&lt;/a&gt; of the Saturn I’m used to seeing in
 books and films: a small tilted ring encircling a smaller dot, both unicolor
 with a gray sheen. It was pretty neat. We also saw the ISS racing through the
 night sky in a perfect broad curve, and several shooting stars. By far the
@@ -361,12 +352,12 @@ opportunities to witness animals enjoying themselves, be it a manta ray
 tumbling around, a family of sea turtle surfing the current, or a pack of
 dolphins playing hide and seek with us in the bay.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45fda8dd041f0a6ca28c6_1508138981984_Hawaii+Select+-+145+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45fc6ccc5c56363c09810_1508138954496_Hawaii+Select+-+188+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45fe449fc2ba4f983fafc_1508138994243_Hawaii+Select+-+144+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45ff0e5dd5bb5c7d54e42_1508139001817_Hawaii+Select+-+81+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e45ffdf6576e84f90eb71f_1508139013423_Hawaii+Select+-+43+of+200.jpg_&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59e460032aeba55391b9a216_1508139020325_Hawaii+Select+-+35+of+200.jpg_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-yellowy.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-dolphin.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-sharp.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-turtle.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-beetle.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-manta.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As a surface-dweller, my idea of life is mostly concentrated around my
 altitude and on dry land. Rarely do my thoughts venture out into the other 70%
@@ -380,7 +371,7 @@ felt acknowledged and welcomed, and I hope I can do the same for them one day.
 It really makes me question, even now, the extent of other kinds of cognition,
 beyond our simply human ideals.&lt;/p&gt;
 
-&lt;p&gt;After all, we are but a thin layer of existence in a much, much larger whole.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Hawaii was an absolute treat for the senses, where almost every single day we witnessed something that was breathtaking: be it the sun setting into the infinite expanse of the orange horizon, the warm saltiness of the sea water on the skin that’s just cool enough to alert the peripheries, or the chirping of countless coqui frogs going in and out of synchrony while the jungle leaves rustle peacefully under the backdrop of the star-lit night. Words are not enough to really convey these perceptions, and to be honest, neither are pictures, but we tried anyway. One idea that cannot be conveyed without words, however, is the feeling of our minuteness I got - both me personally and human lives in general - when I witnessed just a little more of the world around us.</summary></entry><entry><title type="html">25/52: First research paper published!</title><link href="http://localhost:4000/2017-9-18-2552-first-research-paper-published/" rel="alternate" type="text/html" title="25/52: First research paper published!" /><published>2017-09-19T00:00:00-07:00</published><updated>2017-09-19T00:00:00-07:00</updated><id>http://localhost:4000/2017-9-18-2552-first-research-paper-published</id><content type="html" xml:base="http://localhost:4000/2017-9-18-2552-first-research-paper-published/">&lt;p&gt;Because I’m quite short on my 52 posts this year, I’m stealing this from the
+&lt;p&gt;After all, we are but a thin layer of existence in a much, much larger whole.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Hawaii was truly an eye-opening and life-changing experience.</summary></entry><entry><title type="html">25/52: First research paper published!</title><link href="http://localhost:4000/2017-9-18-2552-first-research-paper-published/" rel="alternate" type="text/html" title="25/52: First research paper published!" /><published>2017-09-19T00:00:00-07:00</published><updated>2017-09-19T00:00:00-07:00</updated><id>http://localhost:4000/2017-9-18-2552-first-research-paper-published</id><content type="html" xml:base="http://localhost:4000/2017-9-18-2552-first-research-paper-published/">&lt;p&gt;Because I’m quite short on my 52 posts this year, I’m stealing this from the
 &lt;a href=&quot;http://voyteklab.com/inferring-ei-balance-from-lfp/&quot;&gt;lab blog&lt;/a&gt; (which I
 wrote!). But hey! First research paper published, jeez what a long process…&lt;/p&gt;
 
@@ -1196,4 +1187,172 @@ literature can make you more empathetic to the feelings of others.&lt;/p&gt;
 
 &lt;p&gt;Extending this away from feelings and into a broader context: can you imagine
 a world without concepts of freedom, justice, and democracy? Well, I’m
-starting 1984, so I guess I will soon find out.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">(Cover image source: Arrival)</summary></entry></feed>
+starting 1984, so I guess I will soon find out.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">(Cover image source: Arrival)</summary></entry><entry><title type="html">18/52: Should all science have implications?</title><link href="http://localhost:4000/2017-5-6-1852-should-all-science-have-implications/" rel="alternate" type="text/html" title="18/52: Should all science have implications?" /><published>2017-05-07T00:00:00-07:00</published><updated>2017-05-07T00:00:00-07:00</updated><id>http://localhost:4000/2017-5-6-1852-should-all-science-have-implications</id><content type="html" xml:base="http://localhost:4000/2017-5-6-1852-should-all-science-have-implications/">&lt;p&gt;(Cover image source &lt;a href=&quot;http://www.azquotes.com/quote/87348&quot;&gt;here&lt;/a&gt; and I honestly
+don’t know if Einstein even said it.)&lt;/p&gt;
+
+&lt;p&gt;Edit: this is a sick video that shows basic curiosity-based (strange) science
+leading to unexpected dividends. He actually acknowledges this at 15:35 in the
+video. (Thanks Connor!)&lt;/p&gt;
+
+&lt;p&gt;I’ve recently been thinking a lot about the social side of science, including
+the current state of science in North America, public funding for science,
+public perception of science, science communication, and social
+responsibilities of scientists. Over the next few months, I plan on writing a
+number of posts that detail these haphazard reflections in an attempt to
+consolidate some meaningful take-aways. Today, I will start with this
+fundamental question about science: should all scientific investigations have
+an implication?&lt;/p&gt;
+
+&lt;p&gt;Let’s get the easy stuff out of the way first. I’m not asking whether all
+science &lt;strong&gt;will&lt;/strong&gt; have implications, because it invariably does. Even if you’re
+studying the most obscure thing, like how mussel clams produce glue to stick
+onto boats, the knowledge of the thing itself gives you an ability to predict
+and manipulate it, and that is an useful implication. Whether anybody else
+cares, or should care, is a different question. The question I’m asking today
+is not that, but rather: should we approach scientific investigations with a
+downstream implication in mind? This is a question I get a lot, and one that I
+ask myself quite often: what is the point of this particular line of research?
+If you work in the biological sciences, you probably know exactly what I’m
+talking about, and are no doubt well-versed in coming up with creative
+implications for your next grant, or perhaps your lab is established enough
+that you have a cookie-cutter template. In these cases, it’s almost always
+linked to diseases: how a gene, protein, or biological process may impact our
+understanding of a debilitating disease.&lt;/p&gt;
+
+&lt;p&gt;Why is this at all controversial, you might ask? After all, it is pretty
+reasonable that when we apply for grants that we justify what possible good it
+does for society, especially when we’re using tax money. Furthermore, engaging
+the public with what they care about - real life consequences - should only
+increase their support and interest in science. Ultimately, having some
+practical thoughts in mind about how your science might actually be useful is
+a good thing, right? Here, I would argue that searching and tacking on
+implications for a planned project much earlier than when we know what it
+could possibly imply has two serious negative consequences for science itself:
+the first social, the second scientific. I will situate both of these points
+in the context of neuroscientific research, but I believe they apply to
+biological research in general, though it seems that physical and computer
+science do not suffer as much from it (possibly a correlate of how much public
+money is dedicated to it).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The reviewer knows the game, the public does not.&lt;/strong&gt;&lt;br /&gt;
+It is important for the public to understand what science has meant for the
+world in the last 200 years or so, this is not really up for debate, because
+it is the truth. Almost every single artifact we interact with on a daily
+basis is the result of some scientific understanding of our world, manipulated
+and coaxed into being useful through engineering or clinical applications. The
+invisible fact that we live on average twice as long as we did a little over
+100 years ago is also a product of science. But consider this: out of those
+discoveries that aid in extending our life, how many of them were thought to
+have such an implications when the projects were proposed? Furthermore, how
+many similar projects and discoveries did not ultimately contribute directly
+to this particular consequence, but could have very well be argued as such?
+For this, I turn to the classic example of &lt;a href=&quot;https://en.wikipedia.org/wiki/Green_fluorescent_protein#Wild-
+type_GFP_.28wtGFP.29&quot;&gt;green fluorescent
+protein&lt;/a&gt; (GFP), because of how well it demonstrates the point and
+how absurdly and unimaginably different the discovery and the product are. GFP
+itself was discovered in the 60s, in a particular type of jellyfish that
+glows. Why someone was studying this thing, I really have no idea, though it’s
+probably because they thought glowing jellyfish were fascinating (they are).
+You can, of course, find accounts of this discovery via a simple Google
+search, so I will not elaborate here. What I &lt;strong&gt;can&lt;/strong&gt; tell you is that they did
+not study GFP because of its tremendous implications in biological sciences,
+and by extension, health sciences. It turns out, GFP and fluorescence
+microscopy are so ubiquitous in science these days that even first year
+undergrads get to play with it. Put your hand up if you honestly think you
+could’ve foreseen this coming in the 60s, I’d like to talk to you about
+investment strategies.&lt;/p&gt;
+
+&lt;p&gt;So why is this an issue for the public? Because selling something based on its
+potential implications that hit a soft spot in the heart of the general
+public, while not outrightly dishonest, does not generate good will,
+especially when they (almost always) fail to achieve the proposed implication.
+“But science is slow, and it takes patience!” you might say. True, though that
+is completely besides the point. After all, how many grant proposals, or
+interviews where a scientist talks about the potential impact of a discovery,
+actually state an estimated timeline where we will arrive at the projected
+implications, or even what the specific implication is? I read an article
+recently lamenting the poor return on investment of NIH money on neuroscience
+in the last decade or so, when it was hailed that such an injection of funding
+should push us forward in curing, or at least understanding, all kinds of
+mental and neurological disorders. How many of those have we cured or
+understood from beginning to end? If it’s not zero, then it’s definitely
+countable on one hand. From a scientific point of view, that is of course
+completely reasonable, if not expected. Science IS slow, and it DOES take
+patience. It’s not a magic-circle where you can throw money in and get cures
+out. Over time, all the talk about implication this and implication that,
+while we under-deliver over and over again to the public, will and has eroded
+the public’s perception of science. This is in part due to a lack of proper
+education about the scientific process itself, thus setting up an unrealistic
+expectation on what science delivers. Scientific research is not the same as
+industrial research, but it’s starting to feel like it more and more, and
+scientists are not helping our own case when we suggest implications that we
+&lt;strong&gt;know&lt;/strong&gt; are so far off in the future we might as well not state it. Alas, at
+the end of the day, it is something we are all guilty of, because it’s part of
+the “game” to get funding and get published. Until the incentives change
+drastically, it may be the only way to keep doing science. It is simply
+recommended that, in the process of playing the game for our grant or paper
+reviewers, that we do not fool ourselves, nor the good people of the world
+into thinking that what we promised might actually be delivered in any
+reasonable amount of time. And it could serve us well to be plainly and
+painfully honest sometime to just say: “well, I can’t really tell you what the
+implication is, and I don’t really care if there is one. But rest assured that
+when we figure this thing out from top to bottom, someone somewhere WILL come
+up with something useful to do with it.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadmaps limit imagination&lt;/strong&gt;&lt;br /&gt;
+Working with future implications in mind is counter to the concept of science
+itself. What do I mean by that? Science, to me, is the undirected examination
+of a phenomenon or object in nature for the sole purpose of understanding it
+and satisfying a weird curiosity. Sure, this is just semantics, and what I
+personally think science is or ought to be really doesn’t matter as long as
+it’s productive. Therefore, I would further argue that goal-directed research,
+for the most part, stifles innovation by removing parallel thinking. Let’s say
+our goal is to cure disease X, and methods A, B, and C are the most promising
+so far (at least they were published in Nature, Science, and Cell), why in the
+world would I try anything else if I, too, want to cure disease X, and also be
+the first? This is not to say that objective-oriented research isn’t useful,
+it absolutely is. It’s probably more &lt;strong&gt;useful&lt;/strong&gt; than basic science research
+since that’s what actually makes discoveries applicable. Even in basic science
+itself, goal-directed efforts, like the Allen Brain Institute, has achieved
+plenty in a very short amount of time. But the problem arises when we slowly
+and obliviously replace all of basic science research with engineering and
+industrial research, not in name but in essence, because soon enough, we won’t
+have new discoveries to capitalize on. No one is explicitly doing this, which
+is what makes it all the more insidious - all it takes is to see where the
+money flows, and the money flows to projects with the best implications - see
+where I’m going with this?&lt;/p&gt;
+
+&lt;p&gt;So how do we combat this? Christof Koch spoke at UCSD recently about the Allen
+Brain Institute. Afterwards, I asked him what roles does he see academic
+research labs playing in the future, in light of the fact that the ABI was
+able to accomplish so much in so little time and with so little money
+(relatively speaking). His answer, while unsurprising, injected some hope in
+academic research. Basically, he said that university labs should keep doing
+what they do, which is exerting parallel efforts at problems so that we
+&lt;strong&gt;can&lt;/strong&gt; still come up with new discoveries, like how DNA randomly evolves
+through recombination. I would append to that in this way: we should direct
+half the public money towards a few of these unified and industrialized
+efforts, like the ABI, because they will inevitably have something to show for
+it. The rest of the money should be divided up basically equally, to pay for
+academic labs and researchers to look at whatever the hell they want to look
+it. In fact, to really promote science in youth, we have to encourage students
+to pursue projects bounded only by their imagination and curiosity, and not by
+practical utility. My ideal vision for this is basically some form of
+universal basic income where researchers get paid a living (but oh god not
+minimum) wage to work on whatever problem they want to. I hear France has some
+kind of life-time personal funding like that. After all, working on
+interesting problems and getting rich and famous at it seems a bit like
+getting your cake and eating it too, which is exactly what doesn’t make sense:
+academics making CEO money, or 20% of the labs getting 80% of the funding. I
+wonder what the actual statistics are on that…&lt;/p&gt;
+
+&lt;p&gt;Science is, for now, a public investment, just like infrastructure. And like
+infrastructure, it requires long-term vision and patience to really bare
+fruit. If we focus all of our energy and resources on projects that “have
+implications”, it misses the most valuable part of science: utility through
+serendipitous discoveries. Again, I’m not saying we should scrap &lt;strong&gt;goals&lt;/strong&gt; ,
+or targeted investigations that follow a clear line of pre-established ideas.
+I am simply suggesting that we should re-evaluate whether we over-promise to
+the public for the sake of existing in this system, and whether that has
+subdued true scientific innovation. If so, instead of accommodating to the
+shitty system, maybe we can do something to change it?&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">(Cover image source here and I honestly don’t know if Einstein even said it.)</summary></entry></feed>

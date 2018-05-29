@@ -13,11 +13,13 @@ docs:
     children:
       - title: "Mind & Brain"
         url: /categories/#neuroscience
-      - title: "Data & Science"
+      - title: "General Science"
         url: /categories/#science
+      - title: "Analytics & Design"
+        url: /categories/#analytics_design
       - title: "Books & Readings"
         url: /categories/#readings
       - title: "Travels"
         url: /categories/#travels
       - title: "Musings"
-        url: /categories/#random
+        url: /categories/#reflection

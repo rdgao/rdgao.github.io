@@ -33,10 +33,10 @@ In case you weren't following, let me rewrite the last part again, in bold:
 **"** **...different Brainet architectures solved a number of useful
 computational problems, such as discrete classification, image processing,
 storage and retrieval of tactile information, and even weather forecasting."**  
-  
+
 Uh. Holy shit? This sounds truly incredible. Why? Because we humans can't even
 predict the goddamn weather.  
-  
+
 Is it actually as incredible as it sounds? Well, is anything ever? But, in my
 rush of joy for the neuroscientific community at large, and to make what I do
 (though not at all related) sound fucking awesome, I was trigger-happy and
@@ -235,4 +235,3 @@ study, I am all ears. Same goes for comments and concerns.
 [1] Pais-Vieira, M. _et al._ Building an organic computing device with
 multiple interconnected brains. _Sci. Rep._ **5** , 11869; doi:
 10.1038/srep11869 (2015).
-
