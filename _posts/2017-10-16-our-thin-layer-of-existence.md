@@ -12,6 +12,17 @@ header:
   teaser: /assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg
 
 excerpt: "Hawaii was truly an eye-opening and life-changing experience."
+
+gallery_crater:
+  - url: /assets/images/blog/2017-10-16-hawaii-crater.jpg
+    image_path: /assets/images/blog/2017-10-16-hawaii-crater.jpg  
+  - url: /assets/images/blog/2017-10-16-hawaii-lavastone.jpg
+    image_path: /assets/images/blog/2017-10-16-hawaii-lavastone.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-infinitystone.jpg
+    image_path: /assets/images/blog/2017-10-16-hawaii-infinitystone.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-craternight.jpg
+    image_path: /assets/images/blog/2017-10-16-hawaii-craternight.jpg
+
 ---
 
 Hawaii was an absolute treat for the senses, where almost every single day we
@@ -67,10 +78,11 @@ its newly sprouted inhabitants. When I think of a young Earth, I think of
 spring and budding greens. But here, youth is charred black, porous, and
 honestly looks kinda deadly and downright alien.
 
-![](/assets/images/blog/2017-10-16-hawaii-crater.jpg)
+{% include gallery id="gallery_crater" caption="The young Earth rages on."%}
+<!-- ![](/assets/images/blog/2017-10-16-hawaii-crater.jpg)
 ![](/assets/images/blog/2017-10-16-hawaii-craternight.jpg)
 ![](/assets/images/blog/2017-10-16-hawaii-lavastone.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-infinitystone.jpg)
+![](/assets/images/blog/2017-10-16-hawaii-infinitystone.jpg) -->
 
 The youthfulness of the land was further exhibited the next night, when we
 went to the edge of the park where lava is pouring out down the slope of the
