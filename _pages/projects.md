@@ -17,9 +17,7 @@ gallery_NFP:
     image_path: /assets/images/projects/nfp2.png
 
 ---
-Collected below are projects for my own PhD research in computational and cognitive (neuro)science, stuff I contribute to, as well as some fun personal projects.
-
-Associated code and papers are included wherever possible.
+Collected below are projects for my own PhD research in computational and cognitive (neuro)science, stuff I contribute to, as well as some fun personal projects. Associated code and papers are included wherever possible.
 
 ---
 # Modeling and Decomposing Neural Field Potentials

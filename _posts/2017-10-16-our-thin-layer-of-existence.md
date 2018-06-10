@@ -79,7 +79,10 @@ spring and budding greens. But here, youth is charred black, porous, and
 honestly looks kinda deadly and downright alien.
 
 {% include gallery id="gallery_crater" caption="The young Earth rages on."%}
-<!-- ![](/assets/images/blog/2017-10-16-hawaii-crater.jpg)
+<!--
+{% include gallery id="gallery3" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
+
+![](/assets/images/blog/2017-10-16-hawaii-crater.jpg)
 ![](/assets/images/blog/2017-10-16-hawaii-craternight.jpg)
 ![](/assets/images/blog/2017-10-16-hawaii-lavastone.jpg)
 ![](/assets/images/blog/2017-10-16-hawaii-infinitystone.jpg) -->
