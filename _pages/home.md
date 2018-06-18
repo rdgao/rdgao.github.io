@@ -6,18 +6,12 @@ permalink: /
 share: False
 classes: wide
 
-header:  
-  #image: /assets/images/upsidedown_color.jpg
+header:
   image: /assets/images/sea_tall.jpg
   title: ''
   cta_label: "Blog"
   cta_url: "/blog"
   type: "center"
-
-feature_row_upsidedown:
-  - btn_label: "Welcome"
-    btn_class: "btn--info"
-    url: "/blog"
 
 feature_row_desert:
   - image_path: /assets/images/desert.jpg
@@ -30,7 +24,7 @@ feature_row_desert:
 
 > "The more science discovers and the more comprehension it gives us of the mechanisms of existence, the more clearly does the mystery of existence itself stand out." -- Aldous Huxley
 
-**Hello, I'm Richard.** I am currently a PhD student in the Department of Cognitive Science at the University of California, San Diego (UCSD). My focus is in computational and cognitive neuroscience, where I mostly work on simulation and analysis of oscillatory and other types of neural population activity during behavior, and sometimes dabble in mining and analysis of other types of data. You can find out more in [Projects][projects], my [CV][cv], or our [lab website][lab].
+**Hello, I'm Richard.** I am currently a PhD student in the Department of Cognitive Science at the University of California, San Diego (UCSD). My focus is in computational and cognitive neuroscience, where I mostly work on simulation and characterization of oscillatory and other types of neural population activity, and sometimes dabble in mining and analysis of other types of data. You can find out more in [Projects][projects], my [CV][cv], or our [lab website][lab].
 
 Prior to that, I lived in [Toronto, Canada][toronto] for 11 years. It's the place I call home, and also where I received my Bachelor's Degree (University of Toronto, BASc in Engineering Science). Prior to THAT, I was born and raised in [Xinjiang, China][xinjiang], a place not unlike the deserts of Huacachina (Peru) in the photo above.
 
