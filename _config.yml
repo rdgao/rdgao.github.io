@@ -16,7 +16,7 @@ description              : "Seeking the mind in the brain. Posts about computati
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/sun.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/singles/sun.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard Gao"
-  avatar           : /assets/images/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/singles/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Seeking the mind in the brain (and sometimes in other things). Opinions are my past self's and may come with expiration date."
   location         : "San Diego | Toronto"
   email            :

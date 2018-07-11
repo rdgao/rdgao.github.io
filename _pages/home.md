@@ -7,14 +7,14 @@ share: False
 classes: wide
 
 header:
-  image: /assets/images/sea_tall.jpg
+  image: /assets/images/singles/sea_tall.jpg
   title: ''
   cta_label: "Blog"
   cta_url: "/blog"
   type: "center"
 
 feature_row_desert:
-  - image_path: /assets/images/desert.jpg
+  - image_path: /assets/images/singles/desert.jpg
     alt: "Desert of Huacachina, Peru"
     title: "Welcome."
 
