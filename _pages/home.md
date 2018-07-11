@@ -26,7 +26,7 @@ feature_row_desert:
 
 Prior to that, I lived in [Toronto, Canada][toronto] for 11 years. It's the place I call home, and also where I received my Bachelor's Degree (University of Toronto, BASc in Engineering Science). Prior to THAT, I was born and raised in [Xinjiang, China][xinjiang], a place not unlike the deserts of Huacachina (Peru) in the photo above.
 
-My [blog][blog] is spanned by everything in my life, from musings to reflections to neuroscience to sports to science & technology to who knows what else. I ponder a lot about life and our place in this world, and I write about it. At worst, this website is a representation and a record of my life; at best, it becomes an inspiration to someone who will come back to inspire and educate me - on my journey to find mind from matter.
+My [blog][blog] is spanned by everything in my life, from musings to reflections to neuroscience to sports to science & technology to travels (to who knows what else). I ponder a lot about life and our place in this world, and I write about it. At worst, this website is a representation and a record of my life; at best, it becomes an inspiration to someone who will come back to inspire and educate me - on my journey to find mind from matter.
 
 [projects]: /projects
 [blog]: /blog
