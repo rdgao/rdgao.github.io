@@ -179,7 +179,7 @@
     
     
       <p class="author__bio" itemprop="description">
-        Seeking the mind in the brain (and sometimes in other things). Opinions are my past self's and may come with expiration date.
+        Seeking the mind in the brain (and sometimes in other things). Thoughts are my past self's and come with implicit expiration date.
       </p>
     
   </div>
@@ -223,7 +223,7 @@
 
       
         <li>
-          <a href="https://github.com/_rdgao" itemprop="sameAs">
+          <a href="https://github.com/rdgao" itemprop="sameAs">
             <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
           </a>
         </li>
@@ -291,7 +291,7 @@
 
 <hr />
 <h1 id="modeling-and-decomposing-neural-field-potentials">Modeling and Decomposing Neural Field Potentials</h1>
-<p><strong>What</strong>: In this set of works, I build computational models of neural field potentials (e.g., <a href="https://en.wikipedia.org/wiki/Electrocorticography">ECoG</a>) from populations of neurons, and then try to work backwards and infer variables about the neural population from both simulated and experimental field potential recordings. This has been half the bulk of my PhD work.</p>
+<p><strong>What</strong>: In this set of works, I build computational models of neural field potentials (e.g., <a href="https://en.wikipedia.org/wiki/Electrocorticography">ECoG</a>) from populations of neurons, and then try to work backwards and infer variables about the neural population from both simulated and experimental field potential recordings.</p>
 
 <figure class="third ">
   
@@ -333,7 +333,7 @@
 
 <hr />
 <h1 id="development-of-network-activity-in-brain-organoids">Development of Network Activity in Brain Organoids</h1>
-<p><strong>What</strong>: Collaborating with the <a href="https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/Pages/default.aspx">Muotri Lab</a> at UCSD, we (read: they) have developed human induced pluripotent stem cell (hiPSC) derived brain organoids that display spontaneous and oscillatory network activity over a long developmental period. My role has since been to analyze the electrophysiological data (spiking and LFP) to characterize the developmental trajectory of network activity and relating it to other variables, as well as unexpectedly learning a lot about electrical activity-dependent neurodevelopment <em>in-vivo</em>.</p>
+<p><strong>What</strong>: Collaborating with the <a href="https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/Pages/default.aspx">Muotri Lab</a> at UCSD, we (read: they) have developed human induced pluripotent stem cell (hiPSC)-derived brain organoids that display spontaneous and oscillatory network activity over a long developmental period. My role has since been to analyze the electrophysiological data (spiking and LFP) to characterize the developmental trajectory of network activity and relating it to structural and molecular variables, as well as unexpectedly learning a lot about electrical activity-dependent neurodevelopment <em>in-vivo</em>.</p>
 
 <figure class="third ">
   
@@ -358,18 +358,54 @@
   
 </figure>
 <p><strong>Why</strong>:
-It was a huge surprise for both labs when we saw that the organoids exhibited nested oscillatory dynamics that went from regular to irregular</p>
+Figuring out how neurons in the brain organize themselves over time, both structurally and dynamically, is one of the biggest ongoing challenges in systems and cognitive neuroscience. Brain organoids have recently emerged as a great model for neurodevelopment, having been shown to mimic <em>in-vivo</em> neurodevelopment structurally and in gene expression. By also tracking the emergence of network <strong>dynamics</strong> over time, as well as continuing to engineer models with higher fidelity, I’m hoping we can dissect how neural circuits organize themselves from the moment neurodevelopment begins, and learn when and how it goes wrong in diseases.</p>
+
 <h3 id="nested-oscillatory-network-dynamics-in-human-cortical-organoids-preprint">Nested Oscillatory Network Dynamics in Human Cortical Organoids (preprint)</h3>
 <p><a href="https://github.com/voytekresearch/OscillatoryOrganoids" class="btn btn--info">GitHub</a>
 <a href="https://www.biorxiv.org/content/early/2018/06/29/358622" class="btn btn--success">Paper</a></p>
 
-<p>(linked repo contains code for preprocessing Axion Maestro multi-electrode array data.)</p>
+<p>(repo contains code for preprocessing Axion Maestro multi-electrode array data.)</p>
 
 <hr />
 <h1 id="defining-cognition-and-cognitive-processes">Defining “Cognition” and “Cognitive Processes”</h1>
+<p><strong>What</strong>: This hacked-up project that first took a week to implement has turned into a full ideological commitment. I scraped from scientific publications usages of “cognitive processes” words, like ‘attention’ and ‘memory’, and compare 1) which of these cognitive processes are similar, at least from the (crude) perspective of how scientists use them, and 2) how cognitive scientists and neuroscientists use them differently.</p>
+
+<figure class="third ">
+  
+    
+      <a href="http://localhost:4000/assets/images/projects/cog0.png">
+        <img src="http://localhost:4000/assets/images/projects/thumbnail/tn_cog0.png" alt="" />
+      </a>
+    
+  
+    
+      <a href="http://localhost:4000/assets/images/projects/cog1.png">
+        <img src="http://localhost:4000/assets/images/projects/thumbnail/tn_cog1.png" alt="" />
+      </a>
+    
+  
+    
+      <a href="http://localhost:4000/assets/images/projects/cog2.png">
+        <img src="http://localhost:4000/assets/images/projects/thumbnail/tn_cog2.png" alt="" />
+      </a>
+    
+  
+  
+</figure>
+<p><strong>Why</strong>:
+Much of cognitive science and cognitive neuroscience aim to characterize and understand “cognitive processes” - processes of the mind that are internal to the organism. Going into my PhD as a freshly minted engineer, it bothered me to no end that there were very few concrete and non-circular definitions for these processes. Precisely because they are internal processes, definitions are hard to pin down, so I took a behaviorist approach and looked at how cognitive scientists and neuroscientists use them in relation to each other in practice - sometimes using the same words to mean very different things - by generating a data-driven ontology scrapped from scientific abstracts. Inspired by <a href="http://www.cognitiveatlas.org/">Cognitive Atlas</a>, <a href="http://neurosynth.org/">Neurosynth</a>, <a href="http://tomdonoghue.github.io/ERP_SCANR/">ERP-SCANR</a>, and <a href="http://blog.brainscanr.com/">BrainSCANR</a>.</p>
+
+<h3 id="automated-generation-of-cognitive-ontology-via-web-text-mining">Automated Generation of Cognitive Ontology via Web Text-Mining</h3>
+<p><a href="https://github.com/voytekresearch/IdentityCrisis" class="btn btn--info">GitHub</a>
+<a href="https://mindmodeling.org/cogsci2017/papers/0395/paper0395.pdf" class="btn btn--success">Paper</a></p>
 
 <hr />
-<h1 id="non-linear-dynamical-systems-analysis-of-neural-signals">Non-linear Dynamical Systems Analysis of Neural Signals</h1>
+<h1 id="other-science-projects">Other Science Projects</h1>
+<h3 id="parameterizing-neural-power-spectra---fitting-oscillatory-peaks-and-1f-background-fooof">Parameterizing Neural Power Spectra - Fitting Oscillatory Peaks and 1/f background (FOOOF).</h3>
+<p><a href="https://github.com/voytekresearch/fooof" class="btn btn--info">GitHub</a>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2018/04/11/299859.full.pdf" class="btn btn--success">Paper</a></p>
+<h3 id="neurodsp---toolbox-for-analyzing-time-series-data-in-neuroscience">neurodsp - Toolbox for Analyzing Time Series Data in Neuroscience</h3>
+<p><a href="https://github.com/voytekresearch/neurodsp" class="btn btn--info">GitHub</a></p>
 
 
         
@@ -417,7 +453,7 @@ It was a huge surprise for both labs when we saw that the organoids exhibited ne
     
     
     
-      <li><a href="https://github.com/_rdgao"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/rdgao"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
     

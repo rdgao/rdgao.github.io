@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Richard Gao"
   avatar           : /assets/images/singles/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Seeking the mind in the brain (and sometimes in other things). Opinions are my past self's and may come with expiration date."
+  bio              : "Seeking the mind in the brain (and sometimes in other things). Thoughts are my past self's and come with implicit expiration date."
   location         : "San Diego | Toronto"
   email            :
   uri              :
@@ -103,7 +103,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : _rdgao
+  github           : rdgao
   gitlab           :
   google_plus      :
   keybase          :
