@@ -20,7 +20,7 @@ teaser                   : /assets/images/singles/sun.jpg # path of fallback tea
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : 'staticman_v2' # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : 'staticman_v2'
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -38,16 +38,16 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "/_data/comments/{options.slug}"
-  requiredFields         : ['name','message']
+  requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               :
       options:
-        format           : "iso8601" #(default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601"
 reCaptcha:
-  enabled                : true
+  enabled                : false
   siteKey                : "6LeXsmMUAAAAAF5UD8MDpKHJTbpCQd3KFb29vI7j"
   secret                 : "b5mrb+JWfPM9uhdrdHiDMjdsXDncO9ExcDbSwP9wEMES4OAQsMbire0WGSBUarBD4T+Z4boWaQy5UQhyWzySKqLGMKZusSfj8UBsLM0u85VNenh8DkPiXMbP4UWpF6NBdoUHDT6IvJbdPfi08GsqHkAQu5jTGc27+se59kyXZy4="
 atom_feed:
@@ -126,7 +126,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+
 exclude:
   #- _posts
   - extras
@@ -259,14 +259,13 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true # true
+      comments: true
       share: true
       related: true
       #classes:
       #  - wide
       sidebar:
         nav: "docs"
-
 
   # _pages
   - scope:
@@ -276,6 +275,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
