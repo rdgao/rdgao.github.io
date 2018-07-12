@@ -47,7 +47,7 @@ staticman:
       options:
         format           : "iso8601"
 reCaptcha:
-  enabled                : false
+  enabled                : true
   siteKey                : "6LeXsmMUAAAAAF5UD8MDpKHJTbpCQd3KFb29vI7j"
   secret                 : "b5mrb+JWfPM9uhdrdHiDMjdsXDncO9ExcDbSwP9wEMES4OAQsMbire0WGSBUarBD4T+Z4boWaQy5UQhyWzySKqLGMKZusSfj8UBsLM0u85VNenh8DkPiXMbP4UWpF6NBdoUHDT6IvJbdPfi08GsqHkAQu5jTGc27+se59kyXZy4="
 atom_feed:
