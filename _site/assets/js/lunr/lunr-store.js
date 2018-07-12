@@ -325,7 +325,7 @@ var store = [{
         "url": "http://localhost:4000/reflection/science/year-3-and-a-half/",
         "teaser":"http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"},{
         "title": "First post!",
-        "excerpt":"First post!Migrating takes forever.Hello.      Name  E-mail  Message  Submit!","categories": ["Reflection"],
+        "excerpt":"First post!Migrating takes forever.Hello.","categories": ["Reflection"],
         "tags": [],
         "url": "http://localhost:4000/reflection/test-post/",
         "teaser":"http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"}]
