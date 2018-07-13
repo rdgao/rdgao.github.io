@@ -126,6 +126,7 @@ author:
 # Reading Files
 include:
   - .htaccess
+  - _pages
 
 exclude:
   #- _posts
