@@ -60,7 +60,7 @@ def thumbnail_everything(img_folder, target_dim, resize_option, resize_unit, pad
     images = [im for im in os.listdir(img_folder) if is_an_image(im, image_types)]
     for img in images:
         # convert
-        tn_img = output_folder+'tn_'+img
+        tn_img = output_folder+img
         if always_overwrite or ~os.path.isfile(tn_img):
             print(tn_img)
             img_mat = cv2.imread(img_folder+img)

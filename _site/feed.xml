@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-13T14:02:57-04:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">Year 3 (and a half): TIL my PhD is Flappy Bird.</title><link href="http://localhost:4000/reflection/science/year-3-and-a-half/" rel="alternate" type="text/html" title="Year 3 (and a half): TIL my PhD is Flappy Bird." /><published>2018-01-16T00:00:00-05:00</published><updated>2018-01-16T00:00:00-05:00</updated><id>http://localhost:4000/reflection/science/year-3-and-a-half</id><content type="html" xml:base="http://localhost:4000/reflection/science/year-3-and-a-half/">&lt;p&gt;It’s January of 2018. 40 months after I started my PhD. Wow. I know people say
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-13T17:33:05-04:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">Year 3 (and a half): TIL my PhD is Flappy Bird.</title><link href="http://localhost:4000/reflection/science/year-3-and-a-half/" rel="alternate" type="text/html" title="Year 3 (and a half): TIL my PhD is Flappy Bird." /><published>2018-01-16T00:00:00-05:00</published><updated>2018-01-16T00:00:00-05:00</updated><id>http://localhost:4000/reflection/science/year-3-and-a-half</id><content type="html" xml:base="http://localhost:4000/reflection/science/year-3-and-a-half/">&lt;p&gt;It’s January of 2018. 40 months after I started my PhD. Wow. I know people say
 that the years feel shorter as you get older, but these days are just zipping
 by way too fast. I realized somewhere in October that I forgot to write one of
 these for my third year, and all of a sudden, we’re in 2018. So I’m late, what
@@ -275,25 +275,37 @@ honestly looks kinda deadly and downright alien.&lt;/p&gt;
   
     
       &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-crater.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-crater.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-lavastone.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-lavastone.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-crater.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
       &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-infinitystone.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-infinitystone.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-infinitystone.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
       &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-craternight.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-craternight.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-craternight.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-dragonmei.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-dragonmei.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-meditate.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-meditate.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-freshlava.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-freshlava.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
@@ -302,23 +314,6 @@ honestly looks kinda deadly and downright alien.&lt;/p&gt;
 &lt;/figcaption&gt;
   
 &lt;/figure&gt;
-&lt;!--
-
-
-
-
-&lt;figure class=&quot; full&quot;&gt;
-  
-  
-    &lt;figcaption&gt;This is a third gallery example with two images and fills the entire content container.
-&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-![](/assets/images/blog/2017-10-16-hawaii-crater.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-craternight.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-lavastone.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-infinitystone.jpg) --&gt;
 
 &lt;p&gt;The youthfulness of the land was further exhibited the next night, when we
 went to the edge of the park where lava is pouring out down the slope of the
@@ -332,12 +327,6 @@ only do plants and animals cycle through life and death, so too does the Earth
 they stand on.&lt;/p&gt;
 
 &lt;p&gt;Shit I never ever think about.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-dragonmei.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-lavafolds.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-meditate.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-freshlava.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;The world outside of our world&lt;/strong&gt;&lt;br /&gt;
@@ -363,10 +352,28 @@ brightly. Apparently, from Mauna Kea, one can see every star available in the
 northern half of the sky, and about 80-90% (?) in the southern sky, because,
 you know, it’s a tall ass mountain.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-fog.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-inviscow.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-maunakea.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-maunakeaalt.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-maunakea.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-maunakea.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-inviscow.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-inviscow.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-maunakeaalt.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-maunakeaalt.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
 
 &lt;p&gt;Standing under that diamond studded ceiling, we got to see a lot of
 astronomical phenomena firsthand, through our own eyes (and sometimes through
@@ -396,12 +403,49 @@ opportunities to witness animals enjoying themselves, be it a manta ray
 tumbling around, a family of sea turtle surfing the current, or a pack of
 dolphins playing hide and seek with us in the bay.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-yellowy.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-dolphin.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-sharp.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-turtle.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-beetle.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/blog/2017-10-16-hawaii-manta.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-yellowy.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-yellowy.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-dolphin.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-dolphin.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-sharp.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-sharp.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-turtle.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-turtle.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-beetle.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-beetle.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2017-10-16-hawaii-manta.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2017-10-16-hawaii-manta.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+    &lt;figcaption&gt;So much of our world - and our neighbors - is below us.
+&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
 &lt;p&gt;As a surface-dweller, my idea of life is mostly concentrated around my
 altitude and on dry land. Rarely do my thoughts venture out into the other 70%
@@ -415,7 +459,7 @@ felt acknowledged and welcomed, and I hope I can do the same for them one day.
 It really makes me question, even now, the extent of other kinds of cognition,
 beyond our simply human ideals.&lt;/p&gt;
 
-&lt;p&gt;After all, we are but a thin layer of existence in a much, much larger whole.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Hawaii was truly an eye-opening and life-changing experience.</summary></entry><entry><title type="html">25/52: First research paper published!</title><link href="http://localhost:4000/2017-9-18-2552-first-research-paper-published/" rel="alternate" type="text/html" title="25/52: First research paper published!" /><published>2017-09-19T00:00:00-04:00</published><updated>2017-09-19T00:00:00-04:00</updated><id>http://localhost:4000/2017-9-18-2552-first-research-paper-published</id><content type="html" xml:base="http://localhost:4000/2017-9-18-2552-first-research-paper-published/">&lt;p&gt;Because I’m quite short on my 52 posts this year, I’m stealing this from the
+&lt;p&gt;After all, we are but a thin layer of existence in a much, much larger whole.&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Hawaii was truly an eye-opening and life-changing experience.</summary></entry><entry><title type="html">First research paper published! (25/52)</title><link href="http://localhost:4000/neuroscience/first-research-paper-published/" rel="alternate" type="text/html" title="First research paper published! (25/52)" /><published>2017-09-18T00:00:00-04:00</published><updated>2017-09-18T00:00:00-04:00</updated><id>http://localhost:4000/neuroscience/first-research-paper-published</id><content type="html" xml:base="http://localhost:4000/neuroscience/first-research-paper-published/">&lt;p&gt;Because I’m quite short on my 52 posts this year, I’m stealing this from the
 &lt;a href=&quot;http://voyteklab.com/inferring-ei-balance-from-lfp/&quot;&gt;lab blog&lt;/a&gt; (which I
 wrote!). But hey! First research paper published, jeez what a long process…&lt;/p&gt;
 
@@ -452,7 +496,7 @@ most part, “excitatory neurons” are responsible for sending excitation via a
 neurotransmitter called glutamate, and “inhibitory neurons” are responsible
 for inhibition via GABA.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59c0ac641f318d7ed8ccbbc8_1505799282628_EI.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-09-18-paper1-EI.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Like all great rivalries (think Batman and Joker, Celtics and Lakers), these
 two forces cannot exist without each other, but they also keep each other in
@@ -486,7 +530,7 @@ psychiatric disorder to an improper ratio between excitation and inhibition in
 the human brain directly, but we can’t actually measure that thing, how can we
 corroborate that EI (im)balance matters in the way we think it does?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59c0ac86e3df2804bd831f2e_1505799312222_imbalance.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-09-18-paper1-imbalance.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Our Approach: Parsing Balance From “Background Noise”&lt;/strong&gt;&lt;/p&gt;
 
@@ -516,10 +560,7 @@ separate their effects: not in time, but in the frequency-domain (see our
 &lt;a href=&quot;https://github.com/voytekresearch/tutorials/blob/master/Power%20Spectral%20Density%20and%20Sampling%20Tutorial.ipynb&quot;&gt;frequency domain
 tutorial&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59c0acae2aeba5c28cbd8b11_1505799350978_model.png_&quot; alt=&quot;A: LFP model with excitatory and inhibitory inputs; B: the time course of E
-and I inputs from a single action potential; C: simulated synaptic inputs
-(blue and red) and LFP (black); F: LFP index of E:I
-ratio&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-09-18-paper1-model.png&quot; alt=&quot;&quot; /&gt;
 A: LFP model with excitatory and inhibitory inputs; B: the time course of E
 and I inputs from a single action potential; C: simulated synaptic inputs
 (blue and red) and LFP (black); F: LFP index of E:I ratio&lt;/p&gt;
@@ -563,7 +604,7 @@ immediately shoots down toward an inhibition-greater-than-excitation regime
 during the anesthetized state before coming back to baseline after the
 anesthesia wears off.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_59c0acdc017db2a991be001e_1505799399607_monkey.png_&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-09-18-paper1-monkey.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Takeaways and Disclaimers&lt;/strong&gt;&lt;/p&gt;
 
@@ -657,7 +698,7 @@ This little anecdote really just speaks to the serendipity of science, and it
 couldn’t have happened without the many hours of spontaneous discussions in
 the lab, which I’m also very grateful for, and Google. I think these little
 stories really liven up the otherwise logical world of science, and I’d love
-to read about such stories from other people!&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Because I’m quite short on my 52 posts this year, I’m stealing this from the lab blog (which I wrote!). But hey! First research paper published, jeez what a long process…</summary></entry><entry><title type="html">24/52: Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I’ve seen.</title><link href="http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen/" rel="alternate" type="text/html" title="24/52: Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I've seen." /><published>2017-08-26T00:00:00-04:00</published><updated>2017-08-26T00:00:00-04:00</updated><id>http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen</id><content type="html" xml:base="http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen/">&lt;p&gt;We saw a lot of wonderful and incredible sights in Hawaii over the last two
+to read about such stories from other people!&lt;/p&gt;</content><author><name>Richard Gao</name></author><summary type="html">Publishing a paper is most definitely a non-linear path.</summary></entry><entry><title type="html">24/52: Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I’ve seen.</title><link href="http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen/" rel="alternate" type="text/html" title="24/52: Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I've seen." /><published>2017-08-26T00:00:00-04:00</published><updated>2017-08-26T00:00:00-04:00</updated><id>http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen</id><content type="html" xml:base="http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen/">&lt;p&gt;We saw a lot of wonderful and incredible sights in Hawaii over the last two
 weeks, all of which I will shortly detail. But the one thing that stood out
 the most was this moment, so much so that I think it deserves its own entry.&lt;/p&gt;
 

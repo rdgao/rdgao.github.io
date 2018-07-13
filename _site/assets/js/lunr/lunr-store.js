@@ -309,11 +309,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "25/52: First research paper published!",
-        "excerpt":"Because I’m quite short on my 52 posts this year, I’m stealing this from thelab blog (which Iwrote!). But hey! First research paper published, jeez what a long process…Highlights (tl;dr)The overarching goal of our recent NeuroImage paper(PDF) is tomake inferences about the brain’s synaptic/molecular-level processes usinglarge-scale (very much non-molecular or...","categories": [],
+        "title": "First research paper published! (25/52)",
+        "excerpt":"Because I’m quite short on my 52 posts this year, I’m stealing this from thelab blog (which Iwrote!). But hey! First research paper published, jeez what a long process…Highlights (tl;dr)The overarching goal of our recent NeuroImage paper(PDF) is tomake inferences about the brain’s synaptic/molecular-level processes usinglarge-scale (very much non-molecular or...","categories": ["Neuroscience"],
         "tags": [],
-        "url": "http://localhost:4000/2017-9-18-2552-first-research-paper-published/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
+        "url": "http://localhost:4000/neuroscience/first-research-paper-published/",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-09-18-paper1-imbalance.png"},{
         "title": "26/52: Our thin layer of existence.",
         "excerpt":"Hawaii was an absolute treat for the senses, where almost every single day wewitnessed something that was breathtaking: be it the sun setting into theinfinite expanse of the orange horizon, the warm saltiness of the sea water onthe skin that’s just cool enough to alert the peripheries, or the chirping...","categories": ["Travels"],
         "tags": [],

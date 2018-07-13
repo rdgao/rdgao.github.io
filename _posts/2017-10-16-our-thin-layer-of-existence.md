@@ -15,14 +15,39 @@ excerpt: "Hawaii was truly an eye-opening and life-changing experience."
 
 gallery_crater:
   - url: /assets/images/blog/2017-10-16-hawaii-crater.jpg
-    image_path: /assets/images/blog/2017-10-16-hawaii-crater.jpg  
-  - url: /assets/images/blog/2017-10-16-hawaii-lavastone.jpg
-    image_path: /assets/images/blog/2017-10-16-hawaii-lavastone.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-crater.jpg  
   - url: /assets/images/blog/2017-10-16-hawaii-infinitystone.jpg
-    image_path: /assets/images/blog/2017-10-16-hawaii-infinitystone.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-infinitystone.jpg
   - url: /assets/images/blog/2017-10-16-hawaii-craternight.jpg
-    image_path: /assets/images/blog/2017-10-16-hawaii-craternight.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-craternight.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-dragonmei.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-dragonmei.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-meditate.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-meditate.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-freshlava.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-freshlava.jpg    
 
+gallery_maunakea:
+  - url: /assets/images/blog/2017-10-16-hawaii-maunakea.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-maunakea.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-inviscow.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-inviscow.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-maunakeaalt.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-maunakeaalt.jpg
+
+gallery_sea:
+  - url: /assets/images/blog/2017-10-16-hawaii-yellowy.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-yellowy.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-dolphin.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-dolphin.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-sharp.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-sharp.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-turtle.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-turtle.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-beetle.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-beetle.jpg
+  - url: /assets/images/blog/2017-10-16-hawaii-manta.jpg
+    image_path: /assets/images/blog/thumbnail/2017-10-16-hawaii-manta.jpg
 ---
 
 Hawaii was an absolute treat for the senses, where almost every single day we
@@ -79,13 +104,7 @@ spring and budding greens. But here, youth is charred black, porous, and
 honestly looks kinda deadly and downright alien.
 
 {% include gallery id="gallery_crater" caption="The young Earth rages on."%}
-<!--
-{% include gallery id="gallery3" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
 
-![](/assets/images/blog/2017-10-16-hawaii-crater.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-craternight.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-lavastone.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-infinitystone.jpg) -->
 
 The youthfulness of the land was further exhibited the next night, when we
 went to the edge of the park where lava is pouring out down the slope of the
@@ -99,12 +118,6 @@ only do plants and animals cycle through life and death, so too does the Earth
 they stand on.
 
 Shit I never ever think about.
-
-![](/assets/images/blog/2017-10-16-hawaii-dragonmei.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-lavafolds.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-meditate.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-freshlava.jpg)
-
 * * *
 
 **The world outside of our world**  
@@ -130,10 +143,7 @@ brightly. Apparently, from Mauna Kea, one can see every star available in the
 northern half of the sky, and about 80-90% (?) in the southern sky, because,
 you know, it's a tall ass mountain.
 
-![](/assets/images/blog/2017-10-16-hawaii-fog.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-inviscow.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-maunakea.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-maunakeaalt.jpg)
+{% include gallery id="gallery_maunakea"%}
 
 Standing under that diamond studded ceiling, we got to see a lot of
 astronomical phenomena firsthand, through our own eyes (and sometimes through
@@ -163,12 +173,7 @@ opportunities to witness animals enjoying themselves, be it a manta ray
 tumbling around, a family of sea turtle surfing the current, or a pack of
 dolphins playing hide and seek with us in the bay.
 
-![](/assets/images/blog/2017-10-16-hawaii-yellowy.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-dolphin.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-sharp.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-turtle.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-beetle.jpg)
-![](/assets/images/blog/2017-10-16-hawaii-manta.jpg)
+{% include gallery id="gallery_sea" caption="So much of our world - and our neighbors - is below us."%}
 
 As a surface-dweller, my idea of life is mostly concentrated around my
 altitude and on dry land. Rarely do my thoughts venture out into the other 70%
