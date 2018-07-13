@@ -323,9 +323,4 @@ var store = [{
         "excerpt":"It’s January of 2018. 40 months after I started my PhD. Wow. I know people saythat the years feel shorter as you get older, but these days are just zippingby way too fast. I realized somewhere in October that I forgot to write one ofthese for my third year, and...","categories": ["Reflection","Science"],
         "tags": [],
         "url": "http://localhost:4000/reflection/science/year-3-and-a-half/",
-        "teaser":"http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"},{
-        "title": "First post!",
-        "excerpt":"First post!Migrating takes forever.Hello.Testing comments here:    Name  E-mail  Message   Submit!","categories": ["Reflection"],
-        "tags": [],
-        "url": "http://localhost:4000/reflection/test-post/",
         "teaser":"http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"}]

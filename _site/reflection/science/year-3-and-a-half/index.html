@@ -681,8 +681,7 @@ is the word of the day today.</p>
 ">Previous</a>
     
     
-      <a href="http://localhost:4000/reflection/test-post/" class="pagination--pager" title="First post!
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -696,41 +695,6 @@ is the word of the day today.</p>
     <div class="page__related">
       <h4 class="page__related-title">You May Also Enjoy</h4>
       <div class="grid__wrapper">
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/reflection/test-post/" rel="permalink">First post!
-</a>
-      
-    </h2>
-    
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
-
-
-
-
-  less than 1 minute read
-</p>
-    
-    <p class="archive__item-excerpt" itemprop="description">Migrating from Square Space to Jekyll + GitHub Pages.
-</p>
-  </article>
-</div>
         
           
 
@@ -839,6 +803,42 @@ the m...</p>
   </article>
 </div>
         
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "http://localhost:4000/assets/images/singles/sun.jpg"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/2017-6-12-2352-what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/" rel="permalink">23/52: What is the hardest scientific endeavor of all? (Answer: neuroscience)
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">“The brain is the most complex thing in the universe.”
+
+</p>
+  </article>
+</div>
+        
       </div>
     </div>
   
@@ -892,51 +892,6 @@ the m...</p>
 <script src="http://localhost:4000/assets/js/lunr/lunr-en.js"></script>
 
 
-
-
-    
-  <script>
-    (function ($) {
-    var $comments = $('.js-comments');
-
-    $('#new_comment').submit(function () {
-      var form = this;
-
-      $(form).addClass('disabled');
-      $('#comment-form-submit').html('<i class="fas fa-spinner fa-spin fa-fw"></i> Loading...');
-
-      $.ajax({
-        type: $(this).attr('method'),
-        url: $(this).attr('action'),
-        data: $(this).serialize(),
-        contentType: 'application/x-www-form-urlencoded',
-        success: function (data) {
-          $('#comment-form-submit').html('Submitted');
-          $('.page__comments-form .js-notice').removeClass('notice--danger');
-          $('.page__comments-form .js-notice').addClass('notice--success');
-          showAlert('Thanks for your comment! It will show on the site once it has been approved.');
-        },
-        error: function (err) {
-          console.log(err);
-          $('#comment-form-submit').html('Submit Comment');
-          $('.page__comments-form .js-notice').removeClass('notice--success');
-          $('.page__comments-form .js-notice').addClass('notice--danger');
-          showAlert('Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again.');
-          $(form).removeClass('disabled');
-        }
-      });
-
-      return false;
-    });
-
-    function showAlert(message) {
-      $('.page__comments-form .js-notice').removeClass('hidden');
-      $('.page__comments-form .js-notice-text').html(message);
-    }
-  })(jQuery);
-  </script>
-
-  
 
 
 
