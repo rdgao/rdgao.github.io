@@ -4,9 +4,7 @@ tags: []
 status: publish
 type: post
 published: true
-categories:
-  - Neuroscience
-meta: {}
+categories: [Neuroscience]
 header:
   overlay_image: /assets/images/blog/2017-09-18-paper1-model.png
   overlay_filter: rgba(0,0,0,0.5)

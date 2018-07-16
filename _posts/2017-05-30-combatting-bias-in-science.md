@@ -1,16 +1,17 @@
 ---
-title: '21/52: Combatting bias in science'
-categories: []
+title: 'Combatting bias in science. (21/52)'
 tags: []
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '39'
+categories: [Reflection, Science]
+header:
+  overlay_image: /assets/images/blog/2017-10-16-hawaii-mauisunset.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  teaser: /assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg
+
+excerpt: "However, to say that quotas simultaneously select for the best candidates and try to equalize existing disparities is, if not disingenuous, then completely missing the point."
 ---
-
-For week of May 22
-
 This is the third post in my series of reflecting on the state of science,
 which, at this point, feels like it's more likely to be a given week's topic
 than not. In any case, today, I will be writing about bias within the
@@ -154,4 +155,3 @@ valuable - perspectives in tackling challenging scientific and societal
 problems, and those perspectives are crucial in recognizing, sometimes
 literally, that a [problem
 exists](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms#t-210362).
-

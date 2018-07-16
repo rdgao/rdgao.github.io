@@ -1,13 +1,22 @@
 ---
-title: '24/52: Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring
-  thing I''ve seen.'
-categories: []
+title: 'Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I''ve seen. (24/52)'
 tags: []
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '33'
+categories: [Travels]
+#header:
+#  overlay_image: /assets/images/blog/2017-09-18-paper1-model.png
+#  overlay_filter: rgba(0,0,0,0.5)
+#  teaser: /assets/images/blog/2017-09-18-paper1-imbalance.png
+
+header:
+  teaser: /assets/images/blog/2017-08-26-mantaray.png
+  video:
+    id: 126916108
+    provider: vimeo
+
+excerpt: "I am the uninvited guest of this magnificent and playful host."
 ---
 
 We saw a lot of wonderful and incredible sights in Hawaii over the last two
@@ -41,3 +50,5 @@ of existence, evading our consciousness.
 
 Without further ado (only edit I made was adding the music, over which you can
 still sometimes hear my gasps):
+
+{% include video id="126916108" provider="vimeo" %}

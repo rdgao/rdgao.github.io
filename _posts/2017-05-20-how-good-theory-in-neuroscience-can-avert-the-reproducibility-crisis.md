@@ -1,14 +1,17 @@
 ---
-title: '20/52: On the reproducibility crisis and how theory in neuroscience can help
-  to avert it'
-categories: []
+title: 'On the reproducibility crisis and how theory in neuroscience can help to avert it. (20/52)'
 tags: []
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: [Neuroscience, Science]
+header:
+  overlay_image: /assets/images/blog/2017-05-20-reproducibility-FP.png
+  overlay_filter: rgba(0,0,0,0.5)
+  teaser: /assets/images/blog/2017-05-20-reproducibility-FP.png
 
+excerpt: "Once the community at large accepts and values works that falsify theories or reproduce existing evidence, then we can move towards a sustainable incentive structure."
+---
 This is the second of a series of posts where I talk about the current state
 of science, and today's in particular will begin by looking at the
 reproducibility crisis, and how a seemingly technical problem can give rise to
@@ -29,7 +32,7 @@ article from the
 [Economist](http://www.economist.com/news/briefing/21588057-scientists-think-
 science-self-correcting-alarming-degree-it-not-trouble):
 
-![](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_591fe4f015cf7d684f0745e9_1495262463305__img.png_)
+![](/assets/images/blog/2017-05-20-reproducibility-FP.png)
 
 **False Positive Results by Chance**  
 Briefly, this schematic aims to explain why there seems to be so many false
@@ -135,5 +138,4 @@ refine with the help of those observations. Similarly, a coherent theoretical
 framework in neuroscience and biology will shift the focus away from stamp-
 collecting and towards knowledge-building. Once the community at large accepts
 and values works that falsify theories or reproduce existing evidence, then we
-can move towards a sustainable incentive structure
-
+can move towards a sustainable incentive structure.

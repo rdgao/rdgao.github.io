@@ -284,37 +284,37 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/2017-5-15-1952-on-arrival-sapir-whorf-and-reading-fiction/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "20/52: On the reproducibility crisis and how theory in neuroscience can help to avert it",
-        "excerpt":"This is the second of a series of posts where I talk about the current stateof science, and today’s in particular will begin by looking at thereproducibility crisis, and how a seemingly technical problem can give rise tothis real-world issue.I was sitting in lecture for the class that I’m TAing...","categories": [],
+        "title": "On the reproducibility crisis and how theory in neuroscience can help to avert it. (20/52)",
+        "excerpt":"This is the second of a series of posts where I talk about the current stateof science, and today’s in particular will begin by looking at thereproducibility crisis, and how a seemingly technical problem can give rise tothis real-world issue.I was sitting in lecture for the class that I’m TAing...","categories": ["Neuroscience","Science"],
         "tags": [],
-        "url": "http://localhost:4000/2017-5-20-2052-how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "21/52: Combatting bias in science",
-        "excerpt":"For week of May 22This is the third post in my series of reflecting on the state of science,which, at this point, feels like it’s more likely to be a given week’s topicthan not. In any case, today, I will be writing about bias within theselection process in science. This...","categories": [],
+        "url": "http://localhost:4000/neuroscience/science/how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis/",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-05-20-reproducibility-FP.png"},{
+        "title": "Combatting bias in science. (21/52)",
+        "excerpt":"This is the third post in my series of reflecting on the state of science,which, at this point, feels like it’s more likely to be a given week’s topicthan not. In any case, today, I will be writing about bias within theselection process in science. This current line of thought...","categories": ["Reflection","Science"],
         "tags": [],
-        "url": "http://localhost:4000/2017-5-29-2152-combatting-bias-in-science/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "22/52: The Disease of Productivity & Mindful Dishwashing",
-        "excerpt":"Since I started graduate school, I think, I’ve revered industriousness andhave been deathly afraid of unproductivity. It’s really weird, because I wasjust as gung-ho about doing well in high school and university, but in somesense I felt like at that time my life (and work) wasn’t really mine, and thatI...","categories": [],
+        "url": "http://localhost:4000/reflection/science/combatting-bias-in-science/",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg"},{
+        "title": "The Disease of Productivity & Mindful Dishwashing (22/52)",
+        "excerpt":"Since I started graduate school, I think, I’ve revered industriousness andhave been deathly afraid of unproductivity. It’s really weird, because I wasjust as gung-ho about doing well in high school and university, but in somesense I felt like at that time my life (and work) wasn’t really mine, and thatI...","categories": ["Reflection","Science"],
         "tags": [],
-        "url": "http://localhost:4000/2017-6-5-2252-the-disease-of-productivity-mindful-dishwashing/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "23/52: What is the hardest scientific endeavor of all? (Answer: neuroscience)",
-        "excerpt":"“The brain is the most complex thing in the universe.”If there was one quote that grinds my gears more than all else, it is thisone. It is simply an idiotic thing to say: the brain is not the most complexthing in the universe; the universe, which contains billions and billions...","categories": [],
+        "url": "http://localhost:4000/reflection/science/the-disease-of-productivity-mindful-dishwashing/",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg"},{
+        "title": "What is the hardest scientific endeavor of all? (Answer: neuroscience) (23/52)",
+        "excerpt":"“The brain is the most complex thing in the universe.”If there was one quote that grinds my gears more than all else, it is thisone. It is simply an idiotic thing to say: the brain is not the most complexthing in the universe; the universe, which contains billions and billions...","categories": ["Neuroscience"],
         "tags": [],
-        "url": "http://localhost:4000/2017-6-12-2352-what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "24/52: Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I've seen.",
-        "excerpt":"We saw a lot of wonderful and incredible sights in Hawaii over the last twoweeks, all of which I will shortly detail. But the one thing that stood outthe most was this moment, so much so that I think it deserves its own entry.We were snorkeling at Two Steps Beach...","categories": [],
+        "url": "http://localhost:4000/neuroscience/what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg"},{
+        "title": "Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I've seen. (24/52)",
+        "excerpt":"We saw a lot of wonderful and incredible sights in Hawaii over the last twoweeks, all of which I will shortly detail. But the one thing that stood outthe most was this moment, so much so that I think it deserves its own entry.We were snorkeling at Two Steps Beach...","categories": ["Travels"],
         "tags": [],
-        "url": "http://localhost:4000/2017-8-26-2452-the-most-incredible-and-awe-inspiring-thing-ive-seen/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
+        "url": "http://localhost:4000/travels/the-most-incredible-and-awe-inspiring-thing-ive-seen/",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-08-26-mantaray.png"},{
         "title": "First research paper published! (25/52)",
         "excerpt":"Because I’m quite short on my 52 posts this year, I’m stealing this from thelab blog (which Iwrote!). But hey! First research paper published, jeez what a long process…Highlights (tl;dr)The overarching goal of our recent NeuroImage paper(PDF) is tomake inferences about the brain’s synaptic/molecular-level processes usinglarge-scale (very much non-molecular or...","categories": ["Neuroscience"],
         "tags": [],
         "url": "http://localhost:4000/neuroscience/first-research-paper-published/",
         "teaser":"http://localhost:4000/assets/images/blog/2017-09-18-paper1-imbalance.png"},{
-        "title": "26/52: Our thin layer of existence.",
+        "title": "Our thin layer of existence. (26/52)",
         "excerpt":"Hawaii was an absolute treat for the senses, where almost every single day wewitnessed something that was breathtaking: be it the sun setting into theinfinite expanse of the orange horizon, the warm saltiness of the sea water onthe skin that’s just cool enough to alert the peripheries, or the chirping...","categories": ["Travels"],
         "tags": [],
         "url": "http://localhost:4000/travels/our-thin-layer-of-existence/",

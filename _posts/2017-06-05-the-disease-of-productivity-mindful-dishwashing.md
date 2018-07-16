@@ -1,12 +1,18 @@
 ---
-title: '22/52: The Disease of Productivity & Mindful Dishwashing'
-categories: []
+title: 'The Disease of Productivity & Mindful Dishwashing (22/52)'
 tags: []
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '37'
+categories: [Reflection, Science]
+header:
+  overlay_image: /assets/images/blog/2017-10-16-hawaii-mauisunset.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  teaser: /assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg
+  
+excerpt: "I was depending on the activity itself to
+relax me, but the truth is that relaxation comes from the conscious decision
+to do this thing - anything - instead of thinking about work."
 ---
 
 Since I started graduate school, I think, I've revered industriousness and
@@ -92,4 +98,3 @@ more responsibility at work or something. It is simply to say that perhaps we
 need more loving and caring, from ourselves, precisely when we are being
 demanded the most (wow that sounds super obvious when I write it down that
 way).
-

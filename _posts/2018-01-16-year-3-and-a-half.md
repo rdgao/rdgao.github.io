@@ -4,9 +4,7 @@ tags: []
 status: publish
 type: posts
 published: true
-categories:
-- Reflection
-- Science
+categories: [Reflection, Science]
 header:
   overlay_image: /assets/images/blog/2018-01-16-year3-flappybird.png
   overlay_filter: rgba(0,0,0,0.5)

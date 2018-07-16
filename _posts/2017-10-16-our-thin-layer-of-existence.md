@@ -1,11 +1,10 @@
 ---
-title: '26/52: Our thin layer of existence.'
+title: 'Our thin layer of existence. (26/52)'
 tags: []
 status: publish
 type: posts
 published: true
-categories:
-- Travels
+categories: [Travels]
 header:
   overlay_image: /assets/images/blog/2017-10-16-hawaii-mauisunset.jpg
   overlay_filter: rgba(0,0,0,0.2)
