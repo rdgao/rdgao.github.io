@@ -1,14 +1,14 @@
 ---
 title: 'Combatting bias in science. (21/52)'
-tags: []
+tags: [Reflection, Science]
 status: publish
 type: post
 published: true
-categories: [Reflection, Science]
+categories: []
 header:
-  overlay_image: /assets/images/blog/2017-10-16-hawaii-mauisunset.jpg
+  overlay_image: /assets/images/blog/default_header.jpg
   overlay_filter: rgba(0,0,0,0.2)
-  teaser: /assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg
+  #teaser: /assets/images/blog/default_header.jpg
 
 excerpt: "However, to say that quotas simultaneously select for the best candidates and try to equalize existing disparities is, if not disingenuous, then completely missing the point."
 ---

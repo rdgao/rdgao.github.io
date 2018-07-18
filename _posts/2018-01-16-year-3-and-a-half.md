@@ -1,10 +1,10 @@
 ---
 title: 'Year 3 (and a half): TIL my PhD is Flappy Bird.'
-tags: []
+tags: [Reflection, Science]
 status: publish
 type: posts
 published: true
-categories: [Reflection, Science]
+categories: []
 header:
   overlay_image: /assets/images/blog/2018-01-16-year3-flappybird.png
   overlay_filter: rgba(0,0,0,0.5)

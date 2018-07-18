@@ -13,14 +13,16 @@ docs:
   - title: "Blog Posts by Topic"
     children:
       - title: "Mind & Brain"
-        url: /categories/#neuroscience
+        url: /tags/#neuroscience
       - title: "General Science"
-        url: /categories/#science
+        url: /tags/#science
       - title: "Analytics & Design"
-        url: /categories/#analytics_design
+        url: /tags/#analytics_design
       - title: "Books & Readings"
-        url: /categories/#readings
+        url: /tags/#readings
       - title: "Travels"
-        url: /categories/#travels
-      - title: "Musings"
-        url: /categories/#reflection
+        url: /tags/#travels
+      - title: "Reflections"
+        url: /tags/#reflection
+
+# brain & cognition, STEM, scicom, reading, travel, data

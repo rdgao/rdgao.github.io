@@ -1,19 +1,19 @@
 ---
 title: 'Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I''ve seen. (24/52)'
-tags: []
+tags: [Travels]
 status: publish
 type: post
 published: true
-categories: [Travels]
+categories: []
 #header:
 #  overlay_image: /assets/images/blog/2017-09-18-paper1-model.png
 #  overlay_filter: rgba(0,0,0,0.5)
 #  teaser: /assets/images/blog/2017-09-18-paper1-imbalance.png
 
 header:
-  teaser: /assets/images/blog/2017-08-26-mantaray.png
+  teaser: /assets/images/blog/2017-08-26-ray.png
   video:
-    id: 126916108
+    id: 230315536
     provider: vimeo
 
 excerpt: "I am the uninvited guest of this magnificent and playful host."
@@ -51,4 +51,4 @@ of existence, evading our consciousness.
 Without further ado (only edit I made was adding the music, over which you can
 still sometimes hear my gasps):
 
-{% include video id="126916108" provider="vimeo" %}
+{% include video id="230315536" provider="vimeo" %}

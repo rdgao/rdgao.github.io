@@ -1,15 +1,14 @@
 ---
 title: 'The Disease of Productivity & Mindful Dishwashing (22/52)'
-tags: []
+tags: [Reflection, Science]
 status: publish
 type: post
 published: true
-categories: [Reflection, Science]
+categories: []
 header:
-  overlay_image: /assets/images/blog/2017-10-16-hawaii-mauisunset.jpg
+  overlay_image: /assets/images/blog/default_header.jpg
   overlay_filter: rgba(0,0,0,0.2)
-  teaser: /assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg
-  
+  #teaser: /assets/images/blog/default_header.jpg
 excerpt: "I was depending on the activity itself to
 relax me, but the truth is that relaxation comes from the conscious decision
 to do this thing - anything - instead of thinking about work."

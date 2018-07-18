@@ -1,10 +1,10 @@
 ---
 title: 'On the reproducibility crisis and how theory in neuroscience can help to avert it. (20/52)'
-tags: []
+tags: [Neuroscience, Science Communication]
 status: publish
 type: post
 published: true
-categories: [Neuroscience, Science]
+categories: []
 header:
   overlay_image: /assets/images/blog/2017-05-20-reproducibility-FP.png
   overlay_filter: rgba(0,0,0,0.5)
@@ -12,6 +12,7 @@ header:
 
 excerpt: "Once the community at large accepts and values works that falsify theories or reproduce existing evidence, then we can move towards a sustainable incentive structure."
 ---
+
 This is the second of a series of posts where I talk about the current state
 of science, and today's in particular will begin by looking at the
 reproducibility crisis, and how a seemingly technical problem can give rise to

@@ -1,14 +1,15 @@
 ---
-title: 'What is the hardest scientific endeavor of all? (Answer: neuroscience) (23/52)'
-tags: []
+title: 'What is the hardest scientific endeavor of all? (23/52)'
+tags: [Neuroscience]
 status: publish
 type: post
 published: true
-categories: [Neuroscience]
+categories: []
 header:
   overlay_image: /assets/images/blog/2017-10-16-hawaii-mauisunset.jpg
   overlay_filter: rgba(0,0,0,0.2)
   teaser: /assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg
+
 excerpt: "We cannot study what we cannot truly see, and can we truly see ourselves?"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: 'First research paper published! (25/52)'
-tags: []
+tags: [Neuroscience]
 status: publish
 type: post
 published: true
-categories: [Neuroscience]
+categories: []
 header:
   overlay_image: /assets/images/blog/2017-09-18-paper1-model.png
   overlay_filter: rgba(0,0,0,0.5)
