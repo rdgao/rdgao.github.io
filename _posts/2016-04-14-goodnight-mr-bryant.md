@@ -1,14 +1,21 @@
 ---
-title: 'It''s just a game: Goodnight Mr. Bryant'
-categories:
-- Reflection
-tags: []
+title: "It's just a game: Goodnight Mr. Bryant"
+tags: [Reflection]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2016-04-14-kobe.jpg
+  overlay_filter: rgba(0,0,0,0.7)
+  teaser: /assets/images/blog/2016-04-14-kobe.jpg
 
+excerpt: "Thank you, for taking the world by its throat, when it mattered a lot and when
+it didn't. Thank you, for creating storylines after storylines that we can
+relate to while we walk through ours, even if our worlds couldn't be farther
+apart. And finally, thank you, for playing your game, and in the process,
+inspiring us to play ours."
+---
 Not everyone plays sports, and not everyone can relate to sports. Be it
 basketball, football, golf, what have you. Certainly not everyone enjoys
 debating numbers, rankings, statistics, and playoff seedings. Sometimes it's
@@ -93,5 +100,4 @@ relate to while we walk through ours, even if our worlds couldn't be farther
 apart. And finally, thank you, for playing your game, and in the process,
 inspiring us to play ours.
 
-![](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_570fc5fd27d4bddac71e2dce_1460651529042__img.jpg_)
-
+![](/assets/images/blog/2016-04-14-kobe.jpg)

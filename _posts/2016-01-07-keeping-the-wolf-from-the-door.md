@@ -1,18 +1,20 @@
 ---
-title: Keeping the wolf from the door
-categories:
-- Neuroscience
-- Reflection
-tags: []
+title: 'Keeping the wolf from the door.'
+tags: [Brain & Cognition, Reflection]
 status: publish
 type: post
 published: true
-meta: {}
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
+
+excerpt: ""
 ---
 
 an excerpt from [The Terrible Beauty of Brain
-Surgery](http://www.nytimes.com/2016/01/03/magazine/karl-ove-knausgaard-on-
-the-terrible-beauty-of-brain-surgery.html?_r=1):
+Surgery](http://www.nytimes.com/2016/01/03/magazine/karl-ove-knausgaard-on-the-terrible-beauty-of-brain-surgery.html?_r=1):
 
 > I sat down in one of the few empty chairs outside and looked at people,
 speculating about the relationships they had to one another and to the world.  
@@ -58,7 +60,3 @@ insight into it to fight against everything that concealed it, the
 institutionalization of hospitals, the dehumanization of patients, all the
 rituals established by the medical profession to create distance and to turn
 the body into something abstract, general, a part of a system.
-
-— http://www.nytimes.com/2016/01/03/magazine/karl-ove-knausgaard-on-the-
-terrible-beauty-of-brain-surgery.html?_r=1
-

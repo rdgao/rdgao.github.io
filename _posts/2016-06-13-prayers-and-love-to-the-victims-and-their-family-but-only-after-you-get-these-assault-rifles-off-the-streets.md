@@ -1,15 +1,20 @@
 ---
-title: Prayers and love to the victims and their family, but only after you get these
-  assault rifles off the streets.
-categories:
-- Reflection
-tags: []
+title: 'Prayers and love to the victims and their family, but only after you get these
+  assault rifles off the streets.'
+tags: [Reflection]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2016-06-13-guns.jpg
+  overlay_filter: rgba(0,0,0,0.7)
+  teaser: /assets/images/blog/2016-06-13-guns.jpg
 
+excerpt: "Like I said before, people die all the time, and it sucks, but most of
+the time I don't get too worked up because you can conjure up some high-level
+explanation for it. But for this, today, there is no explanation."
+---
 Last night I went to a friend's place to celebrate having made it through our
 second year of graduate school together. There was great company and plenty to
 drink, and at some point we called it a night and I went to sleep on their
@@ -96,17 +101,14 @@ Just in case you're really hung up on one of the other "causes" of this
 tragedy, consider this: it could've easily been a white, non-religious
 shooter, and it could've easily been at a mall or a school or a movie theatre.
 Easily. Not convinced? Well, they all happened, in the last 5 years. **And the
-only thing linking these tragedies? Not ISIS, but the very[same assault
+only thing linking these tragedies? Not ISIS, but the very [same assault
 rifle](http://www.nbcnews.com/storyline/orlando-nightclub-
 massacre/ar-15-rifle-used-orlando-massacre-has-bloody-pedigree-n590581).**
 
-![from: https://theprogressivecynic.com/debunking-right-wing-talking-
-points/refuting-gun-enthusiasts-anti-gun-control-
-arguments/](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_575e4ffd8259b5bbefd54c43_1465799005785__img.jpg_)
-from: https://theprogressivecynic.com/debunking-right-wing-talking-
-points/refuting-gun-enthusiasts-anti-gun-control-arguments/
+![](/assets/images/blog/2016-06-13-guns.jpg)
+from [here](https://theprogressivecynic.com/debunking-right-wing-talking-points/refuting-gun-enthusiasts-anti-gun-control-arguments/).
 
-****
+***
 
 I don't have anything intelligent to say about the Islamic situation, because
 I don't know if he was inspired, brainwashed, or just hijacked for publicity.

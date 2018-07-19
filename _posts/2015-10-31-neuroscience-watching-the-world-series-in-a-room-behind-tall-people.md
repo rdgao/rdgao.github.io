@@ -1,14 +1,21 @@
 ---
-title: 'Neuroscience: Watching the World Series in a Room Behind Tall People'
-categories:
-- Neuroscience
-tags: []
+title: 'Neuroscience: Watching the World Series in a Room Behind Tall People.'
+tags: [Brain & Cognition, Science Communication]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "Yes, I am, once again,
+shamelessly pasting homework assignments onto the blog, but this one I'm
+rather happy with. Plus, it's in the spirit of the World Series, even though I
+literally watched my first full inning of baseball when the Jays lost in game
+6."
+---
 I've always wanted to write about some of the fundamental ideas in
 neuroscience in a people-friendly way. The problem is, it always seemed to be
 way too daunting to explain such fundamental ideas in any reasonably short
@@ -87,6 +94,4 @@ around us, and it opens up new ways for neuroscientists to accurately decode
 information in the brain, taking us a step closer to understanding how it all
 works.
 
-Source: Kayser et al. 2009. Neuron.  
-http://www.sciencedirect.com/science/article/pii/S0896627309000750
-
+Source: [Kayser et al. 2009. Neuron.](http://www.sciencedirect.com/science/article/pii/S0896627309000750)

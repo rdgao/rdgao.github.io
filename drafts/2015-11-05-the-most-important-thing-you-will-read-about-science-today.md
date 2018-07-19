@@ -69,4 +69,3 @@ Deep down, most of us want our science to have an impact on the world, because
 that would be cool. But deeper down, we're often just super interested in a
 specific problem or a strange phenomenon in nature, and the impact of solving
 it is truly a secondary thought.
-

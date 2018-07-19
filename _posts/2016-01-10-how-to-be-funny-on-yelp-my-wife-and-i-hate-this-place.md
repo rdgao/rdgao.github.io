@@ -1,15 +1,22 @@
 ---
 title: 'How to be funny on Yelp: "My wife and I hate this place."'
-categories:
-- Analytics
-tags: []
+tags: [Data & Analytics]
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '92'
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2016-01-10-yelp-funny3.png
+  overlay_filter: rgba(0,0,0,0.7)
+  teaser: /assets/images/blog/2016-01-10-yelp-funny3.png
 
+excerpt: "In general, though, it
+seems that the least funny words are rarely descriptive (adjectives), which by
+nature makes them neutral (with the exception of, possibly, \"highly
+recommend\") and also impersonal. So, it appears that the takeaway is to be
+polarizing and subjective in your reviews, and involve your loved ones (wife
+and dogs, apparently)."
+---
 **TLDR:** if you want to be funny (at least on Yelp), go to the worst
 restaurants with your significant other (and pet?) and write a deeply personal
 account of how this traumatic experience has affected your life.
@@ -19,8 +26,7 @@ account of how this traumatic experience has affected your life.
 Humor is a great way to connect with people, it lets them know that you're
 probably a charming yet harmless clown, so you can punch them in the spleen
 while their guard is down *POW* (just kidding). How to be
-[funny](http://www.amazon.com/gp/customer-
-reviews/R3FTHSH0UNRHOH/ref=cm_cr_pr_rvw_ttl?ie=UTF8&ASIN=B008JELLCA), you ask?
+[funny](http://www.amazon.com/gp/customer-reviews/R3FTHSH0UNRHOH/ref=cm_cr_pr_rvw_ttl?ie=UTF8&ASIN=B008JELLCA), you ask?
 Well, in our great big world of technology today, how else do we learn, but to
 let the machines tell us what we want to know. But for machines to learn, it
 needs lots and lots data, and in our specific case, data about what PEOPLE
@@ -48,8 +54,7 @@ another man's treasure cove of data. What we will do, then, is to correlate
 the review text with the funniness vote, and see what kind of text features
 are most likely judged as funny.
 
-![Yelp Review Review Bar. I'm a review and i want you to review
-me](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_568abe46a128e63c0ae465ca_1451933254658_votebar.png_)
+![](/assets/images/blog/2016-01-10-yelp-funny1.png)
 Yelp Review Review Bar. I'm a review and i want you to review me
 
 **Regressing for Funniness**  
@@ -141,8 +146,7 @@ selected few. I don't even need to put these through the regression to know
 that it will be badly biased by a few reviews with a disproportional amount of
 votes. How disproportional?
 
-![Number of reviews with a specified number of votes. Note the log-log
-scale.](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_568aeb092399a3548b3949c1_1451944716145__img.png_)
+![](/assets/images/blog/2016-01-10-yelp-funny2.png)
 Number of reviews with a specified number of votes. Note the log-log scale.
 
 Above is a histogram showing how many reviews have a certain number of votes (
@@ -191,9 +195,8 @@ iPython Notebook code, message me and I will gladly share.
 
 Here comes the big reveal...drumroll!
 
-![Top & Bottom 25 Regression weights and their phrase. click to
-enlarge](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_5691fb16b204d50df7993579_1452407579420__img.png_)
-Top & Bottom 25 Regression weights and their phrase. click to enlarge
+![](/assets/images/blog/2016-01-10-yelp-funny3.png)
+Top & Bottom 25 Regression weights and their phrase.
 
 Above are 50 unigrams/bigrams that are the most associative of a review's
 funniness (positively, blue; negatively, red, 25 each), i.e., this set of
@@ -236,10 +239,8 @@ much higher (not shown) than any of the subsequent weights representing
 unigram/bigram features, which means that, as we predicted, the funniness of a
 review is firstly a function of the rating it gave out.
 
-![TOP & BOTTOM 25 regression weights, accounting for review rating. click to
-enlarge](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_5692bc3857eb8d9880b4402b_1452457028697__img.png_)
-TOP & BOTTOM 25 regression weights, accounting for review rating. click to
-enlarge
+![](/assets/images/blog/2016-01-10-yelp-funny4.png)
+TOP & BOTTOM 25 regression weights, accounting for review rating.
 
 Having accounted for the quality of the experience, we can take a look at how
 the weights of the most correlative words/phrases changed. The most striking
@@ -275,6 +276,4 @@ funny, but seeing how they agree with each other and with our intuition, I
 think it's interesting that there is at least a vague sense of
 generalizability on what we think to be funny or not.
 
-[1] Mihalcea & Pulman.
-https://www.cs.ox.ac.uk/files/244/mihalcea.cicling07.pdf
-
+[1] [Mihalcea & Pulman](https://www.cs.ox.ac.uk/files/244/mihalcea.cicling07.pdf).

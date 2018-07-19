@@ -57,4 +57,3 @@ of power shouldn't act responsibly and, dare I say it, "morally". I just think
 that, having been born into a culture where personal greed is heroically
 exemplified, it would require taking some adult classes on moving away from
 the default.
-

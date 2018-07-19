@@ -1,13 +1,21 @@
 ---
-title: LSD, Neuroscience, and Science Communication for the Armed and Dangerous
-categories:
-- Neuroscience
-- Reflection
-tags: []
+title: 'LSD, Neuroscience, and Science Communication for the Armed and Dangerous'
+tags: [Brain & Cognition, Science Communication]
 status: publish
 type: post
 published: true
-meta: {}
+categories: []
+header:
+  overlay_image: /assets/images/blog/2016-04-24-LSD1.png
+  overlay_filter: rgba(0,0,0,0.7)
+  teaser: /assets/images/blog/2016-04-24-LSD1.png
+
+excerpt: "The third group is what I would call \"armed and dangerous\", and given the
+dramatic increase in our ability to access information via the internet, this
+is a growing group of concern. Basically, armed and dangerous means that you
+are educated enough to understand the information, perhaps because you have an
+education in sciences or a related field, and you WILL make life decisions
+based on it."
 ---
 
 **tl;dr** : started out explaining a paper about LSD, visual hallucination,
@@ -127,10 +135,9 @@ relationship between their brain activity and their mental experience. Well,
 onto the results then!
 
 * * *
+![](/assets/images/blog/2016-04-24-LSD1.png)
 
-![](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_5713fef107eaa0c2d060cee1_1460928278621_fig1.pngfig1_)
 
-  
 **Visual hallucination correlates with VISUAL cortex activation**  
 Figure 1 of the paper is shown above. The first row of brains is a snapshot of
 the blood flow to the participants' brains at 4 different depths (and a side
@@ -160,7 +167,7 @@ their goal was to measure how brain activity alters in relation to the
 
 * * *
 
-![](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_5715b45d04426269d6cd4f73_1461040234595__img.png_)
+![](/assets/images/blog/2016-04-24-LSD2.png)
 
 **Visual hallucination correlates with increased "connectivity" of the visual
 cortex to other parts of the brain**  
@@ -218,7 +225,7 @@ up the paper quickly and come back to it at the end.
 
 * * *
 
-![](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_57170b8340261dedf5e98fa8_1461472826428_Screen+Shot+2016-04-19+at+9.54.07+PM.png.07+PM.png_)
+![](/assets/images/blog/2016-04-24-LSD3.png)
 
 **"Ego dissolution" correlates with decreased connectivity of
 parahippocampus**  
@@ -255,7 +262,7 @@ during meditation.
 
 * * *
 
-![](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_571c4e213c44d8df0b168361_1461472819617__img.png_)
+![](/assets/images/blog/2016-04-24-LSD4.png)
 
 **The "LSD experience" connects resting state networks**  
 For the previous two results, when the activity of one area of the brain is
@@ -419,4 +426,3 @@ people that have other things to do in their lives don't know that. And if,
 somehow, in a weird parallel universe, a particular health policy hinges on
 whether LSD makes actual brain connections or "functional connections", then
 it'd be damn important for people to know what that actually means.
-

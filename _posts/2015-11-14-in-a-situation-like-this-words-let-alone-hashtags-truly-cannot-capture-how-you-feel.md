@@ -1,15 +1,20 @@
 ---
-title: In a situation like this, words, let alone hashtags, truly cannot capture how
-  you feel.
-categories:
-- Reflection
-tags: []
+title: 'In a situation like this, words, let alone hashtags, truly cannot capture how you feel.'
+tags: [Reflection]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "Nobody likes a social justice
+warrior no matter what you're fighting for. Instead, just stop and think for a
+moment, process our own emotions, and console everyone about their own
+plights."
+---
 I debated with myself for a long time whether I should write this, partly
 because I try not to make social commentaries online in fear of ending up on
 the wrong side of internet famous, and partly because I just don't know what I
@@ -61,8 +66,7 @@ arguably little for the living people of the city, but it got me thinking.
 
 Then I came home, got on Facebook. Bad idea: the world was going to shits.
 
-Paris gets shot up by Islamic extremists, so the world shows support via
-#prayforparis. Then, somebody got angry that there had been a bombing earlier
+Paris gets shot up by Islamic extremists, so the world shows support via #prayforparis. Then, somebody got angry that there had been a bombing earlier
 this week, in Lebanon, with almost no news coverage. So the #prayforbeirut
 guys got angry at the #prayforparis guys for being hypocritical and selective
 activists. I honestly didn't even know about the Lebanese bombing because I
@@ -172,4 +176,3 @@ the hell they're talking about.
 Instead, go hug someone, or call or email someone, and tell them how you
 really feel. I'm sorry this happened, and that these things continue to happen
 all around the world.
-
