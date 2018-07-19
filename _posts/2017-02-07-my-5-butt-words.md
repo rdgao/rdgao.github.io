@@ -1,13 +1,17 @@
 ---
-title: '5/52: My 5 butt words'
-categories: []
-tags: []
+title: 'My 5 butt words. (5/52)'
+tags: [Musings]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "\"Basically, I was like, can we just go see the clowns and stuff, they're definitely really cool.\""
+---
 Feb 6, 2017 (for week of Jan 29)
 
 Running late this (last) week, so I will post something nice and easy to make
@@ -22,7 +26,8 @@ length responses. Because of that, I noticed that I tend to use a set of words
 for no good reason at all, and these sometimes actually transcend into my
 speech. So, without further ado, these are my top 5 pet-peeve words/phrases.
 
-1\. "Like"  
+**1\. "Like"**
+
 Oldie but goodie, and I know I'm not the only person that gets annoyed at
 themselves for using this word. The canonical use of this word, of course,
 indicates an inability to describe something in a precise way (at best), and
@@ -35,8 +40,7 @@ another person, I use "like" as a substitute for "said". Example: "I told my
 parents I drove the car off the road, and they were like 'how the hell did you
 manage that?'" In this case, "they said" is the proper English expression for
 what had happened, and I have no idea why, but "they were like" just rolls off
-the tongue (and keyboard). The problem is, in an exchange with multiple turns
-- and this really happens - I will tell the story as such: "he was like ...,
+the tongue (and keyboard). The problem is, in an exchange with multiple turns - and this really happens - I will tell the story as such: "he was like ...,
 then she was like ..., and then he was like ..., and then she was like..."
 This drives me nuts. Although, replacing "was like" with "said" does not make
 it sound any better. Or at least, I don't like it, maybe because "said"
@@ -44,7 +48,8 @@ definitely implies direct quotation, whereas "was like" could be interpreted
 as speech or inferred attitude. In general, I haven't found a great way of
 narrating a story with a conversation that doesn't sound stupid.
 
-2\. "Basically"  
+**2\. "Basically"**
+
 This is another classic, exemplified by the following exchange:  
 A: "I know rainbows come out after it rains, but how does that actually work?"  
 B: "Basically, the rain..."
@@ -61,7 +66,8 @@ think about whether I actually understand what I'm about to explain, and most
 of the time the answer is "basically, no". In fact, using the word "basically"
 actively hinders my own understanding of the topic.
 
-3\. "Definitely"  
+**3\. "Definitely"**
+
 As in, "I definitely think this is a good idea..." "Definitely" is definitely
 a word that should be sprinkled sparingly. Obviously, the word conveys an
 increase in relative certainty in the context of the current conversation, as
@@ -72,7 +78,8 @@ does take away the meaning of the word, like the boy who cried sheep. After a
 string of "definitely"s, what if I was even MORE certain? Shall I use
 "definitively"?
 
-4\. "Just"  
+**4\. "Just"**
+
 I use this a lot when I first send someone an email inquiring about something,
 like their paper, or asking for a favor: "Hi, I was just wondering if you can
 ..." This is the apologist Canadian in me, I guess. That example sentence is
@@ -86,7 +93,8 @@ introduce a power dynamic unfavorable for me even before I've even made my
 request, so I actively stop myself from using this word in emails and texts
 now. Let me know if I sound like an entitled ass without it.
 
-5\. "and stuff"  
+**5\. "and stuff"**
+
 I just scrolled through Youtube for an hour to find
 [this](https://youtu.be/MxW4LZCYfvs?t=45s). Worth.
 
@@ -95,4 +103,3 @@ say it at the end of every sentence, then somehow, one day, I realized I have
 no idea what I'm referring to when I say "...and stuff". This, and its
 closely-related cousin, "and things." Next time you hear yourself say it,
 kindly ask yourself, "and what stuff?"
-

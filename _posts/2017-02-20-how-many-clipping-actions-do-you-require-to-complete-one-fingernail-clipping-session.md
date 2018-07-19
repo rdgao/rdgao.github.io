@@ -1,15 +1,18 @@
 ---
-title: '7/52: How many clipping actions do you require to complete one fingernail-clipping
-  session?'
-categories: []
-tags: []
+title: 'How many clipping actions do you require to complete one fingernail-clipping session? (7/52)'
+tags: [Musings]
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '76'
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "Addendum: this weekly blog post thing basically serves as a reminder that I
+can write about anything."
+---
 February 19, 2017
 
 If you cut your nail with your teeth on a regular basis, you should stop
@@ -74,4 +77,3 @@ fingers of equal radius of curvature.
 
 Addendum: this weekly blog post thing basically serves as a reminder that I
 can write about anything.
-

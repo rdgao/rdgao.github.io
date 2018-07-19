@@ -1,6 +1,6 @@
 ---
 title: 'On the reproducibility crisis and how theory in neuroscience can help to avert it. (20/52)'
-tags: [Neuroscience, Science Communication]
+tags: [Science, Science Communication]
 status: publish
 type: post
 published: true

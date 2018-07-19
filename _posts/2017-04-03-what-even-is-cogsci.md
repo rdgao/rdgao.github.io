@@ -1,6 +1,6 @@
 ---
 title: 'Do we need a (better) functional description of the brain? (13/52)'
-tags: [Neuroscience]
+tags: [Brain & Cognition]
 status: publish
 type: post
 published: true

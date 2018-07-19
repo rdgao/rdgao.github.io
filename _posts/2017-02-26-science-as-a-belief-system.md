@@ -1,14 +1,21 @@
 ---
-title: '8/52: Science as a belief system.'
-categories: []
-tags: []
+title: 'Science as a belief system. (8/52)'
+tags: [Science Communication, Science]
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '74'
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2017-02-26-science-belief.png
+  overlay_filter: rgba(0,0,0,0.7)
+  teaser: /assets/images/blog/2017-02-26-science-belief.png
 
+excerpt: "Science
+education in schools and popular media largely ignore the philosophy of
+science and how the process itself is a process of elimination. At best, when
+it is mentioned, it's casted as a fact-finding process, not a hypothesis-
+eliminating process."
+---
 Feb 26, 2017
 
 Disclaimer  
@@ -85,7 +92,7 @@ you? More importantly, what are the alternative hypotheses and why are those
 invalid?
 
 ![Image from
-Wikipedia](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_58b3479f15d5dbf879cde2b2_1488144314461__img.png_)
+Wikipedia](/assets/images/blog/2017-02-26-science-belief.png)
 Image from Wikipedia
 
 I raise these issues not to cast a shadow of doubt on their scientific merit,

@@ -1,6 +1,6 @@
 ---
 title: 'First research paper published! (25/52)'
-tags: [Neuroscience]
+tags: [Brain & Cognition, Science Communication]
 status: publish
 type: post
 published: true

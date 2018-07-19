@@ -1,6 +1,6 @@
 ---
 title: 'The life of a TA. (14/52)'
-tags: [Reflection]
+tags: [Reflection, Musings]
 status: publish
 type: post
 published: true

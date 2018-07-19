@@ -134,4 +134,3 @@ another tragedy in the near future.**
 And you know what's really ironic in all of this? I'm fucking Canadian.
 
 Please, fix your goddamn country.
-

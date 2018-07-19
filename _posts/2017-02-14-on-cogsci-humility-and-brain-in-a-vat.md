@@ -1,14 +1,20 @@
 ---
-title: '6/52: On CogSci, humility, and brain in a vat.'
-categories: []
-tags: []
+title: 'On CogSci, humility, and brain in a vat. (6/52)'
+tags: [Brain & Cognition, Reflection]
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '78'
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "Since
+neuroscience has taken over as the flag-bearer of mind-mapping, we don't often
+hear about these philosophical brain twisters anymore. But that's not because
+we've solved these questions - all we did was to stop talking about them."
+---
 Feb 13, 2017 (For week of Feb 6)
 
 Life gets crazy once in a while, and things fall through the crack. Here I am
@@ -149,4 +155,3 @@ AI). I guess I'm just a little bit more open to be inspired by other means.
 
 Hopefully, I can provide some kind of answer soon on whether a brain in a vat
 (or a dish?) have cognition.
-

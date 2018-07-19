@@ -1,13 +1,20 @@
 ---
-title: '3/52: Can we ever accomplish non-consensual brain-reading? [Part 2]'
-categories: []
-tags: []
+title: 'Can we ever accomplish non-consensual brain-reading? [Part 2] (3/52)'
+tags: [Brain & Cognition]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2017-01-23-mindreading1.png
+  overlay_filter: rgba(0,0,0,0.7)
+  teaser: /assets/images/blog/2017-01-23-mindreading1.png
 
+excerpt: "All this is to say, there
+is some non-zero correlation between the brain activity of two different
+people describing similar things, but it is definitely not quite to the level
+of thought-reading across different people."
+---
 Jan 22, 2017
 
 Two days after I wrote last week's blog piece, someone mentions in class that
@@ -99,9 +106,7 @@ is some non-zero correlation between the brain activity of two different
 people describing similar things, but it is definitely not quite to the level
 of thought-reading across different people.
 
-![Click to see full
-figure.](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_58856409197aea49bd5656c4_1485136984609_Screen+Shot+2017-01-22+at+5.51.58+PM.png.58+PM.png_)
-Click to see full figure.
+![](/assets/images/blog/2017-01-23-mindreading1.png)
 
 **In conclusion**  
 So in conclusion, while this is not at all the same as reading one person's
@@ -129,4 +134,3 @@ you can have zero knowledge about the visual & audio features and still be
 able to guess the scene. But in general, brain-reading that might be used in
 any meaningful way will have to be able to decode the visual/audio/affective
 features AS images/sounds/emotions, not just a categorical scene label.
-

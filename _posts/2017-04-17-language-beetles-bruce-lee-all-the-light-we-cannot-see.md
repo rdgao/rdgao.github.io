@@ -1,6 +1,6 @@
 ---
 title: 'Language: beetles, Bruce Lee, & All the Light We Cannot See. (15/52)'
-tags: [Readings, Neuroscience]
+tags: [Readings, Brain & Cognition]
 status: publish
 type: post
 published: true

@@ -137,7 +137,7 @@ var store = [{
         "title": "Year 1 (Part II)",
         "excerpt":"It is now technically 10 minutes into the first day of second year, whichmeans that, surprisingly, I finished this on time.Blind MarathonWhen I first arrived in San Diego for interview in February of 2014, 8 monthsbefore I moved here for good, I asked myself: “how the hell does anyone getany...","categories": ["Neuroscience","Reflection"],
         "tags": [],
-        "url": "http://localhost:4000/neuroscience/reflection/year-1-part-ii/",
+        "url": "http://localhost:4000/neuroscience/reflection/year-1-part-2/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "Neuroscience: Watching the World Series in a Room Behind Tall People",
         "excerpt":"I’ve always wanted to write about some of the fundamental ideas inneuroscience in a people-friendly way. The problem is, it always seemed to beway too daunting to explain such fundamental ideas in any reasonably shortblog entry, given all the history behind the idea and the recent debates overit. Well, nothing...","categories": ["Neuroscience"],
@@ -185,50 +185,50 @@ var store = [{
         "url": "http://localhost:4000/reflection/prayers-and-love-to-the-victims-and-their-family-but-only-after-you-get-these-assault-rifles-off-the-streets/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "Year 2",
-        "excerpt":"It’s that time of the year again - my third year of graduate school willofficially begin in a few days, and I thought this would be a greatopportunity to reflect on the last year and pass this wisdom onto future me.But first, I decided to take a look at what...","categories": ["Neuroscience","Reflection"],
-        "tags": [],
-        "url": "http://localhost:4000/neuroscience/reflection/year-2/",
+        "excerpt":"It’s that time of the year again - my third year of graduate school willofficially begin in a few days, and I thought this would be a greatopportunity to reflect on the last year and pass this wisdom onto future me.But first, I decided to take a look at what...","categories": [],
+        "tags": ["Reflection","Science"],
+        "url": "http://localhost:4000/year-2/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "1/52: Challenge Accepted",
+        "title": "Challenge Accepted. (1/52)",
         "excerpt":"Jan 5, 2017With the turning of a new calendar, we have reached the beginning of yetanother circle around our sun. I’m usually not one to make new yearresolutions, because I feel that 1) making something into a new yearresolution means that it’s almost guaranteed to be broken, and 2) I...","categories": [],
-        "tags": [],
+        "tags": ["Musings"],
         "url": "http://localhost:4000/challenge-accepted/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "2/52: Can we ever accomplish non-consensual brain-reading?",
+        "title": "Can we ever accomplish non-consensual brain-reading? [Part 1] (2/52)",
         "excerpt":"Jan 14, 2017Back when I worked at InteraXon (Muse) makingthe consumer EEG device, we often get investors and journalists that visit tocheck out our tech. Part of my job was to strap them with our 4-channel EEGand take them through a demo app. The number one joke that everybody tells,upon...","categories": [],
-        "tags": [],
+        "tags": ["Brain & Cognition"],
         "url": "http://localhost:4000/can-we-ever-accomplish-nonconsensual-brain-reading/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "3/52: Can we ever accomplish non-consensual brain-reading? [Part 2]",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-01-23-mindreading1.png"},{
+        "title": "Can we ever accomplish non-consensual brain-reading? [Part 2] (3/52)",
         "excerpt":"Jan 22, 2017Two days after I wrote last week’s blog piece, someone mentions in class thatsomebody had just done a study where they found common representation ofmemory across different people’s brains. I thought to myself, “well that isjust absurd.” But that someone happened to be Terry Sejnowski, so I thought...","categories": [],
-        "tags": [],
+        "tags": ["Brain & Cognition"],
         "url": "http://localhost:4000/can-we-ever-accomplish-non-consensual-brain-reading-part-2/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "4/52: Rome is not built in a day, but it sure falls quickly.",
+        "teaser":"http://localhost:4000/assets/images/blog/2017-01-23-mindreading1.png"},{
+        "title": "Rome is not built in a day, but it sure falls quickly. (4/52)",
         "excerpt":"Jan 29, 2017I had originally intended to write something lighthearted for this week, aftertwo consecutive educational posts. But in light of recent events, I felt I wasneither able to, nor was it totally appropriate, given what’s happening inthis large dumpster fire known as the US of A. Worse, this deviates...","categories": [],
-        "tags": [],
+        "tags": ["Reflection"],
         "url": "http://localhost:4000/rome-is-not-built-in-a-day-but-it-sure-falls-quickly/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "5/52: My 5 butt words",
+        "title": "My 5 butt words. (5/52)",
         "excerpt":"Feb 6, 2017 (for week of Jan 29)Running late this (last) week, so I will post something nice and easy to makeup for it. I’m not sure whether this was allowed under the rules of thechallenge I set up, though I probably should’ve given myself at least 3 ofthese make-up...","categories": [],
-        "tags": [],
+        "tags": ["Musings"],
         "url": "http://localhost:4000/my-5-butt-words/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "6/52: On CogSci, humility, and brain in a vat.",
+        "title": "On CogSci, humility, and brain in a vat. (6/52)",
         "excerpt":"Feb 13, 2017 (For week of Feb 6)Life gets crazy once in a while, and things fall through the crack. Here I amagain, a day late on my weekly-scheduled blogging. I actually started writing(a very heavy) one yesterday and continued today, but I realized halfwaythrough that I needed way more...","categories": [],
-        "tags": [],
+        "tags": ["Brain & Cognition","Reflection"],
         "url": "http://localhost:4000/on-cogsci-humility-and-brain-in-a-vat/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "7/52: How many clipping actions do you require to complete one fingernail-clipping session?",
+        "title": "How many clipping actions do you require to complete one fingernail-clipping session? (7/52)",
         "excerpt":"February 19, 2017If you cut your nail with your teeth on a regular basis, you should stopreading this right now. And probably go see a doctor and/or dentist.Things that we have to do every once in a while for no good reason bothfascinate and annoy the hell out of me....","categories": [],
-        "tags": [],
+        "tags": ["Musings"],
         "url": "http://localhost:4000/how-many-clipping-actions-do-you-require-to-complete-one-fingernail-clipping-session/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
-        "title": "8/52: Science as a belief system.",
+        "title": "Science as a belief system. (8/52)",
         "excerpt":"Feb 26, 2017DisclaimerBefore I get on with the post, I have to make known that I think thescientific process is one of the most valuable tools we have as humanity, andthat I am (obviously) not anti-science, nor am I anti-vaccination or anti-climate change. The following is simply a thought exercise...","categories": [],
-        "tags": [],
+        "tags": ["Science Communication","Science"],
         "url": "http://localhost:4000/science-as-a-belief-system/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
+        "teaser":"http://localhost:4000/assets/images/blog/2017-02-26-science-belief.png"},{
         "title": "Don't compare your Mile 1 to someone else's finish line. (9/52)",
         "excerpt":"It’s funny how life works sometimes. Last Friday, I got on campus just beforenoon like a good graduate student, and on my walk to the office, I saw one ofour department admins standing behind a table with a stack of Subway sandwichboxes, right beside the door to a classroom into...","categories": [],
         "tags": ["Reflection","Science Communication"],
@@ -236,7 +236,7 @@ var store = [{
         "teaser":"http://localhost:4000/assets/images/blog/2017-03-05-emerybrown.png"},{
         "title": "\"Scientists discover how to upload knowledge to your brain.\" (10/52)",
         "excerpt":"March 16, 2017 (For week of March 6)I was thinking to myself the other day: “hmm, I haven’t come across a reallyshitty news article about brain science recently, I wonder if sciencejournalists in the neurosciences stepped up their game after feeling thepressure from my intensely popular blog posts about science...","categories": [],
-        "tags": ["Neuroscience","Science Communication"],
+        "tags": ["Brain & Cognition","Science Communication"],
         "url": "http://localhost:4000/scientists-discover-how-to-upload-knowledge-to-your-brain/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "Cycles and Subline (11/52)",
@@ -251,17 +251,17 @@ var store = [{
         "teaser":"http://localhost:4000/assets/images/blog/2017-03-27-getout.jpg"},{
         "title": "Do we need a (better) functional description of the brain? (13/52)",
         "excerpt":"Every two weeks or so, I am faced with the innocent but extremely dauntingquestion of “so, what do you study?” This almost always happens in anUber/Lyft ride, and I now have a routine that I go through before carryingforward with this conversation. The routine consists of thinking for half asecond...","categories": [],
-        "tags": ["Neuroscience"],
+        "tags": ["Brain & Cognition"],
         "url": "http://localhost:4000/what-even-is-cogsci/",
         "teaser":"http://localhost:4000/assets/images/blog/2017-04-03-whats-cogsci.jpg"},{
         "title": "The life of a TA. (14/52)",
         "excerpt":"Starting this week, it will be my 6th time being a teaching assistant. Boy, itfelt like it was just yesterday that I myself was an undergrad sitting in atutorial/discussion section, all green-horned and not having a single cluethat the TA up there is probably a sleep-deprived graduate student who alsoprobably...","categories": [],
-        "tags": ["Reflection"],
+        "tags": ["Reflection","Musings"],
         "url": "http://localhost:4000/the-life-of-a-ta/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "Language: beetles, Bruce Lee, & All the Light We Cannot See. (15/52)",
         "excerpt":"Language is often thought of as the pinnacle of human intelligence. It let’sus communicate with each other unreasonably effectively on a day to day basis.Well, more effectively than just pointing and grunting. But recently, I’vebeen finding myself becoming more and more unsatisfied with language, in twodifferent ways.First, it is the...","categories": [],
-        "tags": ["Readings","Neuroscience"],
+        "tags": ["Readings","Brain & Cognition"],
         "url": "http://localhost:4000/language-beetles-bruce-lee-all-the-light-we-cannot-see/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "Climate of Complete Certainty. (17/52)",
@@ -286,32 +286,32 @@ var store = [{
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "On the reproducibility crisis and how theory in neuroscience can help to avert it. (20/52)",
         "excerpt":"This is the second of a series of posts where I talk about the current stateof science, and today’s in particular will begin by looking at thereproducibility crisis, and how a seemingly technical problem can give rise tothis real-world issue.I was sitting in lecture for the class that I’m TAing...","categories": [],
-        "tags": ["Neuroscience","Science Communication"],
+        "tags": ["Science","Science Communication"],
         "url": "http://localhost:4000/how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis/",
         "teaser":"http://localhost:4000/assets/images/blog/2017-05-20-reproducibility-FP.png"},{
         "title": "Combatting bias in science. (21/52)",
         "excerpt":"This is the third post in my series of reflecting on the state of science,which, at this point, feels like it’s more likely to be a given week’s topicthan not. In any case, today, I will be writing about bias within theselection process in science. This current line of thought...","categories": [],
-        "tags": ["Reflection","Science"],
+        "tags": ["Reflection","Science","Science Communication"],
         "url": "http://localhost:4000/combatting-bias-in-science/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "The Disease of Productivity & Mindful Dishwashing (22/52)",
         "excerpt":"Since I started graduate school, I think, I’ve revered industriousness andhave been deathly afraid of unproductivity. It’s really weird, because I wasjust as gung-ho about doing well in high school and university, but in somesense I felt like at that time my life (and work) wasn’t really mine, and thatI...","categories": [],
-        "tags": ["Reflection","Science"],
+        "tags": ["Reflection"],
         "url": "http://localhost:4000/the-disease-of-productivity-mindful-dishwashing/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "What is the hardest scientific endeavor of all? (23/52)",
         "excerpt":"“The brain is the most complex thing in the universe.”If there was one quote that grinds my gears more than all else, it is thisone. It is simply an idiotic thing to say: the brain is not the most complexthing in the universe; the universe, which contains billions and billions...","categories": [],
-        "tags": ["Neuroscience"],
+        "tags": ["Brain & Cognition"],
         "url": "http://localhost:4000/what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/",
         "teaser":"http://localhost:4000/assets/images/blog/2017-10-16-hawaii-mauisunset_sq.jpg"},{
         "title": "Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I've seen. (24/52)",
         "excerpt":"We saw a lot of wonderful and incredible sights in Hawaii over the last twoweeks, all of which I will shortly detail. But the one thing that stood outthe most was this moment, so much so that I think it deserves its own entry.We were snorkeling at Two Steps Beach...","categories": [],
-        "tags": ["Travels"],
+        "tags": ["Travels","Musings"],
         "url": "http://localhost:4000/the-most-incredible-and-awe-inspiring-thing-ive-seen/",
         "teaser":"http://localhost:4000/assets/images/blog/2017-08-26-ray.png"},{
         "title": "First research paper published! (25/52)",
         "excerpt":"Because I’m quite short on my 52 posts this year, I’m stealing this from thelab blog (which Iwrote!). But hey! First research paper published, jeez what a long process…Highlights (tl;dr)The overarching goal of our recent NeuroImage paper(PDF) is tomake inferences about the brain’s synaptic/molecular-level processes usinglarge-scale (very much non-molecular or...","categories": [],
-        "tags": ["Neuroscience"],
+        "tags": ["Brain & Cognition","Science Communication"],
         "url": "http://localhost:4000/first-research-paper-published/",
         "teaser":"http://localhost:4000/assets/images/blog/2017-09-18-paper1-imbalance.png"},{
         "title": "Our thin layer of existence. (26/52)",

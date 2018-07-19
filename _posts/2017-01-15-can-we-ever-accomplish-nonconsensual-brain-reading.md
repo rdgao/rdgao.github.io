@@ -1,14 +1,20 @@
 ---
-title: '2/52: Can we ever accomplish non-consensual brain-reading?'
-categories: []
-tags: []
+title: 'Can we ever accomplish non-consensual brain-reading? [Part 1] (2/52)'
+tags: [Brain & Cognition]
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '85'
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2017-01-23-mindreading1.png
+  overlay_filter: rgba(0,0,0,0.7)
+  teaser: /assets/images/blog/2017-01-23-mindreading1.png
 
+excerpt: "In other words, in order to read my thoughts from my brain
+activity, you would need to make a whole new dictionary, just for me, which
+requires my active participation. You wouldn't be able to take someone else's
+brain-dictionary and use that to interpret my thoughts."
+---
 Jan 14, 2017
 
 Back when I worked at InteraXon ([Muse](http://www.choosemuse.com/)) making
@@ -146,4 +152,3 @@ solve the exact problem that I've raised above, translating one person's
 brain-dictionary to another's. The key here, as I outlined, is that they still
 need to build both people's dictionaries, and then finding some transformation
 that maps one person's brain activity onto the other's, for the same stimulus.
-

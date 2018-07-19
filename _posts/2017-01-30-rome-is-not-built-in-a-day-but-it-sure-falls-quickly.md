@@ -1,14 +1,18 @@
 ---
-title: '4/52: Rome is not built in a day, but it sure falls quickly.'
-categories: []
-tags: []
+title: 'Rome is not built in a day, but it sure falls quickly. (4/52)'
+tags: [Reflection]
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '81'
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "To end on a good note, I think Donald Trump will make America great again,
+just not in the way he thought he would."
+---
 Jan 29, 2017
 
 I had originally intended to write something lighthearted for this week, after
@@ -134,4 +138,3 @@ just not in the way he thought he would. From what I've seen in the last week:
 yes there is a flaming pile of shit hurtling at us, but people will not go
 down without a fight, and he's giving people an opportunity to unite and do
 what's right. Let's just try to stay on the right side of history again.
-

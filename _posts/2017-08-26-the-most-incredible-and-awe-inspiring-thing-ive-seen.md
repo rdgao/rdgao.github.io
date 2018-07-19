@@ -1,6 +1,6 @@
 ---
 title: 'Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I''ve seen. (24/52)'
-tags: [Travels]
+tags: [Travels, Musings]
 status: publish
 type: post
 published: true

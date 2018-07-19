@@ -1,6 +1,6 @@
 ---
 title: '"Scientists discover how to upload knowledge to your brain." (10/52)'
-tags: [Neuroscience, Science Communication]
+tags: [Brain & Cognition, Science Communication]
 status: publish
 type: post
 published: true

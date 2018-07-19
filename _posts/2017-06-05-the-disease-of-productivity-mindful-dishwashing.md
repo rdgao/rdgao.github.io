@@ -1,6 +1,6 @@
 ---
 title: 'The Disease of Productivity & Mindful Dishwashing (22/52)'
-tags: [Reflection, Science]
+tags: [Reflection]
 status: publish
 type: post
 published: true

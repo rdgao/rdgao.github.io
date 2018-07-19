@@ -1,13 +1,17 @@
 ---
-title: '1/52: Challenge Accepted'
-categories: []
-tags: []
+title: 'Challenge Accepted. (1/52)'
+tags: [Musings]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: ""
+---
 Jan 5, 2017
 
 With the turning of a new calendar, we have reached the beginning of yet
@@ -58,8 +62,8 @@ unless there is a deadline or someone expects something of me.
 One blog post per week is difficult, seeing how I averaged about one post
 every two months or so in the last year. The difficult part for me, however,
 is not finding something to say. As previously demonstrated
-[here](http://www.rdgao.com/blog/2016/5/10/on-doing-nothing-at-the-dentists)
-and [here](http://www.rdgao.com/blog/2015/7/2/redesigning-the-tp), I can quite
+[here](http://www.rdgao.com/blog/on-doing-nothing-at-the-dentists)
+and [here](http://www.rdgao.com/redesigning-the-tp), I can quite
 literally write about nothing much at all, because I think a lot of random
 things are interesting. Instead, the main difficulty for me - and I don't know
 if I'm the first to coin this term - is that I tend to "edit myself to death."
@@ -98,4 +102,3 @@ reading this and have also been thinking of keeping a blog, whether just for
 yourself or for the public eye, I encourage you to start ASAP and get it out
 there. It's definitely better to have made something kinda good than to not
 have made anything at all.
-

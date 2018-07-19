@@ -1,6 +1,6 @@
 ---
 title: 'What is the hardest scientific endeavor of all? (23/52)'
-tags: [Neuroscience]
+tags: [Brain & Cognition]
 status: publish
 type: post
 published: true

@@ -1,6 +1,6 @@
 ---
 title: 'Combatting bias in science. (21/52)'
-tags: [Reflection, Science]
+tags: [Reflection, Science, Science Communication]
 status: publish
 type: post
 published: true
