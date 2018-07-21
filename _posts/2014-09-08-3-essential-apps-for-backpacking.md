@@ -1,14 +1,17 @@
 ---
-title: 3 Essential Apps for Backpacking Europe (and more)
-categories:
-- Europe2014
-tags: []
+title: '3 Essential Apps for Backpacking Europe (and more)'
+tags: [Travels]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+#excerpt: ""
+---
 This post is exactly as the title says: 3 tremendously helpful apps (plus a
 few honorable mentions) that I used on a daily basis throughout my journey in
 Europe. I'm writing about this because I'm yet again procrastinating on my
@@ -133,7 +136,7 @@ timetable/id579547877?mt=8) and
 [Android](https://play.google.com/store/apps/details?id=de.hafas.android.eurail&hl=en).
 
 I mentioned this in my travel debrief (see this
-[post](http://www.rdgao.com/blog/2014/8/9/rgaoeu2014-aftermath) for my
+[post](http://www.rdgao.com/rgaoeu2014-aftermath) for my
 experience with the European trains and the Eurail Pass), but train
 experiences varied greatly depending on the country I was in, as well as the
 type of train I took (international, inter-regional, regional, etc).
@@ -207,7 +210,7 @@ should have taken.
 
 [Android
 Only](https://play.google.com/store/apps/details?id=com.google.android.maps.mytracks&hl=en)  
-  
+
 Prior to finding out that Google automatically
 [tracks](http://www.techtimes.com/articles/13326/20140818/google-maps-knows-
 where-youre-going-and-where-youve-been.htm) my movements throughout the day
@@ -258,4 +261,3 @@ anything I wrote or didn't write about, feel free to send a message through
 the message/comment box I've yet to set up...or just use Facebook/Twitter/IG.
 
 Cheerios!
-

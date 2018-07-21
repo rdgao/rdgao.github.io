@@ -1,16 +1,20 @@
 ---
-title: My Biggest Fear Realized
-categories:
-- Rambling
-tags: []
+title: 'My Biggest Fear Realized'
+tags: [Reflection]
 status: publish
 type: post
 published: true
-meta: {}
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
+
+excerpt: "So here I am, scared shitless about finding what I value in myself, and
+consequently, what values I can bring to the people and society around me. But
+I do know that my ability to take in information and regurgitating it well is
+only a fraction of package I can provide to the world."
 ---
-
-_May 10, 2014 - My Biggest Fear Realized_
-
 This is really a continuation of last week's piece, and I feel like I've
 already written about this part of my life to death but since it's actually
 come to an end, hey, why not? Also, having had to re-read what I wrote two
@@ -72,4 +76,3 @@ have to remind myself of every single day is that, the values I can create
 should be much more than what can be measured by grades and dollars. And when
 I am doing that regularly and strategically, everything else, along with my
 inner peace, will come.
-

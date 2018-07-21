@@ -1,5 +1,5 @@
 ---
-title: 'How to be funny on Yelp: "My wife and I hate this place."'
+title: 'How to be funny on Yelp: My wife and I hate this place.'
 tags: [Data & Analytics]
 status: publish
 type: post
@@ -10,12 +10,7 @@ header:
   overlay_filter: rgba(0,0,0,0.7)
   teaser: /assets/images/blog/2016-01-10-yelp-funny3.png
 
-excerpt: "In general, though, it
-seems that the least funny words are rarely descriptive (adjectives), which by
-nature makes them neutral (with the exception of, possibly, \"highly
-recommend\") and also impersonal. So, it appears that the takeaway is to be
-polarizing and subjective in your reviews, and involve your loved ones (wife
-and dogs, apparently)."
+excerpt: "In general, though, it seems that the least funny words are rarely descriptive (adjectives), which by nature makes them neutral (with the exception of, possibly, \"highly recommend\") and also impersonal. So, it appears that the takeaway is to be polarizing and subjective in your reviews, and involve your loved ones (wife and dogs, apparently)."
 ---
 **TLDR:** if you want to be funny (at least on Yelp), go to the worst
 restaurants with your significant other (and pet?) and write a deeply personal

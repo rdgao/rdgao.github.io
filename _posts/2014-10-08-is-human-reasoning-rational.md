@@ -1,14 +1,17 @@
 ---
-title: Is human reasoning rational?
-categories:
-- Rambling
-tags: []
+title: 'Is human reasoning rational?'
+tags: [Brain & Cognition, Readings]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+#header:
+#  overlay_image: /assets/images/blog/default_header.jpg
+#  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+#excerpt: ""
+---
 Shamelessly plugging course work into the blog. Why not, right? Since I have
 to write once a week, might as well get my blog back up to healthy numbers.
 
@@ -140,4 +143,3 @@ be years removed from the ones in the readings to be considered even close to
 human. It is, in a way, asymptotic, but since each individual human mind can
 only be asymptotically similar to another, once a machine gets within range,
 we may not be able to tell the difference.
-

@@ -1,14 +1,18 @@
 ---
-title: 'RGAO|EU2014: Aftermath'
-categories:
-- Europe2014
-tags: []
+title: 'RGAO\|EU2014: Aftermath'
+tags: [Travels]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2014-08-10-rgao-eu2014-route.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  teaser: /assets/images/blog/2014-08-10-rgao-eu2014-route.jpg
 
+excerpt: "Well, to avoid further delays, I'm just going to start with the easiest: the
+quantifiable."
+---
 Well.  
 I (obviously) did not fulfill my commitment of writing once a week during
 these 4 weeks of being on the road. Not even once.  
@@ -37,12 +41,11 @@ visiting (left), and my actual schedule (right).
 **Total Distance (As-the-Crow-Flies)** : 4194km  
  **Total Time (In Europe):** 26 days and 18 hours
 
-![My Travel Route. Very proud of my almost perfectly straight course due
-northwest.](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53e6e8ace4b08470e144d977_1407641774755__img.jpg_)
+![](/assets/images/blog/2014-08-10-rgao-eu2014-route.jpg)
 My Travel Route. Very proud of my almost perfectly straight course due
-northwest. ![My Actual Schedule. Note the cities are colored by their
-country's flag
-:D](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53e6eee0e4b0ff55cc9a77aa_1407643361427__img.jpg_)
+northwest.
+
+![](/assets/images/blog/2014-08-10-rgao-eu2014-schedule.jpg)
 My Actual Schedule. Note the cities are colored by their country's flag :D
 
 Here are the cities typed out, in bracket is the name in the local language,
@@ -76,11 +79,10 @@ me a while to find these vacuum bags in the stores, but they were actually
 great for organizing everything, and squeezing the air out saved tons of
 space.
 
-![Shit I brought with
-me](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53e6f613e4b05e999384c1d2_1407645287704_2014_07_11_18_12_22.JPG_)
-Shit I brought with me ![My Trusty Backpacks: Ray the day-pack \(gray\) and
-Lou the big pack
-\(blue\)](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53e6f68fe4b0f39bef5f1bd7_1407645379535__img.jpg_)
+![](/assets/images/blog/2014-08-10-rgao-eu2014-equipment.jpg)
+Shit I brought with me.
+
+![](/assets/images/blog/2014-08-10-rgao-eu2014-packs.jpg)
 My Trusty Backpacks: Ray the day-pack (gray) and Lou the big pack (blue)
 
 Almost everything I packed were put to good use, luckily. Some of the
@@ -162,13 +164,12 @@ sampling of the rates I got through the different methods, compared to the
 actual. Of course, these rates fluctuate everyday, but usually not by a huge
 amount.
 
-| **Actual (Google, Today)** | **TD (Today)** | **VISA Rate I Got** | **ATM
-Rate I Got**  
----|---|---|---|---  
-**CAD to 1 Euro** |  1.47 | 1.5117 | 1.4911, 1.4933 | 1.4903  
-**CAD to 1 Franc** |  1.21 | 1.2440 | 1.2429 | 1.2228  
-**CAD to 1 Pound** |  1.84 | 1.8864 | 1.9760, 1.9824 | 1.8925  
-  
+|**Actual (Google, Today)**|**TD (Today)**|**VISA Rate I Got**|**ATM Rate I Got**|
+|---|---|---|---|---|
+|**CAD to 1 Euro** |  1.47 | 1.5117 | 1.4911, 1.4933 | 1.4903  |
+|**CAD to 1 Franc** |  1.21 | 1.2440 | 1.2429 | 1.2228  |
+|**CAD to 1 Pound** |  1.84 | 1.8864 | 1.9760, 1.9824 | 1.8925  |
+
 Looking at this, it seems foreign ATM is the way to go. But in the end, it
 becomes quite inconsequential if you consider that the difference of 2% is
 about $10 for every $500 you spend. For some reason though, I got screwed by
@@ -206,7 +207,8 @@ and a highspeed segment. The full price is 110 euros, but reservation was 40
 euros alone. I was too cheap, so I opted to reserve a seat on the highspeed
 train to the stop before Paris and take the regional to Paris (which takes an
 hour longer), which only costed 10 euros, but they ended up letting me stay on
-all the way anyway, so that was nice.  
+all the way anyway, so that was nice.
+
 All in all, the rule of thumb is that if you'll be taking a lot of regional
 (slower) trains, then the pass is great since you don't need to reserve and
 you can just hop on the train, see the city, and go somewhere else. But if
@@ -221,22 +223,21 @@ currently situated in a hostel.
 
 **Other Fun Stats**
 
-# of days spent in Italy: 9  
-# of consecutive days I had pizza: 7  
-# of consecutive days I had pasta: 7
+\# of days spent in Italy: 9  
+\# of consecutive days I had pizza: 7  
+\# of consecutive days I had pasta: 7
 
 Lowest elevation achieved on foot: 2m (Amsterdam)  
 Highest: 2970m (Schiltorn, Switzerland)
 
 Most unexpected thing I had to buy: superglue
 
-# of pictures and videos taken: 4745
+\# of pictures and videos taken: 4745
 
 Dollar drink menu at McDonalds in Italy serves: pop, water, beer  
 Big Mac Combo in Switzerland: 13 francs  
-  
-# of Madonna e Bambino (Virgin and the Child) paintings I saw: too many.
+
+\# of Madonna e Bambino (Virgin and the Child) paintings I saw: too many.
 
 That's all for now folks, I will probably be moving onto the actual content of
 the trip in the next post. Until then!
-

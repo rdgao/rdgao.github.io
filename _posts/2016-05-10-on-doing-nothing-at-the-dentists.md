@@ -1,5 +1,5 @@
 ---
-title: 'On Doing-Nothing: At the Dentist''s'
+title: "On Doing-Nothing: At the Dentists"
 tags: [Musings]
 status: publish
 type: post
@@ -10,7 +10,9 @@ header:
   overlay_filter: rgba(0,0,0,0.2)
   #teaser: /assets/images/blog/default_header.jpg
 
-excerpt: ""
+excerpt: "Doing-nothing has been losing ground to doing-something at a very fast pace,
+with the pervasiveness of the interwebs and hand-held entertainment steadily
+permeating through every crevice of our lives."
 ---
 Doing-nothing has been losing ground to doing-something at a very fast pace,
 with the pervasiveness of the interwebs and hand-held entertainment steadily

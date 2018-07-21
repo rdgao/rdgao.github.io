@@ -1,14 +1,22 @@
 ---
-title: 'Creative Serendipity: Death by Googling'
-categories:
-- Rambling
-tags: []
+title: 'Creative Serendipity: Death by Googling.'
+tags: [Reflection, Science]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "I'm just going to end today's segment with this: we often applaud the
+innovators of every generation for their massive
+creativity/intellect/ingenuity, but what we should really be admiring is their
+courage to do the wrong thing. I should have named this piece \"Larry Page probably doesn't use Google.\"
+"
+
+---
 This topic has been written to near-death, given how many different articles
 I've read regarding the adverse effects of the information age. Alas, as I've
 yet again procrastinated away a full writing week, and considering how I've
@@ -114,8 +122,7 @@ stops being problem-solving, but rather, how to find the answer on Google.
 
 I'm just going to end today's segment with this: we often applaud the
 innovators of every generation for their massive
-creativity/intellect/ingenuity, but what we should really be admiring is their
+creativity /intellect /ingenuity, but what we should really be admiring is their
 courage to do the wrong thing.
 
 I should have named this piece "Larry Page probably doesn't use Google."
-

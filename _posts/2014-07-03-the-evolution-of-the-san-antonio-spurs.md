@@ -1,14 +1,18 @@
 ---
-title: 'San Antonio: A Tale of Two Spurs'
-categories:
-- Analytics
-tags: []
+title: 'San Antonio: A Tale of Two Spurs.'
+tags: [Data & Analytics]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2014-07-03-spurs-0.png
+  overlay_filter: rgba(0,0,0,0.2)
+  teaser: /assets/images/blog/2014-07-03-spurs-0.png
 
+excerpt: "Honestly though: the Spurs getting too old 6 seasons ago was the reason why
+the Spurs won the title this year. Isn't that something?"
+---
 The San Antonio Spurs (SAS) became the NBA Champions, for the 5th time in the
 Duncan Era (1997/98-Present), on June 15, 2014. It was full of beautiful and
 heartwarming storylines: from the revenge of last year's loss, to the Big
@@ -53,11 +57,10 @@ team that scores 80 points in 80 possessions is much more efficient than one
 that scores 100 points in 120 possessions. Defensive prowess is adjusted in
 the same fashion in order to evaluate just how stingy a defense is.
 
-![Figure 1. SAS vs. League Average, Per 100 Possession
-Rating](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b0a465e4b090217793f172_1404085351937_AbsRating.JPG_)
-Figure 1. SAS vs. League Average, Per 100 Possession Rating ![Figure 2. SAS
-Relative Per 100%
-Ratings](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b0a4b8e4b07bdcd67b8ae1_1404085433583__img.jpg_)
+![](/assets/images/blog/2014-07-03-spurs-1.jpg)
+Figure 1. SAS vs. League Average, Per 100 Possession Rating
+
+![](/assets/images/blog/2014-07-03-spurs-2.jpg)
 Figure 2. SAS Relative Per 100% Ratings
 
 Figure 1 shows SAS offensive (red) & defensive (blue) ratings, and pace
@@ -77,7 +80,7 @@ between pink and blue). What does this mean? It means the Spurs played slowly,
 scored infrequently, and allowed opponents to score even more infrequently,
 i.e. sleep-inducing basketball. Everyone appreciates good team defense, it's
 just... nobody really enjoys watching it. I remember reading that the 2007
-Finals had one of the worst TV ratings for NBA Finals [1], and guess who won?
+Finals had one of the worst TV ratings for [NBA Finals][1], and guess who won?
 See the vertical line. A small part of me thinks that David Stern went to the
 Spurs that year and left a phone message like this:
 
@@ -131,11 +134,10 @@ goals simply because it had more possessions, and making a fair comparison
 between SAS and league. The adjustment is not applicable for the percentage
 stat.
 
-![Figure 3. SAS \(Black\) vs. League \(Blue\) Field Goal
-Stats](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b194dae4b037526d8df8e7_1404146906171_SAS_FG.JPG_)
-Figure 3. SAS (Black) vs. League (Blue) Field Goal Stats ![Figure 4. SAS vs.
-League Freethrow
-Stats](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b194eae4b03918d8ffbabf_1404146924042_SAS_FT.JPG_)
+![](/assets/images/blog/2014-07-03-spurs-3.jpg)
+Figure 3. SAS (Black) vs. League (Blue) Field Goal Stats
+
+![](/assets/images/blog/2014-07-03-spurs-4.jpg)
 Figure 4. SAS vs. League Freethrow Stats
 
 In Figure 3, you can, once again, clearly distinguish the transformation of
@@ -159,11 +161,10 @@ on, but while the league maintained its FT%, SAS improved drastically after
 compared to the league. Freethrows usually come from contested shots in the
 paint, hmm....
 
-![Figure 5. SAS \(Black\) vs. League \(Blue\) 2-Point
-Stats](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b19eede4b0d9b20b7537fa_1404149494493_SAS_2P.JPG_)
-Figure 5. SAS (Black) vs. League (Blue) 2-Point Stats ![Figure 6. SAS vs.
-League 3-Point
-Stats](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b19ef6e4b0d9b20b753805_1404149496102__img.jpg_)
+![](/assets/images/blog/2014-07-03-spurs-5.jpg)
+Figure 5. SAS (Black) vs. League (Blue) 2-Point Stats
+
+![](/assets/images/blog/2014-07-03-spurs-6.jpg)
 Figure 6. SAS vs. League 3-Point Stats
 
 Seeing how SAS began to attempt and make more field goals, we might ask where
@@ -206,11 +207,10 @@ look at the Spurs' rebounding, assists, and other support stats in the 16-year
 period. Once again, the numbers are adjusted to Pace, so they represent per
 100 possession stats.
 
-![Figure 7. Spurs vs. League Offensive
-Categories](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b1e877e4b070f48983058b_1404168313476__img.jpg_)
-Figure 7. Spurs vs. League Offensive Categories ![Figure 8. Spurs vs. League
-Defensive
-Categories](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b1e8b2e4b070f4898305d3_1404168371615__img.jpg_)
+![](/assets/images/blog/2014-07-03-spurs-7.jpg)
+Figure 7. Spurs vs. League Offensive Categories
+
+![](/assets/images/blog/2014-07-03-spurs-8.jpg)
 Figure 8. Spurs vs. League Defensive Categories
 
 First, we'll take a look at the offensive categories (Figure 7): offensive
@@ -218,7 +218,7 @@ rebounding, assists, and turnovers. The highlight here should be obvious: SAS
 went from an average/slightly above average assist team, to become a passing
 machine, beginning in 2009. Assists numbers rose steadily from 09 to 14,
 resulting in 3 more assists per 100 possessions. In fact, the Spurs has been
-number one in the league in assists per game for the past two years [2].
+number one in the league in assists per game for the [past two years][2].
 Coupled with the high field goal percentage, as well as a slightly higher
 pace, this combination handily explains the Spurs rise to offensive dominance.
 In addition, we see in the turnover numbers that, indeed, the Old Spurs were
@@ -248,11 +248,10 @@ crashed the offensive boards less, and blocked much less shots.
 
 **San Antonio Spurs: Master of Father Time**
 
-![Figure 9. Spurs Age Ranked to League Average \(1st =
-Oldest\)](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b1f2bfe4b09bbee985a804_1404170952735__img.jpg_)
-Figure 9. Spurs Age Ranked to League Average (1st = Oldest) ![Figure 10. Tim
-Duncan's and Tony Parker's Minutes Per
-Game](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b4e6b0e4b0d4fbd4f5618f_1404364466829_TD_MPG.JPG_)
+![](/assets/images/blog/2014-07-03-spurs-9.jpg)
+Figure 9. Spurs Age Ranked to League Average (1st = Oldest)
+
+![](/assets/images/blog/2014-07-03-spurs-10.jpg)
 Figure 10. Tim Duncan's and Tony Parker's Minutes Per Game
 
 I believe the above two graphs explain most, if not all, of San Antonio's
@@ -284,10 +283,10 @@ rights, they just weren't the 30-points-a-night kind of guards like a Chris
 Paul or a Dwyane Wade, which meant that there had to be a more sophisticated
 system on offense.
 
-![Figure 11. Tim Duncan's Field Goal
-Stats](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b4e6e2e4b0d35f43cbaf79_1404364530552_TD_FG.JPG_)
-Figure 11. Tim Duncan's Field Goal Stats ![Figure 12. Tim Duncan's Other
-Stats](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53b4e6e5e4b0cea0a54ce8da_1404364537126_TD_Stats.JPG_)
+![](/assets/images/blog/2014-07-03-spurs-11.jpg)
+Figure 11. Tim Duncan's Field Goal Stats
+
+![](/assets/images/blog/2014-07-03-spurs-12.jpg)
 Figure 12. Tim Duncan's Other Stats
 
 The final two figures display Tim Duncan's shooting numbers (left) and
@@ -349,7 +348,6 @@ less accurate but smooths things out a bit, so we like that.
 
 _____
 
-[1] http://sports.espn.go.com/nba/playoffs2007/news/story?id=2905923
+[1]:http://sports.espn.go.com/nba/playoffs2007/news/story?id=2905923
 
-[2] http://www.basketball-reference.com/teams/SAS/stats_per_game.html
-
+[2]:http://www.basketball-reference.com/teams/SAS/stats_per_game.html

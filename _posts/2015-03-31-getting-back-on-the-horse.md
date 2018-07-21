@@ -1,14 +1,17 @@
 ---
-title: Getting Back On the Horse
-categories:
-- Rambling
-tags: []
+title: 'Getting Back On the Horse.'
+tags: [Reflection, Science Communication]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "Is \"Perfect is the enemy of good\" too cliche of a tattoo?"
+---
 If there was an award for how hard someone fell off the horse, my 4-month
 hiatus from writing would probably place podium. Although, I think we can all
 agree that it's better late - very, very, very late - than never, which
@@ -104,4 +107,3 @@ too cliche of a tattoo?
 
 I can't end this without a reference to
 [this](https://www.youtube.com/watch?v=YVkUvmDQ3HY&spfreload=10).
-

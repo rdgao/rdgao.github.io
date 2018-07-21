@@ -1,16 +1,19 @@
 ---
-title: 'Book Thoughts: The Fault In Our Stars'
-categories:
-- Readings
-tags: []
+title: 'The Fault In Our Stars.'
+tags: [Readings]
 status: publish
 type: post
 published: true
-meta: {}
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
+
+excerpt: "Reading TFIOS as a 23-year old male is like watching the Dark Knight
+trilogy but not knowing who the fuck Batman is and not caring about the
+action, while appreciating the chaos and struggle."
 ---
-
-June 16
-
 I picked up The Fault In Our Stars by John Green (NERDFIGHTER) in hopes of
 finishing it this week so I (we, really) can watch the movie. I'm on chapter 4
 right now and I've got some mixed feelings about it. Let me preface this by
@@ -43,7 +46,6 @@ which led me to conclude the following 3 possibilities: 1) he made it all up;
 2) he was close to someone through it all; and 3) he did his homework in
 interviewing patients. Whichever the case, hats off to him, and despite the
 teenage-feel of the book, I still have high hopes for the rest of it.
-
 _____
 
 Two more chapters in, and it reminded me that reading (fictions), aside from
@@ -162,4 +164,3 @@ because it wasn't really a happy ending. I mean, even before I picked up the
 book I knew one of them was going to die in the end. Still, who doesn't like a
 happy ending? But then again, this is as real life as real life gets, so,
 kudos to John Green for keepin' it real.
-

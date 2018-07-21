@@ -1,18 +1,22 @@
 ---
-title: See no evil
-categories:
-- Rambling
-tags: []
+title: 'See no evil.'
+tags: [Reflection]
 status: publish
 type: post
 published: true
-meta:
-  structured_content: '{"oembed":{},"overlay":true}'
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "In reality, it's just a bunch of regular Joes
+and Janes sitting on the (extremely) long end of a seesaw, catapulting the
+world across from them - not by malicious intent, but by something as natural
+as gravity: our own greed."
+---
 Below is an excerpt from a recent post on Wait But Why (see full - in all
-senses of the word "full" - post, [here](http://waitbutwhy.com/2015/06/how-
-tesla-will-change-your-life.html)) :
+senses of the word "full" - post, [here](http://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html)):
 
 > The harm caused is now an unaccounted-for cost, also known as a negative
 externality, and my incentives are no longer aligned with the customer’s best

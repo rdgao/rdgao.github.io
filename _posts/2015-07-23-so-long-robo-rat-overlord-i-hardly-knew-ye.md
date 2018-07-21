@@ -1,15 +1,19 @@
 ---
-title: So long, robo-rat overlord. I hardly knew ye.
-categories:
-- Neuroscience
-- Readings
-tags: []
+title: 'So long, robo-rat overlord. I hardly knew ye.'
+tags: [Brain & Cognition, Science Communication, Readings]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2015-07-23-rat-overlords.jpg
+  overlay_filter: rgba(0,0,0,0.7)
+  teaser: /assets/images/blog/2015-07-23-rat-overlords.jpg
 
+excerpt: "If you're looking for a TL;DR, here it is: it's not as crazy as it sounds, not
+even close, it certainly isn't forecasting weather in any meaningful way. That
+being said, it was still kinda cool...kinda."
+---
 So about a week ago I read [this](http://www.nature.com/articles/srep11869)
 [1] article from Nature, about what I thought at the time was to become our
 rat-robotic overlords. If you haven't read the article, here's an excerpt from
@@ -56,9 +60,8 @@ being said, it was still kinda cool...kinda. Skip to the section that says
 I'll start with the setup. Here's Figure 1 from the paper describing the
 Brainet:
 
-![Figure 1. Click on figure to
-expand.](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_55af3563e4b0c02282928028_1437545832229_srep11869-f1.jpg_)
-Figure 1. Click on figure to expand.
+![](/assets/images/blog/2015-07-23-rat-overlords.jpg)
+Figure 1.
 
 Each rat receives electrical input to S1, which is shorthand for somatosensory
 cortex, which is shorthand for "the part of your brain that processes

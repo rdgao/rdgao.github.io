@@ -1,14 +1,18 @@
 ---
-title: Don't Worry, Be Being Happy
-categories:
-- Rambling
-tags: []
+title: "Don't Worry, Be Being Happy"
+tags: [Reflection, Brain & Cognition]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "Instead of saying \"I am sad\", sometimes it feels better to say \"I am being
+sad\", as stupid as that might sound."
+---
 I've had the (un)fortunate opportunity to learn about many somewhat-outdated
 cognitive models over the past two months of my education in Cognitive
 Science, one of them being Conceptual Metaphor Theory. I will spare you the
@@ -88,4 +92,3 @@ shell, so "is" actually only means passively having an attribute. But what I
 AM saying is simply this (conditioned on your belief of your own existence):
 instead of saying "I am sad", sometimes it feels better to say "I am being
 sad", as stupid as that might sound.
-

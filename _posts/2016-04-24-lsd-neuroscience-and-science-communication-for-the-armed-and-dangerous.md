@@ -1,6 +1,6 @@
 ---
-title: 'LSD, Neuroscience, and Science Communication for the Armed and Dangerous'
-tags: [Brain & Cognition, Science Communication]
+title: "LSD, Neuroscience, and Science Communication for the Armed and Dangerous."
+tags: [Brain & Cognition, Science Communication, Readings]
 status: publish
 type: post
 published: true
@@ -10,12 +10,7 @@ header:
   overlay_filter: rgba(0,0,0,0.7)
   teaser: /assets/images/blog/2016-04-24-LSD1.png
 
-excerpt: "The third group is what I would call \"armed and dangerous\", and given the
-dramatic increase in our ability to access information via the internet, this
-is a growing group of concern. Basically, armed and dangerous means that you
-are educated enough to understand the information, perhaps because you have an
-education in sciences or a related field, and you WILL make life decisions
-based on it."
+excerpt: "Basically, armed and dangerous means that you are educated enough to understand the information, perhaps because you have an education in sciences or a related field, and you WILL make life decisions based on it."
 ---
 
 **tl;dr** : started out explaining a paper about LSD, visual hallucination,

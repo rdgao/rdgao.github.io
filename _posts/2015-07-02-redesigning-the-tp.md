@@ -1,14 +1,20 @@
 ---
-title: Redesigning the TP
-categories:
-- Rambling
-tags: []
+title: 'Redesigning the TP.'
+tags: [Musings]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "In other words, we NEED to
+decouple the two functional components of toilet paper - soft contact and
+rigid support - such that prioritizing for one does not come at the cost of
+the other."
+---
 Toilet paper is not made optimally.
 
 When you wipe your butt, only that one square that makes direct contact has to
@@ -32,4 +38,3 @@ the other.
 It's a whole nother story if you're a crumpler though. Maybe the fact that
 toilet paper is not designed this way is direct evidence that it's meant to be
 used as crumplers do.
-

@@ -1,15 +1,17 @@
 ---
-title: Cause and Effect
-categories:
-- Science
-- Rambling
-tags: []
+title: 'Cause and Effect.'
+tags: [Science, Musings]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "Correlation neither is nor implies causation- it's simply more useful."
+---
 Correlation neither is nor implies causation- it's simply more useful.
 
 Something that's been bothering me for a while is this notion of cause and
@@ -48,7 +50,7 @@ into the problem of induction, the line of reasoning that infers future from
 past. This is perhaps the most crucial concept in the scientific inquiry,
 which ironically is not the concern of scientists, falling instead in the
 domains of philosophy of science. The problem of induction has been discussed
-by Western philosophers (*the extent of my knowledge from a 200-level course)
+by Western philosophers (the extent of my knowledge from a 200-level course)
 dating back to ancient Greece, sprinkled with resolutions from prominent
 mathematicians and scientists, but the problem still stands: any experimental
 observations cannot be guaranteed to apply to the future. To put it more
@@ -112,4 +114,3 @@ Models and Cross-spectral Methods". _Econometrica_ **37** (3): 424–438.
 Encyclopedia. April 2, 2014, 05:39 UTC. Available at:
 [http://en.wikipedia.org/w/index.php?title=Granger_causality&oldid=602374976](http://en.wikipedia.org/w/index.php?title=Granger_causality&oldid=602374976).
 Accessed May 18, 2014.
-

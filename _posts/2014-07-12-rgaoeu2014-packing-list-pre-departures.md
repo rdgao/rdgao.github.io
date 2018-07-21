@@ -1,14 +1,15 @@
 ---
-title: 'RGAO|EU2014: Packing List & Pre-Departures'
-categories:
-- Europe2014
-tags: []
+title: 'RGAO\|EU2014: Packing List & Pre-Departures'
+tags: [Travels]
 status: publish
 type: post
 published: true
-meta: {}
+categories: []
+header:
+  overlay_image: /assets/images/blog/2014-08-10-rgao-eu2014-route.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  teaser: /assets/images/blog/2014-08-10-rgao-eu2014-route.jpg
 ---
-
 I'll be on the plane heading for Barcelona tonight, and so begins my month
 long backpacking trip through Western Europe. My plan is to continue writing
 once a week, though I'm hoping that I'll get bit by the writing bug when I'm
@@ -21,11 +22,7 @@ aspect of this trip today: packing and planning.
 
 **Packing**
 
-![Packing
-List](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53bb6e0de4b053aeb124f9ba_1404792335853_packinglist.jpg_)
-Packing List
-![Packs](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53bf77c3e4b0974b49e13d9b_1405057050382_Packs.jpg_)
-Packs
+![](/assets/images/blog/2014-08-10-rgao-eu2014-equipment.jpg)
 
 Packing list (left). From top left:  
 [top row] rain jacket, 4 t-shirts + dress shirt, 4 pairs of undies + socks,
@@ -35,6 +32,9 @@ toiletries, bottled shampoo + soap + hand sanitizer, clif bars, shorts + long
 sleeve, pants + hoodie;  
 [bottom row] outlet adapter, tablet (bike light on top), keyboard, disposable
 camera, sunglasses, journal, eyemask, TideToGo, daily survival kit.
+
+
+![](/assets/images/blog/2014-08-10-rgao-eu2014-packs.jpg)
 
 Packs (Right): daypack and 50L backpack, both from Mountain Equipment Coop
 
@@ -59,9 +59,9 @@ trip, I'll make a list and see how many of these things were actually useful.
 
 **Planning**
 
-![Route](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53bf7a24e4b0cec79db2d30b_1405057573625_Route.jpgRoute_)
-Route ![TENTATIVE
-Schedule](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_53bf7a32e4b0cec79db2d316_1405057602971_EuroSched.jpg_)
+![](/assets/images/blog/2014-08-10-rgao-eu2014-route.jpg)
+Route
+![](/assets/images/blog/2014-08-10-rgao-eu2014-schedule.jpg)
 TENTATIVE Schedule
 
 Here is my route and schedule, tentative. Everything is tentative really,

@@ -1,15 +1,19 @@
 ---
-title: You don't know what foodporn is.
-categories:
-- Science
-- Rambling
-tags: []
+title: "You don't know what foodporn is."
+tags: [Musings, Science]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/2015-07-30-soylent2.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  teaser: /assets/images/blog/2015-07-30-soylent2.jpg
 
+excerpt: "Well, if you are too lazy to make lunch everyday, too sane to eat shit lunch
+everyday, or are too poor to purchase \"healthy\" lunches everyday, Soylent is
+for you."
+---
 When you spend 3 hours making a nice homemade meal, don't hashtag it foodporn,
 appreciate it. That's like foodcommitment or foodrelationship or at least
 foodsex. Same thing with dropping a week's paycheque at a restaurant, that's
@@ -22,8 +26,7 @@ anyway cuz sometimes you just gotta do what you gotta do.
 Okay this analogy is getting a bit out of hand. I present to you: the real
 foodporn.
 
-![Soylent. Truly,
-#foodporn.](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_55b70f58e4b07c9d90779ba2_1438060398814__img.jpg_)
+![](/assets/images/blog/2015-07-30-soylent1.jpg)
 Soylent. Truly, #foodporn.
 
 What is that you say? That, my friend, is a bag of graduate-student-fuel, good
@@ -65,8 +68,7 @@ came with a bitchin' jug. If you're doing the math, that's a hair over $4 a
 meal, and if you get the most economical package, i.e. 4 weeks worth of it, it
 comes to be less than $3 a meal. WHAT?
 
-![My first box of soylent, and a free mixing jug
-:D](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_55b9c341e4b0ae0f6a8b0afd_1438237555843__img.jpg_)
+![](/assets/images/blog/2015-07-30-soylent2.jpg)
 My first box of soylent, and a free mixing jug :D
 
 It is now July 2015, and I've been eating Soylent consistently for weekday
@@ -124,8 +126,7 @@ you can find, too, kind of like a oatmeal smoothie mixed with soy milk. What
 do you know, that's also the description for its texture. Now I'm starting to
 think it's just ground up oatmeal with soy milk.
 
-![I gotta know what a $5 dollar shake tastes
-like.](/squarespace_images/static_5351781ce4b0757a373c3d73_535182ade4b0bcfb2b4574dd_55b9c675e4b010ed13407119_1438238451408__img.jpg_)
+![](/assets/images/blog/2015-07-30-soylent3.jpg)
 I gotta know what a $5 dollar shake tastes like.
 
 It appears that some people rather like the taste, and even become fond of it.
@@ -216,4 +217,3 @@ get a full breakfast on the go: just grab a bottle. Obviously I'm not
 sponsored by them or anything, or I wouldn't have told you to gas and poo
 problems. It's just a great product that I can stomach and feel somewhat
 healthy about my life choices...until somebody dies, that is.
-

@@ -10,7 +10,7 @@ header:
   overlay_filter: rgba(0,0,0,0.2)
   #teaser: /assets/images/blog/default_header.jpg
 
-excerpt: ""
+#excerpt: ""
 ---
 Jan 5, 2017
 

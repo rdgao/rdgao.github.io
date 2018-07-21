@@ -10,29 +10,29 @@ classes: wide
 
 gallery_NFP:
   - url: /assets/images/projects/nfp0.png
-    image_path: /assets/images/projects/thumbnail/tn_nfp0.png
+    image_path: /assets/images/projects/thumbnail/nfp0.png
   - url: /assets/images/projects/nfp1.png
-    image_path: /assets/images/projects/thumbnail/tn_nfp1.png
+    image_path: /assets/images/projects/thumbnail/nfp1.png
   - url: /assets/images/projects/nfp2.png
-    image_path: /assets/images/projects/thumbnail/tn_nfp2.png
+    image_path: /assets/images/projects/thumbnail/nfp2.png
 
 gallery_ORG:
   - url: /assets/images/projects/org0.png
-    image_path: /assets/images/projects/thumbnail/tn_org0.png
+    image_path: /assets/images/projects/thumbnail/org0.png
   - url: /assets/images/projects/org1.png
-    image_path: /assets/images/projects/thumbnail/tn_org1.png
+    image_path: /assets/images/projects/thumbnail/org1.png
   - url: /assets/images/projects/org2.png
-    image_path: /assets/images/projects/thumbnail/tn_org2.png
+    image_path: /assets/images/projects/thumbnail/org2.png
 
 gallery_COG:
   - url: /assets/images/projects/cog0.png
-    image_path: /assets/images/projects/thumbnail/tn_cog0.png
+    image_path: /assets/images/projects/thumbnail/cog0.png
   - url: /assets/images/projects/cog1.png
-    image_path: /assets/images/projects/thumbnail/tn_cog1.png
+    image_path: /assets/images/projects/thumbnail/cog1.png
   - url: /assets/images/projects/cog2.png
-    image_path: /assets/images/projects/thumbnail/tn_cog2.png
+    image_path: /assets/images/projects/thumbnail/cog2.png
 ---
-Collected below are projects for my own PhD research in computational and cognitive (neuro)science, stuff I contribute to, as well as some fun personal projects. Associated code and papers are included wherever possible.
+Collected below are projects for my own PhD research in computational and cognitive (neuro)science, stuff I contribute to, as well as some fun personal projects. Associated code and papers are included wherever possible. You can find all of them on [Google Scholar][0].
 
 ---
 # Modeling and Decomposing Neural Field Potentials
@@ -86,6 +86,7 @@ Much of cognitive science and cognitive neuroscience aim to characterize and und
 ### neurodsp - Toolbox for Analyzing Time Series Data in Neuroscience
 <a href='https://github.com/voytekresearch/neurodsp' class='btn btn--info'>GitHub</a>
 
+[0]:https://scholar.google.com/citations?user=a2o9IKYAAAAJ
 [1]:https://twitter.com/parenthetical_e
 [2]:https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/Pages/default.aspx
 [3]:http://www.cognitiveatlas.org/

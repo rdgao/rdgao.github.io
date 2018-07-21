@@ -1,14 +1,17 @@
 ---
-title: 'RGAO|EU2014: Prologue'
-categories:
-- Europe2014
-tags: []
+title: 'RGAO\|EU2014: Prologue'
+tags: [Travels]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+#excerpt: ""
+---
 _After it's all over, the first and only question that crosses your mind is:_
 
 _"Was all of it real?"_
@@ -91,4 +94,3 @@ worthwhile.
 
 As I sat there, ironically awake, I began to wonder if I'll ever dream of the
 journey I was about to embark on...
-

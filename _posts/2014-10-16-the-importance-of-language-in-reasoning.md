@@ -1,14 +1,21 @@
 ---
-title: The importance of language in reasoning
-categories:
-- Rambling
-tags: []
+title: 'The importance of language in reasoning.'
+tags: [Brain & Cognition, Readings]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "In reality, much of our reasoning, especially
+in the context of everyday life, occurs subconsciously, far removed from
+explicit representations through language. In this sense, there’s no reason to
+think that animals do not reason, as every animal is able to make conclusions
+based on previous and contextual evidence."
+---
 In the study of cognitive science, we would like to think that humans employ a
 fairly formal system of reasoning, meaning that computations in the mind are
 somehow form-invariant, that words are not minced, and that we take what was
@@ -114,4 +121,3 @@ think that animals do not reason, as every animal is able to make conclusions
 based on previous and contextual evidence. It is with the realization of
 having committed the mortal sin of anthropocentricity that I shamefully
 conclude my essay.
-

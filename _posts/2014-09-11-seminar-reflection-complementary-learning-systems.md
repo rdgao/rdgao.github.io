@@ -1,14 +1,17 @@
 ---
-title: Seminar Reflection - Complementary Learning Systems
-categories:
-- Neuroscience
-tags: []
+title: 'Seminar Reflection - Complementary Learning Systems'
+tags: [Brain & Cognition]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+#header:
+  #overlay_image: /assets/images/blog/default_header.jpg
+  #overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+#excerpt: ""
+---
 Yesterday over lunch, I was lamenting over the fact that all these damn papers
 I read seem to not go anywhere permanent in my brain. I mean, I can recall one
 when I read the title and tell you what it's about and its key findings, but I
@@ -151,4 +154,3 @@ research, if I remember (and that's a BIG if). Also, as always, feel free to
 tell me that you thought of something interesting while reading, or that I was
 right or wrong or whatever, or that I'm an idiot (but you won't be adding
 anything new).
-

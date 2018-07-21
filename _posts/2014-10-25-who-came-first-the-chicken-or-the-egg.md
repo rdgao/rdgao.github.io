@@ -1,14 +1,17 @@
 ---
 title: 'Who came first: the chicken or the egg?'
-categories:
-- Science
-tags: []
+tags: [Brain & Cognition, Readings]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+#header:
+#  overlay_image: /assets/images/blog/default_header.jpg
+#  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+#excerpt: ""
+---
 Is similarity the basis of categorization? Or does categorization inevitably
 lead to similarity? Will we ever know? Is this even a good question? In
 addressing this century-old psychology question, I will first go over the four
@@ -165,4 +168,3 @@ this discussion is full of the biases of a neuroscience student, but I do
 believe that uncovering the mechanisms of our behaviour is a leg up from just
 characterizing the input-output responses of the blackbox that is the human
 brain.
-

@@ -5,12 +5,12 @@ status: publish
 type: post
 published: true
 categories: []
-header:
-  overlay_image: /assets/images/blog/default_header.jpg
-  overlay_filter: rgba(0,0,0,0.2)
+#header:
+#  overlay_image: /assets/images/blog/default_header.jpg
+#  overlay_filter: rgba(0,0,0,0.2)
   #teaser: /assets/images/blog/default_header.jpg
 
-excerpt: ""
+#excerpt: ""
 ---
 
 an excerpt from [The Terrible Beauty of Brain

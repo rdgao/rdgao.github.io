@@ -1,14 +1,20 @@
 ---
-title: Moving Forward
-categories:
-- Rambling
-tags: []
+title: 'Moving Forward.'
+tags: [Reflection]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "And so, it is on this day- a day of ending and beginning in every sense, but a
+day unceremoniously residing in its square on the calendar, preceded and
+preceding thousands more- that I start the documentary that is my little blog
+on my own website."
+---
 I wish I could come up with a better title for this very first piece, but I
 have to settle for the compromise between giving it too much, and at the same
 time, too little, importance. On the one hand, it marks the end of a
@@ -39,4 +45,3 @@ practice thinking, fleshing out an idea, documenting an event, or just
 polishing my writing for the sake of writing.
 
 Maybe I should have called it _Self-Titled._
-

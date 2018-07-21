@@ -1,16 +1,20 @@
 ---
-title: Questions drive science. Why not science class?
-categories:
-- Neuroscience
-- Science
-- Rambling
-tags: []
+title: 'Questions drive science. Why not science class?'
+tags: [Science Communication]
 status: publish
 type: post
 published: true
-meta: {}
----
+categories: []
+header:
+  overlay_image: /assets/images/blog/default_header.jpg
+  overlay_filter: rgba(0,0,0,0.2)
+  #teaser: /assets/images/blog/default_header.jpg
 
+excerpt: "We should encourage students to ask questions about science, just like how
+scientists ask questions about science. Not just questions in the sense of \"I
+don't understand this\", but more \"why is this the way it is?\", or better yet,
+the dreaded \"why are we studying this?\""
+---
 I went to another talk in the Kavli Institute for Brain and Mind (KIBM)
 seminar series at UCSD last night ([Nicola
 Allen](http://www.salk.edu/faculty/allen.html)). The title of her talk was
@@ -192,4 +196,3 @@ every kid gets that either.
 So, my friends, if you're on the way to becoming a science teacher, or even a
 professor, please, think of Harry Potter and how sad you would be if that
 story had no narrative or cliffhangers.
-
