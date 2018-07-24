@@ -17,3 +17,6 @@ gallery2:
     title: "Image 1 title caption"
 
 {% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+
+----- markdown shortcuts
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

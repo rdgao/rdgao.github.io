@@ -1,6 +1,6 @@
 ---
 title: 'How to be funny on Yelp: My wife and I hate this place.'
-tags: [Data & Analytics]
+tags: [Data & Technology]
 status: publish
 type: post
 published: true

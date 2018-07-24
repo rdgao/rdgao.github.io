@@ -41,7 +41,7 @@ var store = [{
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "San Antonio: A Tale of Two Spurs.",
         "excerpt":"The San Antonio Spurs (SAS) became the NBA Champions, for the 5th time in theDuncan Era (1997/98-Present), on June 15, 2014. It was full of beautiful andheartwarming storylines: from the revenge of last year’s loss, to the BigThree + Pop riding into the sunset (again), to the rise of Sugar...","categories": [],
-        "tags": ["Data & Analytics"],
+        "tags": ["Data & Technology"],
         "url": "http://localhost:4000/the-evolution-of-the-san-antonio-spurs/",
         "teaser":"http://localhost:4000/assets/images/blog/2014-07-03-spurs-0.png"},{
         "title": "RGAO\\|EU2014: Packing List & Pre-Departures",
@@ -61,7 +61,7 @@ var store = [{
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "3 Essential Apps for Backpacking Europe (and more)",
         "excerpt":"This post is exactly as the title says: 3 tremendously helpful apps (plus afew honorable mentions) that I used on a daily basis throughout my journey inEurope. I’m writing about this because I’m yet again procrastinating on mytrip documentation, but also because I believe they are quite handy. Some ofthese...","categories": [],
-        "tags": ["Travels"],
+        "tags": ["Travels","Data & Technology"],
         "url": "http://localhost:4000/3-essential-apps-for-backpacking/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "Seminar Reflection - Complementary Learning Systems",
@@ -101,7 +101,7 @@ var store = [{
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "Redesigning the TP.",
         "excerpt":"Toilet paper is not made optimally.When you wipe your butt, only that one square that makes direct contact has tobe soft on the surface, the rest is just padding that gets folded in.Furthermore, only one side of that square has to be soft, nobody (I hope) usesthe flip side of...","categories": [],
-        "tags": ["Musings"],
+        "tags": ["Musings","Data & Technology"],
         "url": "http://localhost:4000/redesigning-the-tp/",
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "So long, robo-rat overlord. I hardly knew ye.",
@@ -151,7 +151,7 @@ var store = [{
         "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"},{
         "title": "How to be funny on Yelp: My wife and I hate this place.",
         "excerpt":"TLDR: if you want to be funny (at least on Yelp), go to the worstrestaurants with your significant other (and pet?) and write a deeply personalaccount of how this traumatic experience has affected your life.Humor is a great way to connect with people, it lets them know that you’reprobably a...","categories": [],
-        "tags": ["Data & Analytics"],
+        "tags": ["Data & Technology"],
         "url": "http://localhost:4000/how-to-be-funny-on-yelp-my-wife-and-i-hate-this-place/",
         "teaser":"http://localhost:4000/assets/images/blog/2016-01-10-yelp-funny3.png"},{
         "title": "Wise Words",
@@ -318,4 +318,9 @@ var store = [{
         "excerpt":"It’s January of 2018. 40 months after I started my PhD. Wow. I know people saythat the years feel shorter as you get older, but these days are just zippingby way too fast. I realized somewhere in October that I forgot to write one ofthese for my third year, and...","categories": [],
         "tags": ["Reflection","Science"],
         "url": "http://localhost:4000/year-3-and-a-half/",
-        "teaser":"http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"}]
+        "teaser":"http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"},{
+        "title": "New (static) website with Jekyll and GitHub Pages",
+        "excerpt":"tl;dr: Jekyll + Github is a relatively easy gateway into using these development tools. Markdown in a text editor workflow is much smoother, in terms of writing, formatting, and embedding images. After using SquareSpace for my personal website for 4 years, I decided to say goodbye and switch to something...","categories": [],
+        "tags": ["Data & Technology"],
+        "url": "http://localhost:4000/jekyll-website-blog/",
+        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"}]

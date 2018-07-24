@@ -1,6 +1,6 @@
 ---
 title: '3 Essential Apps for Backpacking Europe (and more)'
-tags: [Travels]
+tags: [Travels, Data & Technology]
 status: publish
 type: post
 published: true

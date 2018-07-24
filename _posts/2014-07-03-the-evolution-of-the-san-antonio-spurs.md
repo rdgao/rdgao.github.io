@@ -1,6 +1,6 @@
 ---
 title: 'San Antonio: A Tale of Two Spurs.'
-tags: [Data & Analytics]
+tags: [Data & Technology]
 status: publish
 type: post
 published: true

@@ -1,6 +1,6 @@
 ---
 title: 'Redesigning the TP.'
-tags: [Musings]
+tags: [Musings, Data & Technology]
 status: publish
 type: post
 published: true
