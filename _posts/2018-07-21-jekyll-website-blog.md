@@ -10,7 +10,7 @@ header:
   overlay_filter: rgba(0,0,0,0.7)
   teaser: /assets/images/blog/2018-07-21-jekyll1.png
 
-excerpt: ""
+excerpt: "I felt that I wanted my website to reflect my new-found skillset and \"values\", if that's not too strong of a word? That also means having a fuller control of my blog content and using a set of open-source tools that the computational sciences and software engineering community embraces."
 ---
 # tl;dr:
 - SquareSpace is great for bloggers that don't want to mess with the internal components of website-generation, but has a somewhat slow and clunky interface, especially for markdown and embedding images/links/code.
