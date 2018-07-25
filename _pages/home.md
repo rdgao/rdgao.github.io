@@ -31,7 +31,7 @@ My [blog][blog] is spanned by everything in my life, from musings to reflections
 
 [projects]: /projects
 [blog]: /blog
-[cv]: /assets/data/cv.pdf
+[cv]: /assets/docs/cv.pdf
 [lab]: http://voyteklab.com/
 [toronto]: https://www.google.com/maps/place/Toronto,+ON,+Canada/@43.6570321,-79.6010345,10z/data=!3m1!4b1!4m5!3m4!1s0x89d4cb90d7c63ba5:0x323555502ab4c477!8m2!3d43.653226!4d-79.3831843
 [xinjiang]: https://www.google.com/maps/place/Xinjiang,+China/@41.4234964,75.9557332,5z/data=!3m1!4b1!4m5!3m4!1s0x3806008cfd7b4dab:0xa84116ec366707a1!8m2!3d42.5246357!4d87.5395855

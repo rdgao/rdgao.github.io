@@ -42,6 +42,7 @@ Collected below are projects for my own PhD research in computational and cognit
 
 ### Measuring Asynchronous (Stochastic) Population Firing (on-going)
 <a href='https://github.com/voytekresearch/spectralCV' class='btn btn--info'>GitHub</a>
+<a href='/assets/docs/gao_ccn2018.pdf' class='btn btn--success'>Paper</a>
 
 ### Inferring Synaptic Excitation-Inhibition Balance (2017)
 <a href='https://github.com/voytekresearch/EISlope' class='btn btn--info'>GitHub</a>

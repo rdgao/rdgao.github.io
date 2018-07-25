@@ -320,7 +320,7 @@ var store = [{
         "url": "http://localhost:4000/year-3-and-a-half/",
         "teaser":"http://localhost:4000/assets/images/blog/2018-01-16-year3-flappybird.png"},{
         "title": "New (static) website with Jekyll and GitHub Pages",
-        "excerpt":"tl;dr: Jekyll + Github is a relatively easy gateway into using these development tools. Markdown in a text editor workflow is much smoother, in terms of writing, formatting, and embedding images. After using SquareSpace for my personal website for 4 years, I decided to say goodbye and switch to something...","categories": [],
+        "excerpt":"tl;dr: SquareSpace is great for bloggers that don’t want to mess with the internal components of website-generation, but has a somewhat slow and clunky interface, especially for markdown and embedding images/links/code. Jekyll + Github is a great alternative, and learning how to use it serves as a friendly intro into...","categories": [],
         "tags": ["Data & Technology"],
         "url": "http://localhost:4000/jekyll-website-blog/",
-        "teaser":"http://localhost:4000/assets/images/singles/sun.jpg"}]
+        "teaser":"http://localhost:4000/assets/images/blog/2018-07-21-jekyll1.png"}]
