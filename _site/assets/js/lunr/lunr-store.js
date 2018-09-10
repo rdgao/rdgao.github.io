@@ -323,4 +323,9 @@ var store = [{
         "excerpt":"tl;dr: SquareSpace is great for bloggers that don’t want to mess with the internal components of website-generation, but has a somewhat slow and clunky interface, especially for markdown and embedding images/links/code. Jekyll + Github is a great alternative, and learning how to use it serves as a friendly intro into...","categories": [],
         "tags": ["Data & Technology"],
         "url": "http://localhost:4000/jekyll-website-blog/",
-        "teaser":"http://localhost:4000/assets/images/blog/2018-07-21-jekyll1.png"}]
+        "teaser":"http://localhost:4000/assets/images/blog/2018-07-21-jekyll1.png"},{
+        "title": "CCN2018: Thoughts and Hot-Takes",
+        "excerpt":"This is arguably a pretty lukewarm hot-take, but I slept for 12 hours last night after bombarding my brain with brain stuff (and beer, and Philly foods) for 4 days straight, and finally felt like I could string together coherent words again. No promises, though.Immediate post-conference thought: there were a...","categories": [],
+        "tags": ["Reflections","Mind & Brain"],
+        "url": "http://localhost:4000/CCN2018/",
+        "teaser":"http://localhost:4000/assets/images/blog/2018-09-09-CCNbanner.png"}]

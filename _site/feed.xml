@@ -1,4 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-24T20:46:24-04:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">New (static) website with Jekyll and GitHub Pages</title><link href="http://localhost:4000/jekyll-website-blog/" rel="alternate" type="text/html" title="New (static) website with Jekyll and GitHub Pages" /><published>2018-07-21T00:00:00-04:00</published><updated>2018-07-21T00:00:00-04:00</updated><id>http://localhost:4000/jekyll-website-blog</id><content type="html" xml:base="http://localhost:4000/jekyll-website-blog/">&lt;h1 id=&quot;tldr&quot;&gt;tl;dr:&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-09T21:38:45-04:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">CCN2018: Thoughts and Hot-Takes</title><link href="http://localhost:4000/CCN2018/" rel="alternate" type="text/html" title="CCN2018: Thoughts and Hot-Takes" /><published>2018-09-09T00:00:00-04:00</published><updated>2018-09-09T00:00:00-04:00</updated><id>http://localhost:4000/CCN2018</id><content type="html" xml:base="http://localhost:4000/CCN2018/">&lt;p&gt;This is arguably a pretty lukewarm hot-take, but I slept for 12 hours last night after bombarding my brain with brain stuff (and beer, and Philly foods) for 4 days straight, and finally felt like I could string together coherent words again. No promises, though.&lt;/p&gt;
+
+&lt;p&gt;Immediate post-conference thought: there were a lot of man-buns, and one Philly cheesesteak was enough for me.&lt;/p&gt;
+
+&lt;p&gt;In all seriousness, this was my first CCN and I had a lot of fun in Philly. The smaller scale of the conference and the organizers’ effort to emphasize socializing made the experience a lot more personal, especially compared to SfN. It was eye-opening learning about all sorts of things that I’m not immediately exposed to, though there was way too many deep neural networks for my personal taste. That being said, I really hope this conference continues for years to come and crafts an identity complementary to NIPS and COSYNE. Here are some thoughts in 4 sections:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#some-favorite-talks&quot;&gt;personal favorite talks&lt;/a&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Alison Gopnik, Ryan Adams, Dani Bassett, Ugurcan Mugan&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#on-mind-matching-and-socializing&quot;&gt;thoughts on the mind-matching session&lt;/a&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;awesome idea, would love to see this evolve. Even randomly matching would be fun, with some suggested ice-breakers.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#on-the-panel-discussion-and-debate&quot;&gt;on the panel debate and what question should we be asking ourselves&lt;/a&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;spoiler alert, it’s not “when would we be done with neuroscience?”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#on-the-conference-content-as-a-whole&quot;&gt;thoughts on the research presented (poster and talks) as a whole and suggestions for the future&lt;/a&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;too much deep learning ~ brain and not enough LFPs, oscillations, dynamical systems, and embodied cognition/computation.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;some-favorite-talks&quot;&gt;Some favorite talks&lt;/h3&gt;
+&lt;p&gt;I enjoyed Alison Gopnik’s opening keynote, because it injected the conference with a good dose of experimental &amp;amp; developmental psychology but also drew from learning algorithms, nicely rounding out the Venn diagram in CCN. She posed the question of why it would be beneficial for animals with higher adult intelligence to have such a long developmental period with relatively poor cognitive abilities. The punchline is that, instead of thinking about the long developmental period and playing as defective or yet-to-be matured intelligence, that we should think about it as the exploration phase during reinforcement learning (explore vs. exploit strategies), or the high-temperature phase during simulated annealing. In plain English, it means children mess around and choose suboptimal choices not because they’re stupid mini-adults, but that our species’ brains had evolved such that it values trying out different options even if with it comes a short-term cost. She went through some experiments that I won’t repeat here, but the takeaway is that children were quicker in learning rules in lab games (e.g., Blickets game) that would otherwise contradict learned experiences of, say, an undergrad or an adult.&lt;/p&gt;
+
+&lt;p&gt;The talk appealed to my intuition on how children behave and gave a plausible reason from the perspective of evolutionary biology, and it has potential implications on early education and parenting. My biggest question here is: what is it that the children are actually learning during this period of high-temperature annealing and hypothesis-space exploration? All the experiments demonstrated that they were able to flexibly learn constrained game rules during childhood, and suppose it generalized to real-life problems, it’s not clear how humans would benefit from this period of learning unless they were able to take some of the principles into adult life, and I’m not sure what those principles are. One plausible idea is that children, during play/exploration, learn that making mistakes is sometimes good, and the memories of these rewarding mistakes could carry into adulthood such that it motivates them to do “noisy gradient descent” as a policy during adult life, in order to avoid locally optimal solutions. If you don’t learn this as a child, you might eventually learn this as an adult and end up packing up your life during a mid-life crisis. Too real.&lt;/p&gt;
+
+&lt;p&gt;Side note: it was awesome that she made a point to ask the women in the audience for questions first, setting up the tone for the rest of the conference, and indeed there were some great questions.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;I liked Ryan Adam’s keynote as well, as it was a very digestible overview of deep learning and probabilistic graphical models for those of us that are not in the thick of things in ML. Tim Lillicrap’s talk was the complement of this, meaning a lot of mathematical details for a specific learning algorithm, namely, combining reinforcement learning with an indexable memory element. Both talks appealed to neuroscience at a very cursory level (e.g., sparse memory in the hippocampus), and focused on the advances it made in ML, which I didn’t mind because they were educational for an outsider trying to understand the state of the art in this related but tangential field. One theoretical takeaway that’s consistent with the rest of the conference was that people are really looking for modularity and structure in learning algorithms, as the dense and homogeneous architecture of most neural networks simply do not give us the interpretability we want as humans, especially those that want to understand some aspect of the brain as well. At the end of the day, scientists like low-dimensional abstractions as a measure of understanding, and I tend to agree here.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;One of my favorite talks was a contributed talk by Ugurcan Mugan, who argued that animals who could see farther (i.e., those that have bigger eyes and live on land) have a better ability to plan in a long term fashion, and therefore developed a better ability to plan in a long term fashion for survival (continuation of &lt;a href=&quot;http://www.pnas.org/content/early/2017/03/09/1615563114.short&quot;&gt;this work&lt;/a&gt;). If you’re a fish that lives in the sea - an environment with very low visibility - there’s no point for you to be able to predict what will happen 20 meters out because you will never acquire the information required to update those plans. Note that this argument only applies for vision, and it’s possible that it will break down when you account for other senses, like olfaction in sharks. Nevertheless, it’s a great example of considering environmental factors AND our physical hardware when taking into consideration the task the brain has to solve in the context of the only thing that matters during evolution - survival. Another exciting element about this work is the potential implications about memory: space and time is inseparable, and if you can see further, then you need to plan further in time. And if you need to plan further in time, it stands to reason that you need to remember further back in time. It’s a conjecture, and I’m not well-versed enough on the embodied cognition literature to know whether this is old news or a dumb idea, but it would be cool to artificially extend the physical range of an animal’s sensory organs (arm reach or visual range) and see whether it will impact it’s ability to consider information at longer timescales. Maybe we can prevent climate change by circumventing the literal shortsightedness of human beings and give everyone VR goggles that display what’s going on in a 10km radius.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Dani Bassett’s concluding keynote was simply masterful. I know very little about network science, but she went through a comprehensive body of work in the lab, starting with human learning of graph structure from sequential sampling, to graphs in the brain and how cognitive flexibility relates to dynamic flexibility in brain networks. Aside from the science, I loved the structure of the talk, as well as the transitions with quotes from poets and historians. If nothing else, her talk serves as a great template on how to give an entertaining science talk, which is hard to do as the ending keynote of an intense 12-hours-a-day conference! My lingering question from this talk is the role of subcortical neuromodulatory structures on graph control in the brain. She talked about how certain nodes in the (brain) graph had better controllability by electrical stimulation, and it would be interesting to see what native mechanisms the brain has for this type of large scale control, especially when switching tasks. I think we call this thing “attention”, and it’d be incredibly cool if we could infer subcortical projection of norepinephrine or dopamine neurons based on a node’s controllability.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;on-mind-matching-and-socializing&quot;&gt;On mind-matching and socializing&lt;/h3&gt;
+&lt;p&gt;I really appreciated the mind-matching session. I think it’s a fantastic new idea for conferences, especially if it’s ever implemented at larger ones like SfN. Aside from being matched with people in their own labs, which seemed to be the main complaint, it was just a great opportunity to meet people. To be honest, I think whether being matched with someone in or outside my subfield doesn’t really matter. Getting matched with someone outside my field meant learning something new and establish potential collaborations (which I think was the intention), and getting matched with people in my own field meant geeking out over similar advances and problems.&lt;/p&gt;
+
+&lt;p&gt;Let’s face it, scientists are not the greatest at socializing (myself included), and one of the most valuable things at a conference is meeting people (shout out to &lt;a href=&quot;https://twitter.com/neurograce&quot;&gt;Grace Lindsay&lt;/a&gt; for organizing the Twitter meet up! Even though I didn’t actually end up meeting you…) By the looks of how many people signed up and vigorously participated in the mind-matching, people really wanted to talk to each other, but perhaps it’s just difficult to get over the initial awkwardness of making the first introduction without any real reason to. Poster sessions are great for socializing, but obviously it’s restricted to people doing similar things, though sometimes I will literally go to a random poster that’s empty just to talk to people. Also, putting having this session relatively early was also a great idea, because it allowed for repeated interactions afterwards just by virtual of bumping into each other over the course of the next few days. Shout out to &lt;a href=&quot;https://twitter.com/bob6294&quot;&gt;Jason Kim&lt;/a&gt;, who I matched with and later waved me over to introduce me to a few other Bassett lab members at the poster session.&lt;/p&gt;
+
+&lt;p&gt;I think one potential improvement, aside from not getting matched with people in the same lab, is to provide non-science related starter topics. Or maybe science questions at a very high-level, but not too vague so there can be some concrete discussion. The point is just to make a real connection with someone else, over whatever thing you have in common, and sometimes talking about our specific academic interests may feel a little restrictive and forced, especially after doing the elevator pitch 6 times in a row. Some easy ones:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;if you weren’t a cognitive/computational neuroscientist, what would be your dream job?&lt;/li&gt;
+  &lt;li&gt;who is your celebrity doppleganger?&lt;/li&gt;
+  &lt;li&gt;what are your top 3-5 non-science related books?&lt;/li&gt;
+  &lt;li&gt;what are the things you spend the most time doing, other than science?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;on-the-panel-discussion-and-debate&quot;&gt;On the panel discussion and debate&lt;/h3&gt;
+&lt;p&gt;I didn’t love the “Challenges and Controversies” discussion panel, and it’s because I wasn’t sure what the purpose of such a discussion is, particularly with regards to the question of “What would it mean to understand the brain?” I don’t NOT like the concept of such a discussion. I do. I was at CNS earlier this year where Jack Gallant really got into it with Gary Marcus (at the expense of Eve Marder and Alona Fyshe, which is a shame), and if nothing else, it was thought provoking and entertaining. I liked all 3 individual short talks prior to the discussion: each of their preferred research program is interesting and answer complementary and important questions. I think the problem in this case was that the debate was too agreeable to inspire new ideas (or to be entertaining), but at the same time, nobody really conceded ground with regards to their commitment to their individual methodological and philosophical ideologies. I’m not saying the discussion has to be rude, which, to the panelists’ credit, it wasn’t. But perhaps it would’ve been better to play the devil’s advocate a little? At a conference like this, I think everyone understands the value of interdisciplinary and complementary approaches, so it’s no surprise that nobody claimed “my way is the best way”. But perhaps it would’ve have been better to force that particular line of discussion, maybe by constraining the question, e.g., “if we had only a billion dollar left to invest in brain and cognition research over the next 25 years, who should we give this money to and why?”&lt;/p&gt;
+
+&lt;p&gt;Which brings me to the second point: “when will we be done neuroscience” is not a good question to ask neuroscientists. Why? Because I can tell you the answer in one word: never. Tal Yarkoni wrote a great &lt;a href=&quot;https://www.talyarkoni.org/blog/2018/08/18/if-we-already-understood-the-brain-would-we-even-know-it/&quot;&gt;blog post&lt;/a&gt; very recently on this topic of “understanding”. The job of scientists, by definition, is to perpetually ask questions about the thing they are studying, both because that’s what they love doing, and because that’s what they’re paid to do. Modern academia makes it seem like the role of scientists is to answer questions, and that’s partly true, especially in clinical and engineering contexts. But I would argue that the most important thing a neuroscientist does is to ask (good) questions. If that’s the case, the search will never end, as long as a single neuroscientist is alive and still wants to be paid to do what they do. We’ve been doing physics for 400 years, and we still don’t “understand” the world/universe/atoms/anything at 100%. I would say “we” understand the world, because F=ma and I don’t fear for my life whenever I drive across a bridge, but a physicist would find that notion of understanding hilarious and incredibly inadequate. Along that vein, someone had a great comment at the end of the debate (anonymous shoutout because I forgot his name), which was something along the lines of “I would say I knew how a car worked, until my car stopped working and I had to go to my mechanic.” Incidentally, I’ve been in several Uber rides where, upon telling the driver what I do for a living, they responded with “don’t we already know how the brain works?” Maybe I happen to stumble into cars with especially educated Uber drivers, but I really doubt that.&lt;/p&gt;
+
+&lt;p&gt;So the real question here, I think, is “who or what should we prioritize the understanding of brain for”, which can also be reformulated into the above constrained optimization question, i.e., if resource was extremely limited, what’s the minimally viable product we, the neuroscientific community, should aim to provide? Let’s just cut the shit for a second and honestly ask ourselves that question, and I think for a lot of us, the answer would be “ourselves”. Because we are curious and it’s a great job and I would love to ask and answer questions about the brain and tinker with cool toys and computer simulations for the rest of my life, and there’s no shame in that. But if that’s the case, the answer to the original question is clearly “never, or for as long as I’m alive.” But let’s step outside of the neuroscience bubble for a second: many of us have written grants claiming that our science may improve understanding and treatment for those with neurological and psychiatric disorders, which is not false, because in the limit, all these small pieces of knowledge do indeed contribute to the answer. But if we’re truly aiming to help patients as quickly as possible, the immediate best thing to do is probably say “fuck the brain”, and come up with therapies and interventions that would improve behavior and quality of life - for example, DBS. Another practical example: should understanding of the brain equate manipulation of behavior? If the latter is the goalpost, then we should also stop doing neuroscience and start working for Facebook because folks out here are already swaying behavior, and neuroscience really has nothing to offer to counter that threat.&lt;/p&gt;
+
+&lt;p&gt;Okay, mini-rant over, but I think these are problems we should think seriously about as a community, because that money river is not going to flow forever, nor should it, and theoretical neuroscience might be the first one to dry up.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;on-the-conference-content-as-a-whole&quot;&gt;On the conference content as a whole&lt;/h3&gt;
+&lt;p&gt;In terms of the scientific content as a whole, personally, I felt that there were too many “deep learning ~ brain” comparisons. I’ll preface this with my acknowledgement that I might be on the Hatorade because I don’t work in this field, and if I did, I’d probably find it to be just right, so I’m sorry if I am offending any individual works. And it’s not to say that I don’t find the deep learning and brain comparison uninteresting - quite the contrary, I think there are a lot of interesting ideas to work with here, both in terms of improving architectures with known biological constraints, as well as understanding the brain with the help of a (more or less) functional brain model. For example, the contributed talk by Bashivan, Kar &amp;amp; DiCarlo was very insightful in terms of how we can use neural network models as a testbed to make novel predictions about the brain in processing visual stimulus, which they then confirmed with in-vivo experiments and even tested independent cell control with visual stimulus! Imagine that, SfN can finally stop sending me emails about optogenetics workshops (joking but also please stop).&lt;/p&gt;
+
+&lt;p&gt;My complaint here is two-fold. First, I felt that this line of work, on average, lacked explicit acknowledgement of the goal. Is it to build a better artificial system by including biological realism, or is it to understand the brain better with a model, or both? I’m not saying the whole field has to subscribe to one or the other, but I think individual works should be know where it sits. And because many weren’t explicit about it, and this is perhaps due to a lack of intimate understanding of the background on my part, a large part of the conference felt like “let’s take this wet squishy thing we don’t understand and correlate it to this dry hard thing we also don’t understand.” Like the above work I cited, if we’re interested in the theoretical link, then I think the true value here is to learn something we didn’t know about the brain by using predictions from deep learning models. It’s really fascinating that certain aspects of deep neural nets mimic the real brain, and perhaps we’re just on the initial wave of mining the similarities, but if we just talk about algorithmic similarities, I’m sure you can find aspects of SVM or even linear regression where weights mimic neural activity in some tasks, but it would be a mistake to say that we’re learning something about the brain.&lt;/p&gt;
+
+&lt;p&gt;My second complaint, which may also have contributed to my philosophical disagreement, is simply the fact that (in my personal opinion) there were just too many posters &amp;amp; talks on this topic. Again, not saying any of them were uninteresting or undeserving, but that I would’ve liked to see more of other things in computational or cognitive neuroscience. One of those things being, obviously, population dynamics and computation observed in LFP and ECoG, and the role of oscillations or high-gamma/multi-unit activity in computation. As far as I know, there were 3 posters on oscillations - one on spontaneously emerging alpha oscillation from a predictive coding network, one on behavioral oscillation in the theta range in a memory task, and the other being my own. There were a handful of other ECoG/EEG/MEG works, but those, while all fascinating in other ways, simply used those signals as an observable. Other than that, and this sounds like a stupid thing to say about a cognitive and computational neuroscience conference, but I felt like there was too little representation of works not focusing on the brain. The talk on visual range I mentioned above being the exception, I think there is a lot of interesting work on computational ethology and embodied cognition that wasn’t here, especially in the area of simulated or physical robotics given the current capabilities of the state of the art deep learning architectures. Maybe this is the West Coast cognitive science Kool-Aid talking, but I’d hate to see CCN fall right back into the “brain is a computer” hole that the previous iteration of cognitive science fell into.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Reflections" /><category term="Mind &amp; Brain" /><summary type="html">Great, diverse talks; Loved the mind-matching; Panel discussion question was too unconstrained; Could use more non-deep learning stuff as a whole.</summary></entry><entry><title type="html">New (static) website with Jekyll and GitHub Pages</title><link href="http://localhost:4000/jekyll-website-blog/" rel="alternate" type="text/html" title="New (static) website with Jekyll and GitHub Pages" /><published>2018-07-21T00:00:00-04:00</published><updated>2018-07-21T00:00:00-04:00</updated><id>http://localhost:4000/jekyll-website-blog</id><content type="html" xml:base="http://localhost:4000/jekyll-website-blog/">&lt;h1 id=&quot;tldr&quot;&gt;tl;dr:&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;SquareSpace is great for bloggers that don’t want to mess with the internal components of website-generation, but has a somewhat slow and clunky interface, especially for markdown and embedding images/links/code.&lt;/li&gt;
   &lt;li&gt;Jekyll + Github is a great alternative, and learning how to use it serves as a friendly intro into using these development tools (git, shell, etc).&lt;/li&gt;
@@ -1247,111 +1322,4 @@ refine with the help of those observations. Similarly, a coherent theoretical
 framework in neuroscience and biology will shift the focus away from stamp-
 collecting and towards knowledge-building. Once the community at large accepts
 and values works that falsify theories or reproduce existing evidence, then we
-can move towards a sustainable incentive structure.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Science" /><category term="Science Communication" /><summary type="html">Once the community at large accepts and values works that falsify theories or reproduce existing evidence, then we can move towards a sustainable incentive structure.</summary></entry><entry><title type="html">On Arrival, Sapir-Whorf, and Reading Fiction. (19/52)</title><link href="http://localhost:4000/on-arrival-sapir-whorf-and-reading-fiction/" rel="alternate" type="text/html" title="On Arrival, Sapir-Whorf, and Reading Fiction. (19/52)" /><published>2017-05-15T00:00:00-04:00</published><updated>2017-05-15T00:00:00-04:00</updated><id>http://localhost:4000/on-arrival-sapir-whorf-and-reading-fiction</id><content type="html" xml:base="http://localhost:4000/on-arrival-sapir-whorf-and-reading-fiction/">&lt;p&gt;(Cover image source: Arrival)&lt;/p&gt;
-
-&lt;p&gt;When I was younger - I’m talking about middle-school age - I read all sorts of
-books for fun. Captain Underpants, Artemis Fowl, and Harry Potter immediately
-come to mind. As I grew older, though, I stopped reading fictions altogether,
-and the little leisure reading I did do, I read almost exclusively non-fiction
-or facts-of-the-world types of books. Not only did I stop reading fiction, I
-took pride in not wasting time on stories. After all, if I wanted to entertain
-myself with a good story, I can watch a movie in a tenth of the time, and I
-can use the other nine tenths to learn some more math and science (NERD!).
-This was partly because I was actually very busy studying math and sciences,
-and partly because I hated high school English so much that I thought it would
-turn me off reading forever, not understanding that people can actually enjoy
-reading Shakespeare and other literary works without explicitly analyzing the
-iambic pentameters and centuries-old metaphors. In any case, after a 10-year
-drought, I started reading leisurely again since last fall, because I now have
-an hour-long bus commute as a part of my day. At first, I read just as a way
-to relax and get away from my usual riveting readings about neuroscience. But
-slowly, I have to say, I realized that reading works of literature and seeing
-how words can be combined in different ways to describe feelings has literally
-changed the way I experience the world, and the way I experience myself.&lt;/p&gt;
-
-&lt;p&gt;If you’ve seen the film Arrival, or read the book, you will know that the
-premise of the story is that a linguistic professor was able to experience
-time in nonlinear ways due to the nonlinear alien language she learned. If you
-haven’t, don’t worry - that’s not quite enough to spoil the movie and it’s
-still worth a watch. While the notion that anything can warp our perception of
-time might take some stretch of imagination, the idea that language shapes the
-way we think does not. In fact, the movie itself cites the &lt;a href=&quot;https://en.wikipedia.org/wiki/Linguistic_relativity&quot;&gt;Sapir-Whorf
-hypothesis&lt;/a&gt;, or the
-theory of linguistic relativity. I must say, when I heard Amy Adams make
-explicit reference to it, I felt a tiny geeky giddiness, because I actually
-learned about this in graduate school. It’s the same giddiness I got when I
-saw Johnny Depp trying to upload his mind into a computer in Transcendence,
-even though that movie made no f-ing sense. Anyway, my understanding of
-linguistic relativity pales in comparison to some of my friends and peers that
-are actually conducting research on this very topic, but the gist of it is
-that language is &lt;strong&gt;necessary&lt;/strong&gt; for complex thoughts, the thoughts we have
-depend greatly on the language we speak, and different cultures “think
-differently”, in a way, because of the different languages they speak. When I
-first learned about this theory three years ago, it was pretty easy to digest,
-and made no great impression on me. After all, it was not at all surprising to
-think that a native Chinese speaker would think in Chinese, and because of the
-difference in vocabulary, some concepts and cultural customs are simply not
-transferable to an English speaker. But I think I took it too literally, and
-re-learning the theory once again through a movie, during a time that I am, in
-a way, learning a new language through literary works, made me appreciate it
-so much more.&lt;/p&gt;
-
-&lt;p&gt;In essence, language is not only a tool that we use to outwardly describe
-concepts and thoughts to others, it is also the primary tool that we use to
-communicate to ourselves - through thoughts. Furthermore, language literally
-gives us access to some concepts that would otherwise not exist. In other
-words, annotating something for the first time with language defines and
-“creates” it, especially if this “something” cannot be captured with any other
-sensory modalities. For example, if we did not have a word for apples, it’s
-something that can still be materialized in our thoughts by ways of imagining
-its sight, smell, taste, and the sound the fruit makes when we bite into it.
-In that way, even though it will be a lot more difficult when you try to tell
-someone you want to buy an apple, the concept itself can (probably?) still
-exist, its meaning anchored through our senses. On the other hand, for
-something as abstract and fleeting as an emotion or feeling, it’s quite
-difficult to capture without words. Try to think about “sadness” without using
-the word, you will probably need to resort to a bodily feeling, like a
-tightness in your chest, or some previous memory that put you in that state of
-mind, like when you dropped a perfectly good ice cream cone. Some people are
-incredibly apt at relating their previous emotional experiences to new ones,
-such that old memories of the same feeling can serve as an anchor, and perhaps
-this is the skill (or talent) of empathy. Unfortunately, I am not such a
-person, and my emotional memory is very limited, both in detail and in how far
-back I can remember, so I can’t really rely on that to process even my own
-feelings time and time again, much less intuitively understand someone else’s.
-In fact, I thought emotions were so uncomplicated that I actively maintained
-that there are, scientifically speaking, only 6 elementary and &lt;a href=&quot;https://en.wikipedia.org/wiki/Paul_Ekman#Emotions_as_universal_categories&quot;&gt;universal
-emotions&lt;/a&gt;
-that can be described with single English words (happy, sad, angry, etc.).&lt;/p&gt;
-
-&lt;p&gt;For that reason, reading about detailed and intricate descriptions of how
-fictional characters feel, contextualized in the larger story where I
-understand their origins and goals and dreams and fears, has really opened my
-eyes to how &lt;strong&gt;I feel&lt;/strong&gt;, and in turn, how others might feel. Many a times, I
-have read a passage with the joyous feeling that, not only does someone else -
-someone wielding this pen - understand precisely how I’ve felt before, but
-that they gave me the words so that I can for the first time understand how I
-feel myself. It’s crazy. I recently finished reading All the Light We Cannot
-See, and I wrote a &lt;a href=&quot;http://www.rdgao.com/blog/2017/4/17/1552-language-beetles-bruce-lee-all-the-light-we-cannot-see&quot;&gt;few weeks&lt;/a&gt; ago about a particular passage that feels so
-mundane, yet it’s so accurate in its description of the frustration and
-helplessness one feels while trying to read under distraction - even though it
-never used those words. Another example: I am nearing the end of the Glass
-Bead Game by Hermann Hesse, and the subtle descriptions of Joseph Knecht’s
-tranquility and sorrow simply cannot be substituted by the words “content” and
-“sad”. Without delving too much into the book, I feel like I’ve learned for
-the first time that it is possible to think and feel at the same time, and in
-turn how I can process other people’s simultaneous thoughts and feelings on
-the fly. To me, it feels like wiping the condensation off of my mirror for the
-first time and seeing a part of myself I’ve never seen before. And with that,
-I feel like I understood the Sapir-Whorf hypothesis just a little more, and
-I’m pleasantly surprised that it actually has implications in my own personal
-life. Actually, the idea that reading quality literature gives you a window
-into someone else’s feelings is not new: I remember reading
-&lt;a href=&quot;http://www.rdgao.com/blog/2017/4/17/1552-language-beetles-bruce-lee-all-the-light-we-cannot-see&quot;&gt;this&lt;/a&gt; a few years ago but apparently completely forgot
-about it, probably during a time where I thought: “leisure reading? hah,
-that’s nice.” But evidently there is scientific support for the theory that
-literature can make you more empathetic to the feelings of others.&lt;/p&gt;
-
-&lt;p&gt;Extending this away from feelings and into a broader context: can you imagine
-a world without concepts of freedom, justice, and democracy? Well, I’m
-starting 1984, so I guess I will soon find out.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Science" /><category term="Readings" /><summary type="html">I realized that reading works of literature and seeing how words can be combined in different ways to describe feelings has literally changed the way I experience the world, and the way I experience myself.</summary></entry></feed>
+can move towards a sustainable incentive structure.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Science" /><category term="Science Communication" /><summary type="html">Once the community at large accepts and values works that falsify theories or reproduce existing evidence, then we can move towards a sustainable incentive structure.</summary></entry></feed>
