@@ -1,4 +1,525 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-09T23:00:38-04:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">CCN2018: Thoughts and Hot-Takes</title><link href="http://localhost:4000/CCN2018/" rel="alternate" type="text/html" title="CCN2018: Thoughts and Hot-Takes" /><published>2018-09-09T00:00:00-04:00</published><updated>2018-09-09T00:00:00-04:00</updated><id>http://localhost:4000/CCN2018</id><content type="html" xml:base="http://localhost:4000/CCN2018/">&lt;p&gt;This is arguably a pretty lukewarm hot-take, but I slept for 12 hours last night after bombarding my brain with brain stuff (and beer, and Philly foods) for 4 days straight, and finally felt like I could string together coherent words again. No promises, though.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-20T21:37:38-07:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">Reference Manager Showdown: a full review of Papers 3, Zotero, F1000, and Paperpile (+ ReadCube)</title><link href="http://localhost:4000/reference-managers/" rel="alternate" type="text/html" title="Reference Manager Showdown: a full review of Papers 3, Zotero, F1000, and Paperpile (+ ReadCube)" /><published>2018-09-19T00:00:00-07:00</published><updated>2018-09-19T00:00:00-07:00</updated><id>http://localhost:4000/reference-managers</id><content type="html" xml:base="http://localhost:4000/reference-managers/">&lt;p&gt;How does the saying go? “You can’t paint a Picasso with a paint roller?” I’m sure that’s not how it goes, but the point is, having good tools is the foundation of doing good work. Today, I’m writing about one of the most commonly used tools across academia - the reference management software.&lt;/p&gt;
+
+&lt;p&gt;Long story short, I’ve been using Papers 3 for about 2 years now, and I’ve been getting increasingly annoyed by it over the last few months. Naturally, I flipped through the internet to see if there exists a comparison of the more recent tools available to help me make a decision. To my extreme surprise and exasperation, I found none. So I decided to bite the bullet and try all the ones I could get my hands on to see which one I liked more. This took me a good month or so, but hey, now that I did the hard work, you don’t have to.&lt;/p&gt;
+
+&lt;p&gt;This post is rather comprehensive, so I’ve collapsed the detailed comments for each app, leaving just the intro and summary. These are aimed at helping you make a decision as quickly as possible, based on your needs. You can find the detailed notes for each by clicking on “Click to expand” in each section, which I highly recommend if you’re considering a particular app based on the feature highlights.&lt;/p&gt;
+
+&lt;p&gt;One last thing before we get to the good stuff: my preferences are specific to my literature reading workflow, which might be different from yours. In particular, I do most of my reading electronically (and on a mobile device), and I often receive/find one-off recommendations from the lab or Twitter, which is a pain to manage without disrupting my day. With that in mind, I drew a flowchart of my workflow (programatically generated in Markdown, with mermaid!).&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;&lt;b&gt;Click to expand workflow flowchart.&lt;/b&gt;&lt;/summary&gt;
+  &lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;400&quot; src=&quot;/assets/images/blog/2018-09-20-refman-workflow.png&quot; /&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Briefly, the steps are: get paper &lt;strong&gt;(Scan/Import)&lt;/strong&gt;, file paper &lt;strong&gt;(Organization)&lt;/strong&gt;, read paper &lt;strong&gt;(Reading/Note-taking)&lt;/strong&gt;, and later, find paper &lt;strong&gt;(Storage/Search and Citing)&lt;/strong&gt;, with the additional requirement of syncing &lt;strong&gt;(Offline/Sync)&lt;/strong&gt; between two devices - I do all my writing on my laptop, and ideally, I will be doing all my reading on the iPad. Each software is judged based on those categories, so that if you skip some of those steps in your workflow, hopefully the other sections will still be informative.&lt;/p&gt;
+
+&lt;p&gt;If you’re just starting your research career, be it graduate or undergraduate, I hope this guide will inform you on which app you want to use for the next few years based on your needs. And if you’re a seasoned academic that just happens to be displeased with your reference manager, keep on reading.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;tldr&quot;&gt;tl;dr:&lt;/h1&gt;
+
+&lt;p&gt;Most of these apps are on an equal footing with regards to the core functionalities: importing, filing, reading, and creating citations, though the small features that do differ can make or break it for you. Other than that, it’s a question of whether you prefer a traditional (offline) app or a web app, whether you will read on a mobile device (phone/tablet), and making the trade-off between feature-rich but clunkier, or spartan but lightweight.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Papers 3 &lt;em&gt;was&lt;/em&gt; great, but it’s going downhill fast and you should not buy it.&lt;/li&gt;
+  &lt;li&gt;ReadCube doesn’t have tagging (wtf) and, while the other necessary features are there, there are some superfluous ones slowing things down. Probably the most complete ecosystem (desktop, web, and mobile app), and may improve with the merged ReadCube-Papers app.&lt;/li&gt;
+  &lt;li&gt;Zotero is free, open source, and NOT owned by Elsevier. If you need a desktop-only (offline) app that works well with Word, with the potential of useful future add-ons (e.g., Zotfile), this is the one for you.&lt;/li&gt;
+  &lt;li&gt;Mendeley is not here. Just use Zotero instead.&lt;/li&gt;
+  &lt;li&gt;F1000Workspace is a free web-app, very functional but a little claustrophobic. It only works online and has great integration with Word and Google Doc. Good pick if you rarely need to read or write offline and don’t mind bad UI design.&lt;/li&gt;
+  &lt;li&gt;Paperpile is also a web-only app, but is beta testing an iOS app that has full offline functionalities. Lightweight, functional, and pleasantly designed app interface, but only works with Google Doc (for now).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spoilter alert: I ultimately went with Paperpile, but it was not by any means a decisive victory. This really depends on your own workflow.&lt;/p&gt;
+
+&lt;p&gt;Go to: &lt;a href=&quot;#papers-3&quot;&gt;Papers 3&lt;/a&gt; | &lt;a href=&quot;#readcube&quot;&gt;ReadCube&lt;/a&gt; | &lt;a href=&quot;#zotero&quot;&gt;Zotero&lt;/a&gt; | &lt;a href=&quot;#f1000workspace&quot;&gt;F1000&lt;/a&gt; | &lt;a href=&quot;#paperpile&quot;&gt;Paperpile&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;papers-3&quot;&gt;Papers 3&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Price&lt;/strong&gt;: $50, one time&lt;/p&gt;
+
+&lt;p&gt;I’ve been using Papers 3 for the last 2 years, and I really liked it. I paid $50 for it, so you bet I’m gonna like it. Overall, the desktop (Mac) and iOS apps were great - rich features, automatic syncing over Wifi and Dropbox, and serviceable customer support. But the entire reason for this deep dive on reference management software is that I wanted to switch from Papers, and it’s for two reasons: first, various aspects of the app are getting buggy, ranging from general slowness of the desktop app during searching/accessing pdfs, consistent crashing of the Citation plug-in, and weird sync issues with the iOS app; second, Papers is now merged with ReadCube, and they are to rollout a new ReadCube app soon under a monthly subscription model. Papers 3 users can upgrade at a discount, and the old app will (so they say) be supported indefinitely, but let’s be real here: it’s getting killed. Ultimately, it was a great piece of software that, I felt, focused on the right things. But given the state of the merger, I would not recommend shelling out $50 for it.&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;&lt;b&gt;Click to expand for details and screenshots.&lt;/b&gt;&lt;/summary&gt;
+
+  &lt;p&gt;&lt;strong&gt;Scan/Importing (6/10):&lt;/strong&gt; Scanning for articles in the Mac app itself is easy, and I’ve actually used it a bunch for doing literature searches prior to starting a project. Importing a references from the search interface is just one button-click, but getting the pdf itself can be a pain with paywall journals, as you have to click through multiple pages in this clunky web browser inside the app. You can also just drag and drop pdfs, and reference matching for published articles, for the most part, is very accurate. Duplicate reference detection is automatic, and clearly displayed as a column. The one thing that really annoyed me was that there was no easy way to import a paper while tagging and filing at the same time. I would often read a paper’s abstract online, scan the figures, and decide that it could be a useful reference for the future. From that point, with Papers 3, I would have to download the pdf into the designated watch folder, and open the app to tag or write down my immediate thoughts. Since the app is so bulky, I usually just save that step for later (read: never), except this introduces unnecessary work later because I already know how I want to file this paper at this moment. I hated this so much that I started to append what I would have tagged as the file names when I saved them. I thought this problem was unavoidable until I tried the other apps on this list, which all have Chrome extensions for direct import into library and easy tagging - life-changing. Having a sensible organizational system is great, but its usefulness is directly tied to how easy it is to actually use it.&lt;/p&gt;
+
+  &lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-1.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-1.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-2.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-3.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-3.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-4.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-4.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-5.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-5.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-6.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-6.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-7.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-7.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-8.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-8.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;strong&gt;Organization (9/10):&lt;/strong&gt; Papers offer a large set of organizational tools, including tags, collections (folders), colors, flag (for importance), and read/unread marker. I used tags to tag permanent properties, like the method used in the paper or the model organism, folders for each of my ongoing projects, colors for denoting the level of detail to which I read the paper (green for abstract, red for full text, etc), and flag for marking really relevant papers that I will probably revisit. I’ve gotten used to these different markers, so it feels natural, though my biggest complaint is probably that there doesn’t seem to be a way to hierarchically organize tags, and finding articles under multiple tags is needlessly difficult (compare to Zotero).&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Reading/Note-taking (9/10):&lt;/strong&gt; Papers offer its own reader, which opens the pdf inside the app. Highlighting and text-box comments are easy to make, and these annotations show up on the righthand side toolbar during reading (reader-view) and preview (library-view). You can also write plaintext notes within the toolbar. It looks like highlights made in Preview are visible in the Papers reader, but the other way around doesn’t always work until the library (and pdfs) are formally exported out of Papers, which show up as external notes in all the other reference management programs. Minor inconvenience.&lt;/p&gt;
+
+  &lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-app1.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-app1.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-app2.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-app2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pa-app3.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pa-app3.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;strong&gt;Mobile/Offline Syncing (5/10):&lt;/strong&gt; Because the Mac app runs locally, and all pdfs are stored locally, reading offline on the computer is not an issue. In contrast, while the iOS app attempts to mirror the same kind of functionalities on the iPad, it falls short. Theoretically, this is the perfect iPad companion app. Practically, it’s unreasonably buggy and slow, so much so that I actively don’t want to use it. Again, the tool is as great as how often you actually use it. For some reason, syncing changes to &amp;lt;10 pdfs take multiple minutes, especially annotations and tags. I don’t know if it’s because I’m doing it over Wifi, as opposed to over Dropbox, but I suspect it’s because of the virtual disk system Papers sets up to manage and store the pdfs (don’t care enough to dive into, and I don’t quite understand why it needs to be that complicated). To be honest, if there was any prospect of this thing getting better through updates, I would probably happily suffer for a few more months. But as it stands, unlikely.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Storage/Search (4/10):&lt;/strong&gt; Papers used to have great Spotlight integration, such that both titles and text within the pdf can be searched. For some reason, that functionality is gone. No matter, Papers comes with a tool called Citations, which serves as the citation insertion tool, but also a private Spotlight. It works really well, I almost always find the paper I’m looking for within a few words. Huge caveat here, though: from around 6 months ago, Citation has been crashing 75% of the time when called up via hotkey. I’ve emailed support and they say other customers have been experiencing similar issues, and basically told me to reinstall as a solution. Well, I tried, and it didn’t work, which makes me more skeptical of continued support (though the support staff I interacted with were all very pleasant and tried to be helpful.) Searching within the Papers app, though, gives you the joyful experience of traveling back in time, like if you were using a Win95 PC, especially when searching by author. For some reason, this takes literally forever (I have about 1200 pdfs), to the point that it lags my computer as I type in the author’s name in the search bar. Again, not exactly sure why, but I think it relates to the way Papers implements its virtual file storage architecture. All that complexity is fine if things worked well under the hood, but it doesn’t, so I’m very disappointed about what was otherwise an amazing tool.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Citing (6/10):&lt;/strong&gt; As I mentioned earlier, Citation is the magic tool that integrates search and citation embedding in one go. Citation integration with Word is fantastic, where inline citations are inserted as citekeys (placeholder tags). Once you’re done writing, it’s a one-button click to convert all the inline refs into whatever format you had declared, and there are plenty of styles available, including all the common ones (APA, IEEE, etc.). It also automatically populates a reference section at the end of the document, in the said format. In contrast, it’s not at all integrated with Google Docs, and the magic formatting doesn’t work there. However, you can paste the full formatted version of any reference directly into a editable text box anywhere, including Google Docs. It’s much less handy for keeping track of the inline citations, as you’d have to manually edit those and manually keep the correspondence between inline citations and formatted reference.&lt;/p&gt;
+
+&lt;/details&gt;
+
+&lt;p&gt;&lt;strong&gt;In Summary:&lt;/strong&gt; It was good while it lasted - Papers was a great tool for the last few years. It seemed like the savior of academic reference management in its earlier days. As it grew over time, however, the software just got more bloated and fragile. Since the merger with ReadCube, it feels like they’ve abandoned the current app and are actively funneling users to the subscription-based service, which constantly reminds me of the intrusive and cluncky web pdf reader adopted by the Nature family journals. Well, if the developers themselves are telling you to use another service, who am I to say otherwise?&lt;/p&gt;
+
+&lt;p&gt;Go to: &lt;a href=&quot;#papers-3&quot;&gt;Papers 3&lt;/a&gt; | &lt;a href=&quot;#readcube&quot;&gt;ReadCube&lt;/a&gt; | &lt;a href=&quot;#zotero&quot;&gt;Zotero&lt;/a&gt; | &lt;a href=&quot;#f1000workspace&quot;&gt;F1000&lt;/a&gt; | &lt;a href=&quot;#paperpile&quot;&gt;Paperpile&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;readcube&quot;&gt;ReadCube&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Price&lt;/strong&gt;: $36/year (free with institutional subscription)&lt;/p&gt;
+
+&lt;p&gt;I originally wasn’t even going to give ReadCube a try, out of principle, due to its relationship with Nature Publishing Group and the paper rental service model. But then I decided that I should really be comprehensive. So I begrudgingly downloaded it and imported my entire library into it, which was easy, if a little slow. I grabbed the Chrome extension as well, which let’s you import papers directly from a journal html page. There is a desktop app, a web app, and an iOS app, which means preserved functionalities while offline. I poked around both the web and Mac app, the interface design is consistent between the two and pleasing to the eye, with most of the space dedicated to the library view itself. It even has a sidebar that displays the citation history and all papers citing the current one you’ve highlighted. As much as I hated the pdf viewer when it randomly popped up on Nature pages, I actually thought it was really polished in the context of the app. Syncing between the web app and Mac app is automatic and painless, and I have no reason to expect otherwise for the iOS app, though it’s unclear where the pdfs are stored.&lt;/p&gt;
+
+&lt;p&gt;It has all the ingredients to be an useful and dependable tool, and surprisingly, I think I would have had a hard time not choosing ReadCube, had it not been for one feature that made me want to banish this thing into oblivion (and hence not write the full review): there are no tags. Okay, that’s not &lt;strong&gt;strictly&lt;/strong&gt; true. You can tag an article, but only as hashtags in the notes area. The hashtags are used to aggregate articles into lists, which is the basic (and only) unit of organization in ReadCube. Hashtags cannot contain space, has no color coding, and all of them are flaccidly listed in the left sidebar with no way of organizing them otherwise. I don’t know what made me more upset: that this app is missing such a simple but key feature, or that it’s a great app in every other dimension. My only other complaint is that it feels a bit clunky and slow at times. This may be due to a combination of the unnecessarily rich visual design for the interface and the nice but superfluous features, like loading the entire citation list in the sidebar.&lt;/p&gt;
+
+&lt;p&gt;And so with that, I end my full review of ReadCube: if you don’t use tags or just plain hate organizing your papers in a sensible way, give this a try, it’s pretty good in every other way. By the looks of it, the new (beta) &lt;a href=&quot;http://support.readcube.com/support/solutions/articles/30000026748-faqs-for-the-upcoming-readcube-papers-app-&quot;&gt;ReadCube-Papers&lt;/a&gt; app retained a lot of Papers 3 organizational features, so that might be worth a try when it’s available for the public. Although, it’s more likely than not that it will still be slow and clunky, especially compared to the more light weight apps like Paperpile, or even Zotero.&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;&lt;b&gt;Click to expand for screenshots.&lt;/b&gt;&lt;/summary&gt;
+
+  &lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-rc-1.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-rc-1.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-rc-2.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-rc-2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-rc-3.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-rc-3.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+&lt;/details&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;zotero&quot;&gt;Zotero&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Price&lt;/strong&gt;: $0/$20/$60/$120 (300MB/2GB/6GB/Unlimited Storage)&lt;/p&gt;
+
+&lt;p&gt;Zotero, like Papers 3, is a desktop app that primarily runs offline. The functionalities are very similar to Papers, and so is the interface. The main difference here is that 1) it’s (mostly) free, 2) it’s an open source project, and 3) it doesn’t have a companion mobile app. In exchange, however, there are a few very handy tools that make life easy, which I will highlight below. Note that I haven’t used Zotero or the other apps extensively, like I have with Papers. I have, however, imported my entire library into it and spent a few days working with it AS IF I was using it, by going through all the steps in my workflow.&lt;/p&gt;
+
+&lt;p&gt;One note about &lt;strong&gt;Mendeley&lt;/strong&gt;: I used Mendeley when I first started graduate school, and it was serviceable. I would say that Zotero is basically a faster (and less evil) version of Mendeley, without a mobile app. If you’re happily using Mendeley, all the power to ya. If you are considering switching to Mendeley, I would give Zotero a try first to see if your needs are met.&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;&lt;b&gt;Click to expand for details and screenshots.&lt;/b&gt;&lt;/summary&gt;
+
+  &lt;p&gt;&lt;strong&gt;Scan/Importing (10/10):&lt;/strong&gt; pdf drag and drop works smoothly, and you can add items by DOI, so it’s very arXiv/bioRxiv friendly. The most convenient add-to-library function, though, is the Chrome extension. Clicking the toolbox on any page will import that reference into your Zotero library, and the transfer between Chrome and the Zotero app itself is seamless. This works for both the html and the pdf page, and it automatically grabs the pdf into your library. Not only that, you can tag the newly added reference in the extension toolbar itself, as well as direct it into the relevant folder, so you don’t need to leave Chrome at all. The only thing it lacks is a confirmation button, as clicking the extension button automatically adds the page you’re on, and I’ve accidentally done it a few times. I looked around, but didn’t find an integrated database scan option, though there is an automatic “import from feed URL option”. Either way, I think the Chrome extension more than makes up for it while using Google Scholar or PubMed. Finally, batch import via .ris files exported from Papers 3 works perfectly, even getting all the tags and notes right.&lt;/p&gt;
+
+  &lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-zo-1.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-zo-1.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-zo-2.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-zo-2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-zo-3.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-zo-3.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-zo-4.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-zo-4.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-zo-5.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-zo-5.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;strong&gt;Organization (10/10):&lt;/strong&gt; The basic features are all there, very much like Papers. You can tag a reference, as well as assign references into non-exclusive folders for different projects. There are less options than Papers, though. For example, it lacks flag/no flag and star rating. But those can easily be compensated for with a few custom tags. I do really like the fact that you can assign groups of tags to the same color, which makes browsing tags a lot easier. Also, as per standard, main library view offers many columns (author, title, etc.) and you can sort by any. In short, nothing to write home about here, but that’s arguably a good thing because everything just works well and quickly.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Reading/Note-taking (6/10):&lt;/strong&gt; Zotero does not ship with an in-house pdf viewer, so on a Mac, it’s automatically opened in Preview. I’ve never quite decided whether I like native pdf readers more or embedded pdf readers, so your personal preferences may vary. Aside from aesthetics, the main issue is how well your pdf highlights/comments get parsed as notes, and later, how well it transfers out of the reader app. In this case, Preview keeps the highlights, which are visible in other pdf readers. Extracting annotation from the pdf is not supported by Zotero itself, but there’s a handy open source add-on called [Zotfile][zotfile] that can perform the extraction and turn highlighted words into notes. You can run this operation in a batch fashion, but it is not automatic, so this whole operation is slightly inconvenient. Adding notes is simple enough in the side bar, though you may have to switch windows constantly if your screen can’t fit the pdf and Zotero together.
+[zotfile]:http://zotfile.com/&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Mobile/Offline Syncing (5/10):&lt;/strong&gt; Since Zotero lives locally on the machine, there’s no syncing necessary if you read on your laptop, and you can use it wherever you are, no Wifi required. My main (and only real) complaint about Zotero, and ultimately the reason I did not go with it, is that it does not have a companion mobile app. There used to be a third party app called Papership that basically did all the file management, but it’s been abandoned as of a few years ago. Zotfile, once again, offers a reasonable but inconvenient solution: if all the pdfs live on Google Drive, it’s able to pull any annotations and updates and sync with the local files. This means you can read the pdfs in your preferred pdf reader app on your tablet, highlight and annotate, and Zotfile will make the transfers. It works, but it’s clunky. You can’t use the functionalities of Zotero while on the iPad, meaning no tagging or categorization, or search, for that matter. Also, Google Drive, for whatever reason, does not allow entire folders to be downloaded offline, so you’ll have to manually “make file available offline” anytime you add new papers. It’s not a huge deal either, but the Drive UI doesn’t really make this an easy job.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Storage/Search (10/10):&lt;/strong&gt; All pdfs can be stored in a single folder, be it a local one or a synced folder, so file management is painless. If you choose to shell out some money, I think your pdfs are synced with Zotero’s server. Or you can use your free 15Gb from Google. Another feature Zotfile offers is batch renaming of the pdf files based on some arbitrary rule you can define, like author_title_year.pdf. This means relevant search words in the title can be picked up by Spotlight, though whole-text search is less dependable. Search within the app is fast, which should not come as a surprise for a piece of modern technology managing a few thousand pdfs (&lt;em&gt;ahem Papers 3&lt;/em&gt;). Anyway, my &lt;strong&gt;favorite&lt;/strong&gt; Zotero feature is the ability to select multiple tags in the toolbar as an “AND” search: when you click on one tag (“oscillation”), all tags except the ones co-tagged to “oscillation” are eliminated, so you can iteratively click on overlapping tags to filter your search. This is an awesome feature and I don’t know why none of the other apps have adopted it, it makes searching so easy when you can’t think of any search words. Granted, you need to have a reasonable tagging system.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Citing (7/10):&lt;/strong&gt; Zotero lacks a magic genie citation insertion tool that runs in the background like Papers 3, so you can’t search for references unless actively writing inside a Word document. The Microsoft Word add-on is minimalistic but fully functional, though it requires Zotero to be running as well. In any case, all you need here are two buttons: “Insert Inline Citation” and “Format Bibliography”, with some way of controlling the citation style, and Zotero does this fine. When searching for the reference, it takes you into the main app and opens up a sleek search bar similar to Papers. Disappointingly, Zotero does not have Google Doc integration, and its &lt;a href=&quot;https://www.zotero.org/support/google_docs&quot;&gt;documentation&lt;/a&gt; suggests dragging and dropping from the app, though that will of course require manual shuffling when you need to change some references. Alternatively, you’re offered the option of downloading and uploading the GDoc file as a Word doc, or manually insert cite keys when you write and run format once in the end. Any changes made online will have to be taken offline and synced. This mirrors the situation with mobile reading - you can make it work if you want to, but will be a pain in the ass if Google Doc is your main tool.&lt;/p&gt;
+
+&lt;/details&gt;
+
+&lt;p&gt;&lt;strong&gt;In Summary:&lt;/strong&gt; Zotero is an excellent (and free!) tool that I would highly recommend if you mostly read on your computer and write in Microsoft Word. You’re essentially getting the same organization, functionality, and aesthetics out of an open source piece of software as Papers 3 (or Mendeley), except you get to keep your money (or soul). In this day and age, and with Zotero’s sizeable existing user base, it seems that being open source is not at all disadvantageous to continued development. If anything, it takes a smaller community of dedicated users, or even a single individual, to add or improve some functionalities, as was the case with Zotfile. But if you depend heavily on Google Doc for writing, or read primarily on a synced mobile device, then unfortunately it will be difficult to use.&lt;/p&gt;
+
+&lt;p&gt;Go to: &lt;a href=&quot;#papers-3&quot;&gt;Papers 3&lt;/a&gt; | &lt;a href=&quot;#readcube&quot;&gt;ReadCube&lt;/a&gt; | &lt;a href=&quot;#zotero&quot;&gt;Zotero&lt;/a&gt; | &lt;a href=&quot;#f1000workspace&quot;&gt;F1000&lt;/a&gt; | &lt;a href=&quot;#paperpile&quot;&gt;Paperpile&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;f1000workspace&quot;&gt;F1000Workspace&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Price&lt;/strong&gt;: Free, $10/month for additional features and storage (free with institutional subscription).&lt;/p&gt;
+
+&lt;p&gt;F1000Workspace is the reference manager in the F1000 ecosystem (with F1000Prime and F1000Research), short for Faculty of 1000. I have no idea what that means, or why someone decided they had to use those same words to name the services as well. F1000Workspace is a web-based app, and it’s honestly the quintessential embodiment of what the public thinks of scientists (and engineers): functionally, it really does its job, and that’s that. It has no fluff, it doesn’t care what anyone thinks about how it looks (perhaps to a fault), or what its name is.&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;&lt;b&gt;Click to expand for details and screenshots.&lt;/b&gt;&lt;/summary&gt;
+
+  &lt;p&gt;&lt;strong&gt;Scan/Importing (9/10):&lt;/strong&gt; Importing references is easy: from the web app interface, you can drag and drop local pdfs from your computer or import from various cloud storages. Alternatively, importing batch-wise via a .ris file worked just as well, along with my notes, but tags did not import. It seemed to have a little trouble matching references that were sections from a book, compared to Papers at least. But for all my article pdfs that were indexed in PubMed or otherwise had an easy to access DOI, it worked just fine. Like Zotero and Paperpile, it has a very convenient Chrome extension that allows you to grab references from the journal site you’re currently on, or the pdf link itself. It even offers tagging and filing from the extension, which I love. This means you can read through once, import and organize in one go without ever visiting the web app itself, and forget about it until you need to cite it. &lt;strong&gt;Other apps should take note&lt;/strong&gt;: it’s a small convenience, but would save the user a ton of time over the years if they didn’t have to visit the main app to file and tag. You can also download the offline companion app and set up a to-watch folder on your computer, where pdfs are automatically imported.&lt;/p&gt;
+
+  &lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-1.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-1.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-2.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-3.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-3.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-4.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-4.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-5.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-5.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-6.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-6.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-7.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-7.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-8.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-8.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-9.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-9.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;strong&gt;Organization (5/10):&lt;/strong&gt; F1000 has the standard pair of organizational tools: folders and tags (tags can have colors as well). Instead of “Folders”, F1000 calls them “Projects”, which serves the exact same role as far as I can tell. The only difference being that you can file references into a “Shared Project”, which makes collaboration easier than exporting a folder of references and emailing it, though I’m not sure if the recipient also needs to be registered with F1000. The downside to the free version is that you can only have 3 projects at a time, which is a pretty small number, but this limit is bypassed with institutional or paid subscription.&lt;/p&gt;
+
+  &lt;p&gt;One thing I really don’t like is the app interface itself in Library view. There is a ton of dead space you can’t control, and with a reasonably sized screen, the actual reference list panel is tiny and you’re limited to looking at ~10 references at a single time. What’s worse is that the fields are truncated to fit more of them. Sure, it’s not like you will actually be searching through references by scrolling all the time, but any keyword that returns 10+ results will be a pain to scroll through. Oh yeah, and scrolling does not auto-populate the next set of references, so you need to click the “next page” button. This certainly makes me feel a little claustrophobic, and I fear that some references will be buried forever because I will never click through 20 pages to explore refs I might have missed while writing.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Reading/Note-taking (10/10):&lt;/strong&gt; F1000 offers a web pdf reader app that is packed with note-taking features. You can add highlights, sticky notes, and even notes to your highlights. From your library, you can also directly access the article html site, and even make notes and highlights on there that syncs to the pdf itself when the little ‘F’ pops up. That’s pretty cool, and is great for that first-time read through. Bonus if you like to read the html version. Overall, I think this should be the gold standard of reading and filing articles on the web.&lt;/p&gt;
+
+  &lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-app1.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-app1.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-app2.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-app2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-f1-app3.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-f1-app3.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;strong&gt;Mobile/Offline Syncing (2/10):&lt;/strong&gt; The biggest weakness with F1000, as you might expect, is its (in)ability to function offline. If you’re not connected to the web, the web app obviously will not work. This means you cannot offline search, read, file or &lt;strong&gt;even cite&lt;/strong&gt;, because you cannot access the database. F1000 offers one work around: while you’re still online, you can add references to a “reading list”, which the offline companion app can access and open the associated pdf. Key caveat here is that you every time you quit the app, you have to sign in the next time you open it, which you cannot do offline. So overall, this is rather pointless, especially if you save your pdfs locally as well. F1000 has an iOS and Android app that looks identical to the web app and pdf reader, and poetically, it suffers from the same offline issue. There is no way to locally save pdfs on the iPad, and if you’re offline, the app is basically a dud. In other words, the mobile app turns your tablet into a screen that you can take with you but only when there’s Wifi. The upside is that syncing works quickly and flawlessly. I suppose this is not unexpected if the app basically opens a tablet version of the web app. In the end, I like writing and reading on the bus/plane/subway, so offline access is crucial for me, especially on mobile. But depending on your needs, this might not be a huge issue.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Storage/Search (8/10):&lt;/strong&gt; Since F1000 exists as a web app, you can only search in the browser, i.e., no magic tool. Nevertheless, keyword matching is satisfactory, as it searches in title, abstracts, and highlighted pdf text/annotations. The downside, like I mentioned above, is that you cannot search offline, and any search result that returns more than 20 reference will be painful to work through, especially if you don’t know these references by the first 5 words of the title already. The upside to F1000 is that tag searching works conjunctively, like in Zotero, so clicking on multiple tags will return the intersection. I &lt;strong&gt;really&lt;/strong&gt; love this feature, since my tag system includes multiple taxonomies. So it will be incredibly easy to find studies that look at, for example, human + oscillation + ECoG + attention, based on my own tags, instead of relying on text search. Storage-wise, all the pdfs seem to be magically stashed somewhere, perhaps on an F1000 server. Paid (and institutional) subscriptions offer unlimited storage, so this will never be a problem. Batch exporting pdfs is straightforward as well so no need to worry about losing all your references into the abyss.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Citing (10/10):&lt;/strong&gt; F1000 actually offers the most comprehensive integration with both Word and Google Docs. The Word add-on includes a full suite of tools, including the ability to directly submit your manuscript to F1000, though I cannot imagine that was by popular request. The standard ones, however, work well, and you can actually search by tags, projects, and search Google Scholar and PubMed from the toolbar in addition to your F1000 library. Since it doesn’t work at all offline, it offers the ability to suggest references for manually inserted citekeys, so that you can still write offline uninterrupted, and add in the references when you’re online again. The Google Doc extension works just as well, though my one small complaint is that the citation tool (on both platforms) is a bit slow, as it seems to load the entire library database when it’s first opened. That is a small price to pay for both GDoc and Word compatibility.&lt;/p&gt;
+
+&lt;/details&gt;
+
+&lt;p&gt;&lt;strong&gt;In Summary:&lt;/strong&gt; F1000 is kinda like the web app version of Zotero. It’s a great tool, and aside from offline access, it prioritizes all the key features (importing, filing, reading) and it does them well. Equally important, it doesn’t offer useless features, well, except for aspects of the Word plug-in. The full features may be accessible to you for free if you work at a North American or European institution, and it even has both Word and GDoc integration. If you read and do most of your work while online, and don’t mind the awful interface too much, I would highly recommend trying this tool. But if you need any offline access at all, say, while commuting or during field work in remote places, then you’re out of luck.&lt;/p&gt;
+
+&lt;p&gt;Go to: &lt;a href=&quot;#papers-3&quot;&gt;Papers 3&lt;/a&gt; | &lt;a href=&quot;#readcube&quot;&gt;ReadCube&lt;/a&gt; | &lt;a href=&quot;#zotero&quot;&gt;Zotero&lt;/a&gt; | &lt;a href=&quot;#f1000workspace&quot;&gt;F1000&lt;/a&gt; | &lt;a href=&quot;#paperpile&quot;&gt;Paperpile&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;paperpile&quot;&gt;Paperpile&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Price&lt;/strong&gt;: $36/year&lt;/p&gt;
+
+&lt;p&gt;The best way to describe Paperpile is that it’s like the minimalist hipster child of Papers 3 and F1000Workspace. It’s a web-only app with a sleek interface that is, in my opinion, a lot more pleasing to the eye. The strength (and limitation) of Paperpile is that it links to (and is locked to) a Google account and takes advantage of your Drive space and organization. You’re limited to online use on the computer, but the iOS app is fully functional offline. This is ultimately the one I ended up going with, as it fits my workflow well and I really like the minimalist design of both the web and iOS app.&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;&lt;b&gt;Click to expand for details and screenshots.&lt;/b&gt;&lt;/summary&gt;
+
+  &lt;p&gt;&lt;strong&gt;Scan/Importing (9/10):&lt;/strong&gt; Drag and drop pdf importing, .ris (and other reference file format) batch importing, and direct DOI importing are all available and work well. It also has a Chrome extension that snags the reference and its associated pdf from the journal html website. The weird thing is that the extension cannot import when you’re on the pdf page instead of the html page - mildly disappointing. Also, I wish the Chrome extension supported filing and tagging on the spot, instead of having to do it from the web app (though dev forum suggests this is in the works). One cool thing is that it is totally integrated into Google Scholar (and other databases, like JStor), so that you can grab references directly from search results.&lt;/p&gt;
+
+  &lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-1.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-1.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-2.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-3.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-3.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-4.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-4.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-5.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-5.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-6.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-6.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-7.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-7.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-8.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-8.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-9.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-9.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;strong&gt;Organization (10/10):&lt;/strong&gt; Paperpile offers tags, folders, and star labeling, which can all be accessed from the left sidebar. Tags can be colored for easier visualization, and folders can have an infinitely deep subfolder structure, which I believe is unique to Paperpile. Shared folders can also be made, so it’s designed with collaboration in mind. As for the app itself, it displays an even smaller number of references than F1000 at full window size (6.5 on my screen). But for some reason, I don’t mind it so much. I think it’s because the list view actually takes up more than half the screen, and all relevant information for the displayed articles are actually there, with full bolded titles. On top of that, scrolling is smooth and automatically populated as you reach the bottom, so it’s a much more pleasant experience. Another nice touch is the gmail-style keyboard shortcuts, including Shift-Arrow to select multiple, and Cmd-C/B/K to copy as full reference or citekey. I wonder how many people made it to this point without rolling their eyes and saying “just use latex”.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Reading/Note-taking (10/10):&lt;/strong&gt; Paperpile’s old web pdf viewer was atrocious. It basically used the native Chrome pdf viewer, which means no highlighting, no annotations, no nothing. Recently, they’ve rolled out their standalone pdf viewer app called “MetaPDF”, which can be selected as the default reader opened by Paperpile. This is the polar opposite of that old pdf viewer. First of all, and most importantly, it’s pretty. Second of all, you can make highlights, notes, and notes for your highlights. You can even draw shapes and stuff, and all these are embedded into the pdf itself and readable in other viewers. This very much rivals F1000’s online pdf viewer, and pretty much all the embedded pdf viewers of the offline apps on this list. Taking longer notes can be done from Paperpile’s library view itself, but not from within the pdf viewer.&lt;/p&gt;
+
+  &lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-app1.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-app1.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-app2.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-app2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/blog/2018-09-20-refman-pp-app3.png&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/blog/thumbnail/2018-09-20-refman-pp-app3.png&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;strong&gt;Mobile/Offline Syncing (7/10):&lt;/strong&gt; Being a web app, Paperpile suffers the same fate as F1000 when you’re offline, since you can’t even access the URL. Again, this means no reading, writing, or filing. However, there is a beta version of the iOS app that you can request access for and download via TestFlight. The app is fully functional offline, meaning you can tag and annotate, and changes will be synced once you’re back online, as long as the pdfs are also downloaded onto the iPad beforehand. In my experience, the syncing has been painless, both for tags and annotations made in the pdf. There’s no batch download yet, but at least the download button for each reference is huge. This capability somewhat offsets the lack of offline functionality for the web app, as personally I’m much more likely to read offline on my iPad than on my computer. Still, if you must use it offline on your computer, then look elsewhere. They did not pay me for this post. Sponsorship please?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Storage/Search (7/10):&lt;/strong&gt; Paperpile is linked to your Google account, and it uses Google Drive storage space to store the pdfs. This is potentially very nice or very limiting, depending on how capped your Drive space is, though my library of 1500 pdfs only takes up about 3Gbs. The convenient thing about having the pdfs on Drive is that they can be synced to your computer as a Drive folder, so the pdfs can be accessed offline. Although, you need to be a bit careful about housekeeping since the developers recommend making changes to your library strictly through the Paperpile app, and not by moving files around in the Drive folder. Overall, this is an elegant shortcut, and it’s likely that Google Drive will be around for a while still. But depending on your stance on privacy, having yet another aspect of your life tied to Google may be unideal. Search bar searching within the app is satisfactory, and is limited to keyword matches in the title, abstract, authors, and notes. This is a step below the full text and within-pdf annotation search features of F1000 and Papers 3.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Citing (6/10):&lt;/strong&gt; Currently, Paperpile only has citation integration for Google Doc. It’s fast, accurate, and has a nice feature for searching directly online while inserting citations. If your “friend” is someone who writes down off-the-cuff claims and finds references later to back them up, this is an invaluable addition. On the other hand, it currently does not have a citation tool for Word, so you’re stuck with copying refs in the main web app and pasting them manually, or uploading your Word document and converting it to a Google Doc and adding all your references afterwards. Fear not, however, it looks like a Word plug-in has been in the works and will be pushed out very soon, as well as offline usage, so it may be worth to stay tuned.&lt;/p&gt;
+
+&lt;/details&gt;
+
+&lt;p&gt;&lt;strong&gt;In Summary:&lt;/strong&gt; Of the apps I reviewed, Paperpile seems to have the biggest potential to improve. The development team is aware and routinely engages with feature requests on the user forum, and my own experience with the in-app chat has been excellent as well. I sent a message to request the beta iOS app, and someone replied within 24 hours and also extended my trial by two weeks to make sure I had plenty of time to test with the app in my workflow. It really is nice to have that dependable human support in your products. Looking through the forum, my hope is that the crucial features (e.g., Word plug-in, better Chrome extension, offline capabilities) will be rolled out in 6-12 months. But as of now, Paperpile is a great fit for anyone that already works online and within the Google ecosystem, and enjoys the UI/UX it offers.&lt;/p&gt;
+
+&lt;p&gt;Go to: &lt;a href=&quot;#papers-3&quot;&gt;Papers 3&lt;/a&gt; | &lt;a href=&quot;#readcube&quot;&gt;ReadCube&lt;/a&gt; | &lt;a href=&quot;#zotero&quot;&gt;Zotero&lt;/a&gt; | &lt;a href=&quot;#f1000workspace&quot;&gt;F1000&lt;/a&gt; | &lt;a href=&quot;#paperpile&quot;&gt;Paperpile&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;&lt;b&gt;Bonus:&lt;/b&gt; code for generating the flowchart in mermaid-compatible editors.&lt;/summary&gt;
+  &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;```mermaid
+graph TD;
+    search(&quot;Scan
+    &amp;lt;br&amp;gt;- search online database/catalogue
+    &quot;)
+    import(&quot;Import
+    &amp;lt;br&amp;gt;- browser import data/pdf
+    &amp;lt;br&amp;gt;- ref data matching
+    &amp;lt;br&amp;gt;- detect duplicates
+    &amp;lt;br&amp;gt;- cross-platform import
+    &quot;)
+    read(&quot;Detailed Reading
+    &amp;lt;br&amp;gt;- reader interface
+    &amp;lt;br&amp;gt;- annotating/notes
+    &amp;lt;br&amp;gt;- highlighting    
+    &quot;)
+    file(&quot;Organization
+    &amp;lt;br&amp;gt;- tags/categories/(un)read
+    &amp;lt;br&amp;gt;- project folders
+    &quot;)
+    storage(&quot;Storage/Search
+    &amp;lt;br&amp;gt;- pdf storage
+    &amp;lt;br&amp;gt;- Spotlight search
+    &amp;lt;br&amp;gt;- within pdf search
+    &quot;)
+    cite(&quot;Citation
+    &amp;lt;br&amp;gt;- GDocs/Word integration
+    &amp;lt;br&amp;gt;- ref formating (MLA, APA, etc)
+    &quot;)
+    sync(&quot;Sync
+    &amp;lt;br&amp;gt;- pdf sync/offline access
+    &amp;lt;br&amp;gt;- annotation sync
+    &amp;lt;br&amp;gt;- organization sync    
+    &amp;lt;br&amp;gt;- mobile/web app
+    &quot;)
+    other(&quot;Other Factors
+    &amp;lt;br&amp;gt;- longevity
+    &amp;lt;br&amp;gt;- cost
+    &amp;lt;br&amp;gt;- collaborative
+    &quot;)
+
+    search--keep for ref--&amp;gt;import
+    import--read abstract--&amp;gt;file
+    file--read figures/text--&amp;gt;read
+    read--&amp;gt;storage
+    storage--writing--&amp;gt;cite
+    file--mobile/offline--&amp;gt;sync
+    sync--upload--&amp;gt;storage
+```
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;You made it to the end! Now pick your starter Pokemon and go forth into the wild world of reading lots of papers you will never remember!&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RKHswIdTdVk?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Richard Gao</name></author><category term="Science" /><category term="Data &amp; Technology" /><summary type="html">Naturally, I flipped through the internet to see if there exists a comparison of the more recent tools available to help me make a decision. To my extreme surprise and exasperation, I found none. So I decided to bite the bullet and try all the ones I could get my hands on to see which one I liked more. This took me a good month or so, but hey, now that I did the hard work, you don't have to.</summary></entry><entry><title type="html">CCN2018: Thoughts and Hot-Takes</title><link href="http://localhost:4000/CCN2018/" rel="alternate" type="text/html" title="CCN2018: Thoughts and Hot-Takes" /><published>2018-09-09T00:00:00-07:00</published><updated>2018-09-09T00:00:00-07:00</updated><id>http://localhost:4000/CCN2018</id><content type="html" xml:base="http://localhost:4000/CCN2018/">&lt;p&gt;This is arguably a pretty lukewarm hot-take, but I slept for 12 hours last night after bombarding my brain with brain stuff (and beer, and Philly foods) for 4 days straight, and finally felt like I could string together coherent words again. No promises, though.&lt;/p&gt;
 
 &lt;p&gt;Immediate post-conference thought: there were a lot of man-buns, and one Philly cheesesteak was enough for me.&lt;/p&gt;
 
@@ -78,7 +599,7 @@
 &lt;hr /&gt;
 &lt;p&gt;That’s all for the conference reflection, hope everyone there had a great time. Comments are still down but would love to know what you thought of it on Twitter. And lastly, here’s some vibes to shake off the edge from all that excitement:&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lrpm7wyQzNw?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Richard Gao</name></author><category term="Reflections" /><category term="Mind &amp; Brain" /><summary type="html">Great, diverse talks; Loved the mind-matching; Panel discussion question was too unconstrained; Could use more non-deep learning stuff as a whole.</summary></entry><entry><title type="html">New (static) website with Jekyll and GitHub Pages</title><link href="http://localhost:4000/jekyll-website-blog/" rel="alternate" type="text/html" title="New (static) website with Jekyll and GitHub Pages" /><published>2018-07-21T00:00:00-04:00</published><updated>2018-07-21T00:00:00-04:00</updated><id>http://localhost:4000/jekyll-website-blog</id><content type="html" xml:base="http://localhost:4000/jekyll-website-blog/">&lt;h1 id=&quot;tldr&quot;&gt;tl;dr:&lt;/h1&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lrpm7wyQzNw?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Richard Gao</name></author><category term="Reflections" /><category term="Mind &amp; Brain" /><summary type="html">Great, diverse talks; Loved the mind-matching; Panel discussion question was too unconstrained; Could use more non-deep learning stuff as a whole.</summary></entry><entry><title type="html">New (static) website with Jekyll and GitHub Pages</title><link href="http://localhost:4000/jekyll-website-blog/" rel="alternate" type="text/html" title="New (static) website with Jekyll and GitHub Pages" /><published>2018-07-21T00:00:00-07:00</published><updated>2018-07-21T00:00:00-07:00</updated><id>http://localhost:4000/jekyll-website-blog</id><content type="html" xml:base="http://localhost:4000/jekyll-website-blog/">&lt;h1 id=&quot;tldr&quot;&gt;tl;dr:&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;SquareSpace is great for bloggers that don’t want to mess with the internal components of website-generation, but has a somewhat slow and clunky interface, especially for markdown and embedding images/links/code.&lt;/li&gt;
   &lt;li&gt;Jekyll + Github is a great alternative, and learning how to use it serves as a friendly intro into using these development tools (git, shell, etc).&lt;/li&gt;
@@ -158,7 +679,7 @@ Enter: Jekyll. The graphic above pretty much says it all. Jekyll is a tool that 
 
 &lt;p&gt;Second, migrating my blog made me aware of something unexpected sinister that I had never thought about before: &lt;strong&gt;comments&lt;/strong&gt;. Specifically, using comment services like Disqus, which I think was enabled on my old SquareSpace blog. Disqus is super convenient as a service - I mean, clearly, I didn’t even realize that it was an independent service on my old blog. But like the saying goes, if you’re not paying for it, you’re the product. Turns out, even if your site does not serve ads or track visitor information for ad purposes, by enabling Disqus, you allow it to send that user info to their &lt;strong&gt;customers&lt;/strong&gt; - buyer of your information (see &lt;a href=&quot;https://fatfrogmedia.com/delete-disqus-comments-wordpress/&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;https://replyable.com/2017/03/disqus-is-your-data-worth-trading-for-convenience/&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;https://chrislema.com/killed-disqus-commenting/&quot;&gt;here&lt;/a&gt;). So as of right now, this blog is comment-less (by choice! Not that it was getting lots of comments before..) There are some really interesting/creative alternatives, like &lt;a href=&quot;https://staticman.net/&quot;&gt;staticman&lt;/a&gt;, which accepts comments and push them to the GitHub repo of your website. I spent quite some time getting it to work, but was unable to for weird reasons.&lt;/p&gt;
 
-&lt;p&gt;For now, just @ me on Twitter.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Data &amp; Technology" /><summary type="html">I felt that I wanted my website to reflect my new-found skillset and &quot;values&quot;, if that's not too strong of a word? That also means having a fuller control of my blog content and using a set of open-source tools that the computational sciences and software engineering community embraces.</summary></entry><entry><title type="html">Year 3 (and a half): TIL my PhD is Flappy Bird.</title><link href="http://localhost:4000/year-3-and-a-half/" rel="alternate" type="text/html" title="Year 3 (and a half): TIL my PhD is Flappy Bird." /><published>2018-01-16T00:00:00-05:00</published><updated>2018-01-16T00:00:00-05:00</updated><id>http://localhost:4000/year-3-and-a-half</id><content type="html" xml:base="http://localhost:4000/year-3-and-a-half/">&lt;p&gt;It’s January of 2018. 40 months after I started my PhD. Wow. I know people say
+&lt;p&gt;For now, just @ me on Twitter.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Data &amp; Technology" /><summary type="html">I felt that I wanted my website to reflect my new-found skillset and &quot;values&quot;, if that's not too strong of a word? That also means having a fuller control of my blog content and using a set of open-source tools that the computational sciences and software engineering community embraces.</summary></entry><entry><title type="html">Year 3 (and a half): TIL my PhD is Flappy Bird.</title><link href="http://localhost:4000/year-3-and-a-half/" rel="alternate" type="text/html" title="Year 3 (and a half): TIL my PhD is Flappy Bird." /><published>2018-01-16T00:00:00-08:00</published><updated>2018-01-16T00:00:00-08:00</updated><id>http://localhost:4000/year-3-and-a-half</id><content type="html" xml:base="http://localhost:4000/year-3-and-a-half/">&lt;p&gt;It’s January of 2018. 40 months after I started my PhD. Wow. I know people say
 that the years feel shorter as you get older, but these days are just zipping
 by way too fast. I realized somewhere in October that I forgot to write one of
 these for my third year, and all of a sudden, we’re in 2018. So I’m late, what
@@ -378,7 +899,7 @@ sense, because that’s what people in wet labs do. I guess I just felt that
 computational stuff happens so quickly that it’s not worth writing down. But
 hey, even if it doesn’t matter, seeing a full notebook definitely makes me
 feel good even if nothing concrete came out of it yet, and that, my friends,
-is the word of the day today.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Reflection" /><category term="Science" /><summary type="html">Year 3 is done! Here's to half a PhD.</summary></entry><entry><title type="html">Our thin layer of existence. (26/52)</title><link href="http://localhost:4000/our-thin-layer-of-existence/" rel="alternate" type="text/html" title="Our thin layer of existence. (26/52)" /><published>2017-10-16T00:00:00-04:00</published><updated>2017-10-16T00:00:00-04:00</updated><id>http://localhost:4000/our-thin-layer-of-existence</id><content type="html" xml:base="http://localhost:4000/our-thin-layer-of-existence/">&lt;p&gt;Hawaii was an absolute treat for the senses, where almost every single day we
+is the word of the day today.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Reflection" /><category term="Science" /><summary type="html">Year 3 is done! Here's to half a PhD.</summary></entry><entry><title type="html">Our thin layer of existence. (26/52)</title><link href="http://localhost:4000/our-thin-layer-of-existence/" rel="alternate" type="text/html" title="Our thin layer of existence. (26/52)" /><published>2017-10-16T00:00:00-07:00</published><updated>2017-10-16T00:00:00-07:00</updated><id>http://localhost:4000/our-thin-layer-of-existence</id><content type="html" xml:base="http://localhost:4000/our-thin-layer-of-existence/">&lt;p&gt;Hawaii was an absolute treat for the senses, where almost every single day we
 witnessed something that was breathtaking: be it the sun setting into the
 infinite expanse of the orange horizon, the warm saltiness of the sea water on
 the skin that’s just cool enough to alert the peripheries, or the chirping of
@@ -619,7 +1140,7 @@ felt acknowledged and welcomed, and I hope I can do the same for them one day.
 It really makes me question, even now, the extent of other kinds of cognition,
 beyond our simply human ideals.&lt;/p&gt;
 
-&lt;p&gt;After all, we are but a thin layer of existence in a much, much larger whole.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Travels" /><summary type="html">Hawaii was truly an eye-opening and life-changing experience.</summary></entry><entry><title type="html">First research paper published! (25/52)</title><link href="http://localhost:4000/first-research-paper-published/" rel="alternate" type="text/html" title="First research paper published! (25/52)" /><published>2017-09-18T00:00:00-04:00</published><updated>2017-09-18T00:00:00-04:00</updated><id>http://localhost:4000/first-research-paper-published</id><content type="html" xml:base="http://localhost:4000/first-research-paper-published/">&lt;p&gt;Because I’m quite short on my 52 posts this year, I’m stealing this from the
+&lt;p&gt;After all, we are but a thin layer of existence in a much, much larger whole.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Travels" /><summary type="html">Hawaii was truly an eye-opening and life-changing experience.</summary></entry><entry><title type="html">First research paper published! (25/52)</title><link href="http://localhost:4000/first-research-paper-published/" rel="alternate" type="text/html" title="First research paper published! (25/52)" /><published>2017-09-18T00:00:00-07:00</published><updated>2017-09-18T00:00:00-07:00</updated><id>http://localhost:4000/first-research-paper-published</id><content type="html" xml:base="http://localhost:4000/first-research-paper-published/">&lt;p&gt;Because I’m quite short on my 52 posts this year, I’m stealing this from the
 &lt;a href=&quot;http://voyteklab.com/inferring-ei-balance-from-lfp/&quot;&gt;lab blog&lt;/a&gt; (which I
 wrote!). But hey! First research paper published, jeez what a long process…&lt;/p&gt;
 
@@ -858,7 +1379,7 @@ This little anecdote really just speaks to the serendipity of science, and it
 couldn’t have happened without the many hours of spontaneous discussions in
 the lab, which I’m also very grateful for, and Google. I think these little
 stories really liven up the otherwise logical world of science, and I’d love
-to read about such stories from other people!&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Brain &amp; Cognition" /><category term="Science Communication" /><summary type="html">Publishing a paper is most definitely a non-linear path.</summary></entry><entry><title type="html">Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I’ve seen. (24/52)</title><link href="http://localhost:4000/the-most-incredible-and-awe-inspiring-thing-ive-seen/" rel="alternate" type="text/html" title="Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I've seen. (24/52)" /><published>2017-08-26T00:00:00-04:00</published><updated>2017-08-26T00:00:00-04:00</updated><id>http://localhost:4000/the-most-incredible-and-awe-inspiring-thing-ive-seen</id><content type="html" xml:base="http://localhost:4000/the-most-incredible-and-awe-inspiring-thing-ive-seen/">&lt;p&gt;We saw a lot of wonderful and incredible sights in Hawaii over the last two
+to read about such stories from other people!&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Brain &amp; Cognition" /><category term="Science Communication" /><summary type="html">Publishing a paper is most definitely a non-linear path.</summary></entry><entry><title type="html">Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I’ve seen. (24/52)</title><link href="http://localhost:4000/the-most-incredible-and-awe-inspiring-thing-ive-seen/" rel="alternate" type="text/html" title="Holy sh*t I swam with a manta ray: the most incredible and awe-inspiring thing I've seen. (24/52)" /><published>2017-08-26T00:00:00-07:00</published><updated>2017-08-26T00:00:00-07:00</updated><id>http://localhost:4000/the-most-incredible-and-awe-inspiring-thing-ive-seen</id><content type="html" xml:base="http://localhost:4000/the-most-incredible-and-awe-inspiring-thing-ive-seen/">&lt;p&gt;We saw a lot of wonderful and incredible sights in Hawaii over the last two
 weeks, all of which I will shortly detail. But the one thing that stood out
 the most was this moment, so much so that I think it deserves its own entry.&lt;/p&gt;
 
@@ -895,7 +1416,7 @@ still sometimes hear my gasps):&lt;/p&gt;
 
   &lt;iframe src=&quot;https://player.vimeo.com/video/230315536&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;/div&gt;</content><author><name>Richard Gao</name></author><category term="Travels" /><category term="Musings" /><summary type="html">I am the uninvited guest of this magnificent and playful host.</summary></entry><entry><title type="html">What is the hardest scientific endeavor of all? (23/52)</title><link href="http://localhost:4000/what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/" rel="alternate" type="text/html" title="What is the hardest scientific endeavor of all? (23/52)" /><published>2017-06-12T00:00:00-04:00</published><updated>2017-06-12T00:00:00-04:00</updated><id>http://localhost:4000/what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience</id><content type="html" xml:base="http://localhost:4000/what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/">&lt;p&gt;“The brain is the most complex thing in the universe.”&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Richard Gao</name></author><category term="Travels" /><category term="Musings" /><summary type="html">I am the uninvited guest of this magnificent and playful host.</summary></entry><entry><title type="html">What is the hardest scientific endeavor of all? (23/52)</title><link href="http://localhost:4000/what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/" rel="alternate" type="text/html" title="What is the hardest scientific endeavor of all? (23/52)" /><published>2017-06-12T00:00:00-07:00</published><updated>2017-06-12T00:00:00-07:00</updated><id>http://localhost:4000/what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience</id><content type="html" xml:base="http://localhost:4000/what-is-the-hardest-scientific-endeavor-of-all-answer-neuroscience/">&lt;p&gt;“The brain is the most complex thing in the universe.”&lt;/p&gt;
 
 &lt;p&gt;If there was one quote that grinds my gears more than all else, it is this
 one. It is simply an idiotic thing to say: the brain is not the most complex
@@ -973,7 +1494,7 @@ ever happen: to objectively understand this sense of meaning, we may have to
 give up that there is any meaning in the first place, and simply describe our
 thoughts, movements, and interactions as physical quantities changing over
 time, like how we objectively describe ant colonies, economics, and a
-&lt;a href=&quot;https://www.wired.com/2011/11/starling-flock/&quot;&gt;murmuration of birds&lt;/a&gt;.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Brain &amp; Cognition" /><summary type="html">We cannot study what we cannot truly see, and can we truly see ourselves?</summary></entry><entry><title type="html">The Disease of Productivity &amp;amp; Mindful Dishwashing (22/52)</title><link href="http://localhost:4000/the-disease-of-productivity-mindful-dishwashing/" rel="alternate" type="text/html" title="The Disease of Productivity &amp; Mindful Dishwashing (22/52)" /><published>2017-06-05T00:00:00-04:00</published><updated>2017-06-05T00:00:00-04:00</updated><id>http://localhost:4000/the-disease-of-productivity-mindful-dishwashing</id><content type="html" xml:base="http://localhost:4000/the-disease-of-productivity-mindful-dishwashing/">&lt;p&gt;Since I started graduate school, I think, I’ve revered industriousness and
+&lt;a href=&quot;https://www.wired.com/2011/11/starling-flock/&quot;&gt;murmuration of birds&lt;/a&gt;.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Brain &amp; Cognition" /><summary type="html">We cannot study what we cannot truly see, and can we truly see ourselves?</summary></entry><entry><title type="html">The Disease of Productivity &amp;amp; Mindful Dishwashing (22/52)</title><link href="http://localhost:4000/the-disease-of-productivity-mindful-dishwashing/" rel="alternate" type="text/html" title="The Disease of Productivity &amp; Mindful Dishwashing (22/52)" /><published>2017-06-05T00:00:00-07:00</published><updated>2017-06-05T00:00:00-07:00</updated><id>http://localhost:4000/the-disease-of-productivity-mindful-dishwashing</id><content type="html" xml:base="http://localhost:4000/the-disease-of-productivity-mindful-dishwashing/">&lt;p&gt;Since I started graduate school, I think, I’ve revered industriousness and
 have been deathly afraid of unproductivity. It’s really weird, because I was
 just as gung-ho about doing well in high school and university, but in some
 sense I felt like at that time my life (and work) wasn’t really mine, and that
@@ -1057,7 +1578,7 @@ my mental wellbeing. Obviously I’m not saying to goof off every time there is
 more responsibility at work or something. It is simply to say that perhaps we
 need more loving and caring, from ourselves, precisely when we are being
 demanded the most (wow that sounds super obvious when I write it down that
-way).&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Reflection" /><summary type="html">I was depending on the activity itself to relax me, but the truth is that relaxation comes from the conscious decision to do this thing - anything - instead of thinking about work.</summary></entry><entry><title type="html">Combatting bias in science. (21/52)</title><link href="http://localhost:4000/combatting-bias-in-science/" rel="alternate" type="text/html" title="Combatting bias in science. (21/52)" /><published>2017-05-30T00:00:00-04:00</published><updated>2017-05-30T00:00:00-04:00</updated><id>http://localhost:4000/combatting-bias-in-science</id><content type="html" xml:base="http://localhost:4000/combatting-bias-in-science/">&lt;p&gt;This is the third post in my series of reflecting on the state of science,
+way).&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Reflection" /><summary type="html">I was depending on the activity itself to relax me, but the truth is that relaxation comes from the conscious decision to do this thing - anything - instead of thinking about work.</summary></entry><entry><title type="html">Combatting bias in science. (21/52)</title><link href="http://localhost:4000/combatting-bias-in-science/" rel="alternate" type="text/html" title="Combatting bias in science. (21/52)" /><published>2017-05-30T00:00:00-07:00</published><updated>2017-05-30T00:00:00-07:00</updated><id>http://localhost:4000/combatting-bias-in-science</id><content type="html" xml:base="http://localhost:4000/combatting-bias-in-science/">&lt;p&gt;This is the third post in my series of reflecting on the state of science,
 which, at this point, feels like it’s more likely to be a given week’s topic
 than not. In any case, today, I will be writing about bias within the
 selection process in science. This current line of thought has accumulated
@@ -1199,132 +1720,4 @@ different groups of people can and do bring significantly different - and
 valuable - perspectives in tackling challenging scientific and societal
 problems, and those perspectives are crucial in recognizing, sometimes
 literally, that a &lt;a href=&quot;https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms#t-210362&quot;&gt;problem
-exists&lt;/a&gt;.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Reflection" /><category term="Science" /><category term="Science Communication" /><summary type="html">However, to say that quotas simultaneously select for the best candidates and try to equalize existing disparities is, if not disingenuous, then completely missing the point.</summary></entry><entry><title type="html">On the reproducibility crisis and how theory in neuroscience can help to avert it. (20/52)</title><link href="http://localhost:4000/how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis/" rel="alternate" type="text/html" title="On the reproducibility crisis and how theory in neuroscience can help to avert it. (20/52)" /><published>2017-05-20T00:00:00-04:00</published><updated>2017-05-20T00:00:00-04:00</updated><id>http://localhost:4000/how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis</id><content type="html" xml:base="http://localhost:4000/how-good-theory-in-neuroscience-can-avert-the-reproducibility-crisis/">&lt;p&gt;This is the second of a series of posts where I talk about the current state
-of science, and today’s in particular will begin by looking at the
-reproducibility crisis, and how a seemingly technical problem can give rise to
-this real-world issue.&lt;/p&gt;
-
-&lt;p&gt;I was sitting in lecture for the class that I’m TAing this quarter last night&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;introduction to data science - and we began to talk about the current
-reproducibility crisis in science. The fact that reproducibility has been an
-issue, especially in biological and psychological sciences, is not news to me.
-In the last couple of years, there have been various accounts of this
-particular problem in the media, as well as scrutiny from the scientific
-community (see &lt;a href=&quot;http://www.nature.com/news/1-500-scientists-lift-the-
-lid-on-reproducibility-1.19970&quot;&gt;here&lt;/a&gt;, and an analytical explanation for
-neuroscience specifically
-&lt;a href=&quot;http://www.nature.com/nrn/journal/v14/n5/abs/nrn3475.html&quot;&gt;here&lt;/a&gt;). What
-caught my eye, though, was the graphic below, taken from the accompanying
-article from the
-&lt;a href=&quot;http://www.economist.com/news/briefing/21588057-scientists-think-
-science-self-correcting-alarming-degree-it-not-trouble&quot;&gt;Economist&lt;/a&gt;:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2017-05-20-reproducibility-FP.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;False Positive Results by Chance&lt;/strong&gt;&lt;br /&gt;
-Briefly, this schematic aims to explain why there seems to be so many false
-positive (hence irreproducible) findings in science. They begin with the
-assumption that most scientific hypotheses are false, and only a small
-fraction (10% here) of them will turn out to be correct after data is gathered
-through experiments (panel 1). This seems consistent with intuition, since
-most of our ideas will turn out to be crap, and a lot of experiments simply
-don’t work out. This is now purely personal speculation, but there seemed to
-be a kind of a golden-age of science - at least in biology - where fundamental
-and groundbreaking results were discovered in a flurry in the 80s and 90s.
-Nowadays, it seems harder to find the golden needle in a stack of hay, hence
-most of our hypotheses - the ones that we were so convinced would work after 3
-beers with the lab - are probably wrong.&lt;/p&gt;
-
-&lt;p&gt;Panel 2: even with careful statistical analysis, an experiment has the
-possibility of returning a false positive or false negative result. For
-example, if we hypothesize that eating strawberries makes your brain larger,
-we will set out to gather data and test this relationship. We often use a
-p=0.05 threshold for significance, meaning that if there was indeed no real
-relationship between strawberries and brain size, then only 5% of the time
-will our experimental data - given the threshold we set - produce an effect
-large enough BY CHANCE that we then go on to interpret as true. It follows,
-then, that 5% of all false hypotheses will return positive results by chance,
-not out of misconduct (45 out of 900). Similarly, a portion of actually
-positive findings (true hypotheses) will be deemed false after our
-experiments, also by chance (20% of 100 = 20). So in the end, we end up with
-80 (true positive) + 45 (false positive) = 125 positive findings.&lt;/p&gt;
-
-&lt;p&gt;Panel 3: of course, overwhelmingly, it is positive findings that actually make
-it out of the lab, so that we can make another headline that reads “Scientists
-discover _____”. Now, if we go back and re-examine these 125 discoveries, it’s
-likely that we will not be able to reproduce the majority of those 45 false
-positives (hard to get lucky twice). Hence, it seems that science is in a dire
-reproducibility crisis, since around a third of the positive findings cannot
-be reproduced by independent labs. There are real and systematic problems that
-make this happen. For example, bad incentive structures where a scientist is
-judged only by publications and citation counts will want to publish as much
-as possible to get grant funding and tenure so they can keep doing the science
-they love. In very few instances are these actually due to misconduct and
-conscious malpractice, and the scientific process was designed to catch these
-kinds of errors anyway. However, over time, sloppy standards get sloppier at
-no fault of any individual, and no one would bother to try to reproduce a work
-because reproducing someone else’s exciting finding won’t get you nearly as
-much recognition, so why not invest these precious grant dollars more
-efficiently? These are problems that most scientists acknowledge and lament,
-and wish to be different (I believe), so I won’t belabor the point here,
-though I may write a separate post about these larger issues.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How Theory Can Save Us&lt;/strong&gt;&lt;br /&gt;
-What I want to focus on is a new insight I stumbled upon while looking at this
-illustration: people can’t publish null findings. This fact is old as time
-itself, and even has its own name: &lt;strong&gt;publication bias&lt;/strong&gt;. It describes the
-situation where the result of an experiment influences whether it will get
-published, and most of the time it’s towards a positive bias. In other words,
-only “discoveries” tend to get published. I was exposed to and made wary of
-this the day I started graduate school, because neuroscience as a field seems
-to be one of the worst offenders of this. Almost every single person in the
-scientific community laments this, though efforts have definitely been made to
-curb this practice via mechanisms like pre-registration, where one shares the
-plan of an experiment prior to actually conducting it, clearly stating the
-hypothesis and expected finding. Publication bias is so pervasive that I never
-really stopped to think about why null findings are unsexy and unpublishable,
-until I saw that second panel in the schematic, and realized just how many
-more null findings there probably are compared to positive findings, and how
-much value these results would add to our body of knowledge about the brain at
-large.&lt;/p&gt;
-
-&lt;p&gt;But why aren’t these null findings published? Essentially, it boils down to
-one thing: null findings are unsexy because it doesn’t tell you anything
-informative. But failure to find anything is not uninformative on its own - it
-is only so because there is no theory behind why it should have NOT failed.
-Put it another way: if we think of most neuroscience experiments as fishing
-expeditions (biology is stamp-collecting, after all), going out into a random
-patch of sea and casting your net and not getting a single fish is not that
-surprising, therefore not very informative. However, if you are in the same
-patch of sea, lowered an empty bucket, and proceeded to not raise any water,
-this would be pretty informative, and certainly publishable. Why? Because our
-theory about the sea, water, and physics tells us that we really should expect
-to get water, and thus not getting water with a bucket means either: a) your
-bucket is leaking, b) physics is broken. Think about it: if in a well-
-conducted and well-controlled physics experiment that you found that an object
-did not drop to the ground after release, you wouldn’t just say, “oh well,
-just another failed experiment, back to the lab tomorrow.” No, you would
-probably publish a Nature paper saying you found a spot on Earth where there
-is no gravity. Expectations built from theory, or the lack thereof, is
-precisely what makes null findings informative or uninformative. If we have
-some expectations for how a neuroscience experiment would go - I’m not just
-talking about a hypothesis, I’m talking about the quantitative and falsifiable
-explanation we have in our heads FOR that hypothesis - then a positive and a
-negative finding would be equally informative. In fact, a negative finding is
-probably MORE informative, because it means your theory needs to be revised,
-which forms the basis of falsifiable science. But if we have no theory? A null
-finding is just another empty trip out to sea.&lt;/p&gt;
-
-&lt;p&gt;How will this help with the reproducibility crisis? Well, I think if we
-started to build actual neuroscientific theories that we believe in and can
-work with in a quantitative way, we will slowly be rid of the publication
-bias. After all, the most valuable artifact of physics is not the collection
-of empirical observations that we gathered in the last 200 years, it is the
-set of generalizable and useful theories we were able to abstract from and
-refine with the help of those observations. Similarly, a coherent theoretical
-framework in neuroscience and biology will shift the focus away from stamp-
-collecting and towards knowledge-building. Once the community at large accepts
-and values works that falsify theories or reproduce existing evidence, then we
-can move towards a sustainable incentive structure.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Science" /><category term="Science Communication" /><summary type="html">Once the community at large accepts and values works that falsify theories or reproduce existing evidence, then we can move towards a sustainable incentive structure.</summary></entry></feed>
+exists&lt;/a&gt;.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Reflection" /><category term="Science" /><category term="Science Communication" /><summary type="html">However, to say that quotas simultaneously select for the best candidates and try to equalize existing disparities is, if not disingenuous, then completely missing the point.</summary></entry></feed>

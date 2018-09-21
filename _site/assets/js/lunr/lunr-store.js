@@ -328,4 +328,9 @@ var store = [{
         "excerpt":"This is arguably a pretty lukewarm hot-take, but I slept for 12 hours last night after bombarding my brain with brain stuff (and beer, and Philly foods) for 4 days straight, and finally felt like I could string together coherent words again. No promises, though.Immediate post-conference thought: there were a...","categories": [],
         "tags": ["Reflections","Mind & Brain"],
         "url": "http://localhost:4000/CCN2018/",
-        "teaser":"http://localhost:4000/assets/images/blog/2018-09-09-CCNbanner.png"}]
+        "teaser":"http://localhost:4000/assets/images/blog/2018-09-09-CCNbanner.png"},{
+        "title": "Reference Manager Showdown: a full review of Papers 3, Zotero, F1000, and Paperpile (+ ReadCube)",
+        "excerpt":"How does the saying go? “You can’t paint a Picasso with a paint roller?” I’m sure that’s not how it goes, but the point is, having good tools is the foundation of doing good work. Today, I’m writing about one of the most commonly used tools across academia - the...","categories": [],
+        "tags": ["Science","Data & Technology"],
+        "url": "http://localhost:4000/reference-managers/",
+        "teaser":"http://localhost:4000/assets/images/blog/2018-09-20-refman-header.png"}]
