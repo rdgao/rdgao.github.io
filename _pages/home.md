@@ -7,7 +7,7 @@ share: False
 classes: narrow
 
 header:
-  image: /assets/images/singles/sea_tall_compress.jpg
+  image: /assets/images/singles/sea_tall_streak_compress.jpg
   title: ''  
   type: "center"
 

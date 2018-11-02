@@ -11,3 +11,11 @@ Let's say you're invited to give a talk amongst a panel of distinguished scienti
 I think high functioning people - in academia, business, law, medicine, whatever - have a high rate of "imposter syndrome" because they're used to being competent, and feeling incompetent for the first time is scary, and we want to reject that fear so we are even harder on ourselves for feeling incompetent in the first place. And the reason I wanted to write about imposter syndrome is that I think sometimes it might be unhealthy and counterproductive to tell a trainee to not feel imposter syndrome, when really they're feeling incompetent. Incompetent syndrome is something that can and should be treated with practice and work, and is NEVER going to go away just because they know they "shouldn't feel that way". One day or another, the bubble will burst and they will learn that they truly have been incompetent, and hopefully it's not in a high stake situation, and that's kind of the point of training - fuck it up all you can while you're under someone else's guidance, so you don't have to when you're running your own study.
 
 So my advice for a new grad student or new whatever is -
+
+
+---
+
+People are constantly being asked to be nicer and more tolerant than before.
+
+---
+What's the shelf life of a scientist?

@@ -333,4 +333,9 @@ var store = [{
         "excerpt":"How does the saying go? “You can’t paint a Picasso with a paint roller?” I’m sure that’s not how it goes, but the point is, having good tools is the foundation of doing good work. Today, I’m writing about one of the most commonly used tools across academia - the...","categories": [],
         "tags": ["Science","Data & Technology"],
         "url": "http://localhost:4000/reference-managers/",
-        "teaser":"http://localhost:4000/assets/images/blog/2018-09-20-refman-header.png"}]
+        "teaser":"http://localhost:4000/assets/images/blog/2018-09-20-refman-header.png"},{
+        "title": "Roemer Has It: The Hilbert Transform, Instantaneous Power/Phase/Frequency, and Negative Frequencies in Neuroscience",
+        "excerpt":"If you work with oscillations in the brain, or any sort of time-frequency analysis of neural (or other) time series, you’ve probably used the Hilbert transform at some point. Depending on your background and level of comfort with signal processing, it may be just a scipy or MATLAB function call...","categories": [],
+        "tags": ["Mind & Brain","Data & Technology"],
+        "url": "http://localhost:4000/roemerhasit_Hilbert_Transform/",
+        "teaser":"http://localhost:4000/assets/images/blog/2018-11-02-RHI_HT-1.png"}]
