@@ -1,4 +1,135 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-02T01:46:07-07:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">Roemer Has It: The Hilbert Transform, Instantaneous Power/Phase/Frequency, and Negative Frequencies in Neuroscience</title><link href="http://localhost:4000/roemerhasit_Hilbert_Transform/" rel="alternate" type="text/html" title="Roemer Has It: The Hilbert Transform, Instantaneous Power/Phase/Frequency, and Negative Frequencies in Neuroscience" /><published>2018-11-02T00:00:00-07:00</published><updated>2018-11-02T00:00:00-07:00</updated><id>http://localhost:4000/roemerhasit_Hilbert_Transform</id><content type="html" xml:base="http://localhost:4000/roemerhasit_Hilbert_Transform/">&lt;p&gt;If you work with oscillations in the brain, or any sort of time-frequency analysis of neural (or other) time series, you’ve probably used the Hilbert transform at some point. Depending on your background and level of comfort with signal processing, it may be just a scipy or MATLAB function call to you, or you might understand the deeper mathematical theory behind it. What you might not appreciate (I certainly didn’t), however, is one of the important assumptions behind it, specifically in the context of applying it to brain data. In particular, it’s an important assumption in interpreting instantaneous oscillation power and phase in brain rhythms, especially if you’ve ever thought to yourself, “what does &lt;strong&gt;instantaneous&lt;/strong&gt; power mean anyway?”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-12T19:01:28-08:00</updated><id>http://localhost:4000/</id><title type="html">Mind From Matter</title><subtitle>Seeking the mind in the brain. Posts about computational neuroscience, cognitive science, and random things in my life.</subtitle><author><name>Richard Gao</name></author><entry><title type="html">SFN2018</title><link href="http://localhost:4000/sfn/" rel="alternate" type="text/html" title="SFN2018" /><published>2018-11-03T00:00:00-07:00</published><updated>2018-11-03T00:00:00-07:00</updated><id>http://localhost:4000/sfn</id><content type="html" xml:base="http://localhost:4000/sfn/">&lt;p&gt;Day 2:
+LFP biophysics&lt;/p&gt;
+
+&lt;p&gt;Cameron McIntyre&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;subthalamic DBS implant LFP - beta correlates with units&lt;/li&gt;
+  &lt;li&gt;subthalamic cells have different morph and configuration from ctx cells&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Andreas Kuhn&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;clinically relevant features in STN DBS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Helen Bronte-Stewart&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;resting state DBS LFP recording in STN&lt;/li&gt;
+  &lt;li&gt;spectrum is ‘stationary’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 1:&lt;/p&gt;
+
+&lt;p&gt;Ken-ichi Amemori (Graybiel):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;beta stimulation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Scott Cole (Voytek):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;waveform shape in time domain
+Alex Gramfort:
+  DAR:&lt;/li&gt;
+  &lt;li&gt;Driven AutoRegreassive models for search&lt;/li&gt;
+  &lt;li&gt;driver signal (low-freq) serves as time-varying AR parameters for the high frequency osc.&lt;/li&gt;
+  &lt;li&gt;Robust to bandwidth/frequency of driving signal&lt;/li&gt;
+  &lt;li&gt;can vary various parameters and compute likelihood
+  CSC:&lt;/li&gt;
+  &lt;li&gt;convolutional sparse coding&lt;/li&gt;
+  &lt;li&gt;topography x waveform (conv) activation&lt;/li&gt;
+  &lt;li&gt;alphaCSC extracts kernels
+  MNE:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jaana Simola (M. &amp;amp; S. Palvas)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;measuring network connectivity via MEG &amp;amp; phase/amplitude synchrony&lt;/li&gt;
+  &lt;li&gt;visual alpha lateralization &amp;amp; network synchrony (graph strength) predicts Posner task performance&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lobier et al., NI 2017&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hyeyoung Shin (Jones Lab)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;beta, MEG&lt;/li&gt;
+  &lt;li&gt;beta power predicts inhibited performance across tasks, species and modalities&lt;/li&gt;
+  &lt;li&gt;measuring beta transient events (number, power, duration, freq-span) from spectrogram in a per-trial fashion&lt;/li&gt;
+  &lt;li&gt;nice complement to time-domain (bycycle) measures&lt;/li&gt;
+  &lt;li&gt;dynamic (beta-length vs. pause) vs. burst generator: found evidence for stochastic durations, i.e. random pause times&lt;/li&gt;
+  &lt;li&gt;event number correlates the most with prestimulus beta power and non-detection&lt;/li&gt;
+  &lt;li&gt;prestim beta event &lt;strong&gt;closer&lt;/strong&gt; to stim predicts non-detection&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;would this explain stochastic distribution of per-trial power in visual gamma? Should check motor beta as well in ECoG&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;good Q: does power, event number, and duration etc explain different portions of performance variance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jason Samaha (Samaha/Postle)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;quantifying alpha oscillatory frequency&lt;/li&gt;
+  &lt;li&gt;phase matters, does frequency?&lt;/li&gt;
+  &lt;li&gt;MX Cohen instantaneous frequency method (MXC JN 2014)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;‘instantaneous’ is wrt to the complex sinusoid, but integrated over many samples during filter and hilbert stage&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;FT based method cannot resolve 0.2Hz difference, MXC method can but under-estimates freq in noise, improves when SNR increases&lt;/li&gt;
+  &lt;li&gt;inter-subject alpha freq inversely correlates with two-flash fusion threshold (better temporal resolution), works within subject on a per-trial basis too&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ali Mazaheri (Mazaheri)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Corcoran et al. 2018&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;alpha frequency &amp;amp; pain&lt;/li&gt;
+  &lt;li&gt;slow alpha &amp;lt;&amp;gt; longer pain duration (years)&lt;/li&gt;
+  &lt;li&gt;9-11Hz alpha CoG (power-weighted freq)&lt;/li&gt;
+  &lt;li&gt;capsicin induced pain: slow alpha &amp;lt;&amp;gt; more pain &amp;amp; duration, also slowing down &amp;lt;&amp;gt; pain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Andrew Watrous (Watrous/Josh Jacobs)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;MODAL - time-frequency detection of oscillations&lt;/li&gt;
+  &lt;li&gt;rate and theta spike-phase coding neurons in the human MTL&lt;/li&gt;
+  &lt;li&gt;probabilistic detection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tom Donoghue (Voytek)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;FOOOOOOOOOOF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Josh Jacobs (Jacobs)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;traveling waves (theta/alpha) in temporal cortex&lt;/li&gt;
+  &lt;li&gt;circular-linear model &lt;strong&gt;(Fisher 1995)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;also exist elsewhere and at other freqs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;referencing&lt;/strong&gt;?&lt;/li&gt;
+  &lt;li&gt;wave collision between occipital alpha and MT/frontal theta?&lt;/li&gt;
+  &lt;li&gt;consistency of traveling direction correlates with performance&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ermentrout &amp;amp; Kleinfeld 2001&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;whole cortex vector field show posterior to anterior propagation&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;higher freq oscillations are also travelling faster&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;neuronal population time constant across cortex?&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zhang et al 2018, Neuron&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lyle Muller (Sejnowski)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;generalized (wideband) phase&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Muller et al 2016, elife, Nat Comm 2014&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;does traveling wave depend on recording depth&lt;/strong&gt;?&lt;/li&gt;
+  &lt;li&gt;spontaneous and non-isotropic waves, phase locking&lt;/li&gt;
+  &lt;li&gt;impacts visual perception threshold&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Saskia Haegens ()&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;oscillations implement low-level functional blocks (e.g. inhibition, ensemble formation, sampling, etc)&lt;/li&gt;
+  &lt;li&gt;frequency variability between subjects&lt;/li&gt;
+  &lt;li&gt;peak freq increases with cognitive demand&lt;/li&gt;
+  &lt;li&gt;inverse correlation between alpha power and broadband (HFA) power&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;general thoughts&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;lots of complementary packages but unclear how to use all of them&lt;/li&gt;
+  &lt;li&gt;fuller characterization of oscillations (frequency, 1/f, travel)&lt;/li&gt;
+  &lt;li&gt;loglog plots&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Richard Gao</name></author><category term="Mind &amp; Brain" /><category term="Data &amp; Technology" /><summary type="html">.</summary></entry><entry><title type="html">Roemer Has It: The Hilbert Transform, Instantaneous Power/Phase/Frequency, and Negative Frequencies in Neuroscience</title><link href="http://localhost:4000/roemerhasit_Hilbert_Transform/" rel="alternate" type="text/html" title="Roemer Has It: The Hilbert Transform, Instantaneous Power/Phase/Frequency, and Negative Frequencies in Neuroscience" /><published>2018-11-02T00:00:00-07:00</published><updated>2018-11-02T00:00:00-07:00</updated><id>http://localhost:4000/roemerhasit_Hilbert_Transform</id><content type="html" xml:base="http://localhost:4000/roemerhasit_Hilbert_Transform/">&lt;p&gt;If you work with oscillations in the brain, or any sort of time-frequency analysis of neural (or other) time series, you’ve probably used the Hilbert transform at some point. Depending on your background and level of comfort with signal processing, it may be just a scipy or MATLAB function call to you, or you might understand the deeper mathematical theory behind it. What you might not appreciate (I certainly didn’t), however, is one of the important assumptions behind it, specifically in the context of applying it to brain data. In particular, it’s an important assumption in interpreting instantaneous oscillation power and phase in brain rhythms, especially if you’ve ever thought to yourself, “what does &lt;strong&gt;instantaneous&lt;/strong&gt; power mean anyway?”&lt;/p&gt;
 
 &lt;p&gt;In the following post, I delve into the math behind the Hilbert Transform and provide some visualizations that will hopefully make these ideas clearer. When I was researching for this, seeing the complex sinusoids represented as vectors really helped me in understanding it better, as well as in seeing the elegance of the math. I will also clarify what scipy.signal.hilbert() is actually doing (hint: it’s not computing the Hilbert Transform). You should have a basic exposure to frequency analysis (Fourier Transform) and filtering, i.e. know what they do. But no more than that is necessary, as this post will unpack some fundamentals of the Fourier Transform and complex sinusoids.&lt;/p&gt;
 
@@ -1850,88 +1981,4 @@ ever happen: to objectively understand this sense of meaning, we may have to
 give up that there is any meaning in the first place, and simply describe our
 thoughts, movements, and interactions as physical quantities changing over
 time, like how we objectively describe ant colonies, economics, and a
-&lt;a href=&quot;https://www.wired.com/2011/11/starling-flock/&quot;&gt;murmuration of birds&lt;/a&gt;.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Brain &amp; Cognition" /><summary type="html">We cannot study what we cannot truly see, and can we truly see ourselves?</summary></entry><entry><title type="html">The Disease of Productivity &amp;amp; Mindful Dishwashing (22/52)</title><link href="http://localhost:4000/the-disease-of-productivity-mindful-dishwashing/" rel="alternate" type="text/html" title="The Disease of Productivity &amp; Mindful Dishwashing (22/52)" /><published>2017-06-05T00:00:00-07:00</published><updated>2017-06-05T00:00:00-07:00</updated><id>http://localhost:4000/the-disease-of-productivity-mindful-dishwashing</id><content type="html" xml:base="http://localhost:4000/the-disease-of-productivity-mindful-dishwashing/">&lt;p&gt;Since I started graduate school, I think, I’ve revered industriousness and
-have been deathly afraid of unproductivity. It’s really weird, because I was
-just as gung-ho about doing well in high school and university, but in some
-sense I felt like at that time my life (and work) wasn’t really mine, and that
-I was just doing the bare minimum required to get the grades I was supposed to
-get, but no more - I was on a bus being driven to and fro. Even though EngSci
-was extremely time-consuming, I still had some “down time”, where it was set
-aside to just hang out with people, get stupid drunk, or go play basketball.
-Actually, it wasn’t “set aside” as much as I was doing anything to not spend
-time on school. Could I have gotten, better grades, been more involved in
-extracurriculars, or developed SOME kind of interest or hobby outside of
-school? Probably. But to be honest, the concept of setting aside time to do
-things as an investment of my future never occurred to me, and I just did
-whatever I wanted to do.&lt;/p&gt;
-
-&lt;p&gt;The moment I started graduate school, though, there was a fundamental change
-in my mindset. The best way I can describe it is that I began to think of my
-time doing research/reading/whatever as if it was time working on my own
-business: I get back as much as I put in, and no more, so if I want to be
-successful - and there is literally no bounds on what that means - I have to
-put in as much time as possible. In other words, every second of my time is a
-resource that I have to spend wisely to get the maximum return on investment I
-can get, and at this point in my life, it’s through working or reading or
-better equipping myself for research one way or another (narrow-minded, I
-know). From that moment on, I was always trying to preoccupy myself with work,
-and I convinced myself that unlimited industriousness is good. Of course it is&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;there are countless numbers of motivational videos on Youtube, and many
-times more of quotes saying hard work is the secret to life.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After three years, though, I’m starting to think it’s becoming a condition of
-some sort that I cannot get rid of. I don’t know what specifically I was
-thinking about, but one day I had a thought that perpetual and uncontrolled
-laziness or procrastination is like a disease, since a person may literally
-feel as if they have no control over their inability to get started on doing
-work. And it dawned on me - I have just as little control over my inability to
-&lt;strong&gt;NOT&lt;/strong&gt; think about work. Of course, that’s not to say that I’m always
-actually doing work, which is the stupid and ironic part, because I’m also
-starting to realize that, pushing myself or not, I end up doing about the same
-amount of work, except in one case, I feel extra bad that I’m taking time off
-so I just end up procrastinating doing something that I don’t really want to
-do, like watching the same video of Gordon Ramsey cooking a steak 5+ times on
-Youtube. For a while, I tried to consciously set aside time to relax by doing
-things that’s not work. But that never really worked, because I would just
-think that I could be spending this time doing work instead.&lt;/p&gt;
-
-&lt;p&gt;Now I realized I had it backwards: I was depending on the activity itself to
-relax me, but the truth is that relaxation comes from the conscious decision
-to do this thing - anything - instead of thinking about work. This happened a
-lot for meditation: I noticed that during times when there are no immediate
-deadlines, meditating is a huge boost to my energy level and general sense of
-wellbeing. But when I’m in a period of high stress because a deadline is
-approaching or just particularly busy with multiple things, meditating not
-only does not help, but makes the situation worse, because I end up getting
-distracted by work and then think that I should’ve just spent that time
-working instead. It was very frustrating because I thought meditating was
-suppose to make me more relaxed, not the opposite?! At some point, it dawned
-on me that meditation cannot make one’s mind more relaxed, but it is the
-relaxed mind itself - one that happily embarks on the small journey of being
-mindful despite all the chaos engulfing and bombarding the mind with
-responsibilities and tasks - that makes one’s mind more relaxed. In other
-words, more than half the battle is already won when I wholeheartedly commit
-myself to relaxing. Mind blown, right?&lt;/p&gt;
-
-&lt;p&gt;After a few more periods of alternating stress and relative idleness, I
-started to pick up on all the random little things that are truly indicators
-of my mental wellbeing. Willingness to meditate, of course, is probably a big
-one, precisely because it’s something that is truly unnecessary, in the sense
-that it does not accomplish anything that “needs to get done”. Going to the
-gym is another such thing. Household chores, in general, are pretty good
-litmus tests when I start to neglect them: dishes piling up in the sink even
-though I only cook like one meal a day, shirts not hung back up at the end of
-the day, etc. There is probably a direct inverse relationship between my daily
-cortisol level and how many times I flossed in the last week. Conversely, some
-things that I spend more time doing when I’m not doing well: Youtube, Twitter,
-and various other forms of social media, reading about random shit on
-Wikipedia or Buzzfeed, reading the news - though that’s largely a non-issue
-now since I avoid that like the plague. Anyway, the takeaway here is that how
-I’m treating myself in the face of external pressures is the best indicator of
-my mental wellbeing. Obviously I’m not saying to goof off every time there is
-more responsibility at work or something. It is simply to say that perhaps we
-need more loving and caring, from ourselves, precisely when we are being
-demanded the most (wow that sounds super obvious when I write it down that
-way).&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Reflection" /><summary type="html">I was depending on the activity itself to relax me, but the truth is that relaxation comes from the conscious decision to do this thing - anything - instead of thinking about work.</summary></entry></feed>
+&lt;a href=&quot;https://www.wired.com/2011/11/starling-flock/&quot;&gt;murmuration of birds&lt;/a&gt;.&lt;/p&gt;</content><author><name>Richard Gao</name></author><category term="Brain &amp; Cognition" /><summary type="html">We cannot study what we cannot truly see, and can we truly see ourselves?</summary></entry></feed>

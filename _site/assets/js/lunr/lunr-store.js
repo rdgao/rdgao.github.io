@@ -338,4 +338,9 @@ var store = [{
         "excerpt":"If you work with oscillations in the brain, or any sort of time-frequency analysis of neural (or other) time series, you’ve probably used the Hilbert transform at some point. Depending on your background and level of comfort with signal processing, it may be just a scipy or MATLAB function call...","categories": [],
         "tags": ["Mind & Brain","Data & Technology"],
         "url": "http://localhost:4000/roemerhasit_Hilbert_Transform/",
+        "teaser":"http://localhost:4000/assets/images/blog/2018-11-02-RHI_HT-1.png"},{
+        "title": "SFN2018",
+        "excerpt":"Day 2:LFP biophysicsCameron McIntyre subthalamic DBS implant LFP - beta correlates with units subthalamic cells have different morph and configuration from ctx cellsAndreas Kuhn clinically relevant features in STN DBSHelen Bronte-Stewart resting state DBS LFP recording in STN spectrum is ‘stationary’Day 1:Ken-ichi Amemori (Graybiel): beta stimulationScott Cole (Voytek): waveform shape...","categories": [],
+        "tags": ["Mind & Brain","Data & Technology"],
+        "url": "http://localhost:4000/sfn/",
         "teaser":"http://localhost:4000/assets/images/blog/2018-11-02-RHI_HT-1.png"}]
