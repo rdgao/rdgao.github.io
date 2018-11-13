@@ -31,11 +31,15 @@ If you work with (M)EEG/ECoG/LFP, or even EMG, you may have computed instantaneo
 Typically, how you arrive at these measures is through 1) narrowband filtering your signal, 2) get its complex representation via the Hilbert transform, and 3) compute squared magnitude/phase/phase difference. 1) and 2) can be combined via a complex wavelet filter, or obtained via FFT, but I will stick with the above because I want to write about the Hilbert Transform.
 
 In particular, when I first started writing this post, I wanted to address two thoughts that always vaguely bothered me, but could never figure out why or where I got them from:
-##### 1. "Instananeous" measures are suspicious, because how do you measure power/frequency/phase truly at an instant? Can you look at a single point on a sine wave (without the neighboring points) and determine the amplitude?
 
-##### 2. The Hilbert Transform is mathematically well-defined only for narrowband signals, and breaks down when the signal is wideband (energy at many frequencies).
+__1. "Instananeous" measures are suspicious, because how do you measure power/frequency/phase truly at an instant? Can you look at a single point on a sine wave (without the neighboring points) and determine the amplitude?__
+
+__2. The Hilbert Transform is mathematically well-defined only for narrowband signals, and breaks down when the signal is wideband (energy at many frequencies).__
+
 
 Turns out, both of the above were false beliefs. So I'm passing on my experience so you don't have to go through the struggle.
+
+(11/11/18 edit: As [Enrico Glerean](https://twitter.com/eglerean/status/1058444800595316741) kindly pointed out, #2 is not _technically_ a misconception. For the sake of not introducing confusing caveats before the actual post, details are reserved at the bottom.)
 
 ---
 
@@ -116,7 +120,7 @@ In the first plot, you can see the raw hippocampus LFP (black) and the filtered 
 
 In the second plot are the filtered theta (dashed red), and the real (blue) and imaginary (orange) components of the analytic signal. Notice that the filtered signal and the real component of the analytic signal are completely overlapping, which is the first hint of what the Hilbert Transform does: it retrieves an imaginary component. This is what I meant by "creating information", but hold that protest still.
 
-Also, notice that the imaginary component is a) almost identical to, and b) slightly lagging the real component - by exactly 90 degrees, or pi/2 rad, in fact. At this point, those of you familiar with this analysis pipeline should anticipate the next few functions calls, which computes the "instantaneous" power and phase from the filtered theta signal.
+Also, notice that the imaginary component is a) almost identical to, and b) slightly lagging the real component - by exactly 90 degrees, or $\pi$/2 rad, in fact. At this point, those of you familiar with this analysis pipeline should anticipate the next few functions calls, which computes the "instantaneous" power and phase from the filtered theta signal.
 
 
 ```python
@@ -377,6 +381,9 @@ That is all. I hope this provided some intuition for what the Hilbert Transform 
 
 
 - As with almost all neuroscientific time series analyses - (the late) Walter Freeman has written about it. I stumbled upon this as I was finishing up this post. Had I seen it earlier, I might not have even written it.
+
+- __11/11/18 EDIT__: In extremely pathological cases (in the context of field potential analysis), if the amplitude and phase signals have overlapping bandwidth, you cannot express the analytical signal in polar form. Hence, some narrowband-ness is required (less than -20dB overlap in support). In English, this means that the amplitude signal should not be changing at the same rate as the phase signal (imagine the vector spinning around in complex domain but with wildly fluctuating length at every angular step). This almost never happens in electrophysiological analysis because we're typically interested in cross-frequency coupling of frequencies that are sufficiently far apart. I think this is more important in the context of amplitude or frequency modulation in communication ([Bedrosian's Theorem](https://en.wikipedia.org/wiki/Hilbert_transform#Bedrosian's_theorem)), and apparently fMRI [functional connectivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624768/).
+
 
 ### Sources:
 [1]:https://ccrma.stanford.edu/~jos/mdft/Analytic_Signals_Hilbert_Transform.html
