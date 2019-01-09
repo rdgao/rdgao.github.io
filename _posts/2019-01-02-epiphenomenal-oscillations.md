@@ -5,9 +5,9 @@ status: publish
 type: post
 published: true
 header:
-  overlay_image: /assets/images/blog/2018-09-09-CCNbanner.png
+  overlay_image: /assets/images/blog/2019-01-02-brainwaves.jpg
   overlay_filter: rgba(0,0,0,0.7)
-  teaser: /assets/images/blog/2018-09-09-CCNbanner.png
+  teaser: /assets/images/blog/2019-01-02-brainwaves.jpg
 
 classes:
     - wide
@@ -17,11 +17,11 @@ excerpt: "The one where I write down all in the same place why oscillations and 
 
 Since Day 1 in the Voytek lab, Brad has floated around the idea of writing an "oscillation is epiphenomenal" review paper to argue that oscillations don't actually "do anything", in an effort to check ourselves and our starting assumptions that oscillations __are__ important. It wasn't really an actual project, but more of a challenge for us to be critical of our own work, and that of the field as a whole. Not that we tried very hard, but I don't think we found a lot of concrete published evidence outlining a solid argument from the ground up for either position, aside from theoretical contributions like Communication Through Coherence [(Fries, 2015)][ctc], though it's certainly a talking point in the community now. For example, see the recent [Cardin][cardin]/[Sohal][sohal] JNeuro dual-perspective on gamma oscillations, though these already accept the premise that gamma oscillations are important, or are at least useful for dissecting local circuits.
 
-Fast forward to present day: I don't know why, but over the last 6 months or so, I've had several arguments in person and on [Twitter][osc_tweet] about this particular thing, usually starting with me getting heated over someone saying "oscillations/LFPs are epiphenomenal", or something to that effect, as per this recent article in [Scientific American][sci_am] (and accompanying [response from Miller Lab][miller]). It occurred so frequently and with such conviction from its proponents that I really don't think we need to write that review article anymore, since people are already convinced. Over the course of these arguments, however, I have yet to hear a solid case for why somebody should take the position, empirical or otherwise, that oscillations or LFPs are epiphenomenal and, as such, should be ignored in our neuroscience inquiry. It's also unclear just how many people actually take those positions, and to what degree. I have, however, gained an understanding of the different reasons why people might __think__ that it's sensible to ignore oscillations from a "theoretical" point of view (and usually in favor of spikes), and typically it stems from some unchecked assumptions/ epistemological position. Keep in mind, this is my limited sampling from anecdotal experience.
+Fast forward to present day: I don't know why, but over the last 6 months or so, I've had several arguments in person and on [Twitter][osc_tweet] about this particular thing, usually starting with me getting heated over someone saying "oscillations/LFPs are epiphenomenal/doesn't do anything", or something to that effect, as per this recent article in [Scientific American][sci_am] (and accompanying [response from Miller Lab][miller]). It occurred so frequently and with such conviction from its proponents that I really don't think we need to write that review article anymore, since people are already convinced. Over the course of these arguments, however, I have yet to hear a solid case for why somebody should take the position, empirical or otherwise, that oscillations or LFPs are epiphenomenal and, as such, should be ignored in our neuroscience inquiry. It's also unclear just how many people actually take those positions, and to what degree. I have, however, gained an understanding of the different reasons why people might __think__ that it's sensible to ignore oscillations from a "theoretical" point of view (and usually in favor of spikes), and typically it stems from some unchecked assumptions/ epistemological position. Keep in mind, this is my limited sampling from anecdotal experience.
 
 Look - I'm obviously not claiming to be impartial here. This is the only hill I've ever lived on throughout my PhD so I will probably die on it too. But I think I'm more than willing to concede to better positions should they be convincing. I'm not saying we know where oscillations and LFPs come from, nor why they __definitively are__ important/causal/non-epiphenomenal - far from it. However, throwing this squiggly baby out with the bathwater, especially in light of established relationships between brain and behavior in the cognitive literature (a quick example [here][attention]), seems premature and ungrounded, especially when the arguments seem to come from truths derived from first principle, of which there are little in neuroscience.
 
-So I'm writing this blog post for two purposes: first, it's to collect, outline, and refute a handful of arguments for why "oscillations/LFPs are epiphenomenal"; second, it's to invite better counterarguments for me to consider, in case I should move on to doing something better after this final stretch of the PhD trudging through OscillationLand.
+So I'm writing this blog post for two purposes: first, it's to collect, outline, and refute a handful of arguments for why "oscillations/LFPs are epiphenomenal"; second, it's to invite better counterarguments for me to consider, in case I should move on to doing something better after this final stretch of the PhD trudging through OscillationLand. If you have detailed comments/thoughts/rebuttals, open an issue about it on GitHub [here][issues]. I'm trying this out as a commenting system, because I'm still too loaft to set one up on the website itself.
 
 ---
 
@@ -113,14 +113,13 @@ Practically, I hope more people start to look at the relationship between LFPs/o
 
 Or, you know, don't. That probably contributes to my job security for the next little while.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/211D6KOAzIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/211D6KOAzIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9dMrBUNWgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [ctc]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4605134/
 [cardin]: http://www.jneurosci.org/content/36/41/10496
 [sohal]:http://www.jneurosci.org/content/36/41/10489
 [sci_am]:https://www.scientificamerican.com/article/do-brain-waves-conduct-neural-activity-like-a-symphony/
+[issues]:https://github.com/rdgao/rdgao.github.io/issues
 [miller]:http://ekmillerlab.mit.edu/2018/11/29/a-controversy-about-whether-brain-waves-play-a-functional-role/
 [osc_tweet]:https://twitter.com/_rdgao/status/1068214736045522945
 [okun]:https://www.ncbi.nlm.nih.gov/pubmed/20335480
