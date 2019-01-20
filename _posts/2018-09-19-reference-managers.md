@@ -154,9 +154,9 @@ Go to: [Papers 3](#papers-3) \| [ReadCube](#readcube) \| [Zotero](#zotero) \| [F
 ---
 
 # Papers 3
-**Price**: \$50, one time
+**Price**: $50, one time
 
-I've been using Papers 3 for the last 2 years, and I really liked it. I paid \$50 for it, so you bet I'm gonna like it. Overall, the desktop (Mac) and iOS apps were great - rich features, automatic syncing over Wifi and Dropbox, and serviceable customer support. But the entire reason for this deep dive on reference management software is that I wanted to switch from Papers, and it's for two reasons: first, various aspects of the app are getting buggy, ranging from general slowness of the desktop app during searching/accessing pdfs, consistent crashing of the Citation plug-in, and weird sync issues with the iOS app; second, Papers is now merged with ReadCube, and they are to rollout a new ReadCube app soon under a monthly subscription model. Papers 3 users can upgrade at a discount, and the old app will (so they say) be supported indefinitely, but let's be real here: it's getting killed. Ultimately, it was a great piece of software that, I felt, focused on the right things. But given the state of the merger, I would not recommend shelling out $50 for it.
+I've been using Papers 3 for the last 2 years, and I really liked it. I paid $50 for it, so you bet I'm gonna like it. Overall, the desktop (Mac) and iOS apps were great - rich features, automatic syncing over Wifi and Dropbox, and serviceable customer support. But the entire reason for this deep dive on reference management software is that I wanted to switch from Papers, and it's for two reasons: first, various aspects of the app are getting buggy, ranging from general slowness of the desktop app during searching/accessing pdfs, consistent crashing of the Citation plug-in, and weird sync issues with the iOS app; second, Papers is now merged with ReadCube, and they are to rollout a new ReadCube app soon under a monthly subscription model. Papers 3 users can upgrade at a discount, and the old app will (so they say) be supported indefinitely, but let's be real here: it's getting killed. Ultimately, it was a great piece of software that, I felt, focused on the right things. But given the state of the merger, I would not recommend shelling out $50 for it.
 
 <details markdown="1"><summary><b>Click to expand for details and screenshots.</b></summary>
 
@@ -184,7 +184,7 @@ Go to: [Papers 3](#papers-3) \| [ReadCube](#readcube) \| [Zotero](#zotero) \| [F
 
 ---
 # ReadCube
-**Price**: \$36/year (free with institutional subscription)
+**Price**: $36/year (free with institutional subscription)
 
 I originally wasn't even going to give ReadCube a try, out of principle, due to its relationship with Nature Publishing Group and the paper rental service model. But then I decided that I should really be comprehensive. So I begrudgingly downloaded it and imported my entire library into it, which was easy, if a little slow. I grabbed the Chrome extension as well, which let's you import papers directly from a journal html page. There is a desktop app, a web app, and an iOS app, which means preserved functionalities while offline. I poked around both the web and Mac app, the interface design is consistent between the two and pleasing to the eye, with most of the space dedicated to the library view itself. It even has a sidebar that displays the citation history and all papers citing the current one you've highlighted. As much as I hated the pdf viewer when it randomly popped up on Nature pages, I actually thought it was really polished in the context of the app. Syncing between the web app and Mac app is automatic and painless, and I have no reason to expect otherwise for the iOS app, though it's unclear where the pdfs are stored.
 
@@ -200,7 +200,7 @@ And so with that, I end my full review of ReadCube: if you don't use tags or jus
 
 ---
 # Zotero
-**Price**: \$0/\$20/\$60/\$120 (300MB/2GB/6GB/Unlimited Storage)
+**Price**: $0/$20/$60/$120 (300MB/2GB/6GB/Unlimited Storage)
 
 Zotero, like Papers 3, is a desktop app that primarily runs offline. The functionalities are very similar to Papers, and so is the interface. The main difference here is that 1) it's (mostly) free, 2) it's an open source project, and 3) it doesn't have a companion mobile app. In exchange, however, there are a few very handy tools that make life easy, which I will highlight below. Note that I haven't used Zotero or the other apps extensively, like I have with Papers. I have, however, imported my entire library into it and spent a few days working with it AS IF I was using it, by going through all the steps in my workflow.
 
