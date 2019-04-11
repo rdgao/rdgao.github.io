@@ -32,7 +32,7 @@ gallery_COG:
   - url: /assets/images/projects/cog2.png
     image_path: /assets/images/projects/thumbnail/cog2.png
 ---
-Collected below are projects for my own PhD research in computational and cognitive (neuro)science, stuff I contribute to, as well as some fun personal projects. Associated code and papers are included wherever possible. You can find all of them on [Google Scholar][0].
+Collected below are projects for my own PhD research in computational neuroscience and cognitive science, stuff I contribute to, as well as some fun personal projects. Associated code and papers are included wherever possible. You can find all of them on [Google Scholar][0].
 
 ---
 # Modeling and Decomposing Neural Field Potentials
@@ -40,8 +40,9 @@ Collected below are projects for my own PhD research in computational and cognit
 {% include gallery id="gallery_NFP" %}
 **Why**: Features of the neural field potentials, such as oscillations and asynchronous activity, are routinely used in cognitive neuroscience as biomarkers of behavior, cognition, and disease, yet we have very little idea about how these mesoscale population-level signals come about. Personally, rather than just measuring them, I think having a theory-driven forward model of the signals we use would help us in better linking them with the behavioral variables we're ultimately interested in.
 
+
 ### Measuring Asynchronous (Stochastic) Population Firing (on-going)
-<a href='https://github.com/voytekresearch/spectralCV' class='btn btn--info'>GitHub</a>
+<a href='https://github.com/voytekresearch/spectralCA' class='btn btn--info'>GitHub</a>
 <a href='/assets/docs/gao_ccn2018.pdf' class='btn btn--success'>Paper</a>
 
 ### Inferring Synaptic Excitation-Inhibition Balance (2017)
@@ -81,7 +82,7 @@ Much of cognitive science and cognitive neuroscience aim to characterize and und
 
 ---
 # Other Science Projects
-### Parameterizing Neural Power Spectra - Fitting Oscillatory Peaks and 1/f background (FOOOF).
+### Parameterizing Neural Power Spectra - Fitting Oscillations and 1/f (FOOOF).
 <a href='https://github.com/voytekresearch/fooof' class='btn btn--info'>GitHub</a>
 <a href='https://www.biorxiv.org/content/biorxiv/early/2018/04/11/299859.full.pdf' class='btn btn--success'>Paper</a>
 ### neurodsp - Toolbox for Analyzing Time Series Data in Neuroscience
