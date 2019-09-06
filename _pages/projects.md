@@ -63,9 +63,9 @@ Collected below are projects for my own PhD research in computational neuroscien
 **Why**:
 Figuring out how neurons in the brain organize themselves over time, both structurally and dynamically, is one of the biggest ongoing challenges in systems and cognitive neuroscience. Brain organoids have recently emerged as a great model for neurodevelopment, having been shown to mimic *in-vivo* neurodevelopment structurally and in gene expression. By also tracking the emergence of network **dynamics** over time, as well as continuing to engineer models with higher fidelity, I'm hoping we can dissect how neural circuits organize themselves from the moment neurodevelopment begins, and learn when and how it goes wrong in diseases.
 
-### Nested Oscillatory Network Dynamics in Human Cortical Organoids (preprint)
+### Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development
 <a href='https://github.com/voytekresearch/OscillatoryOrganoids' class='btn btn--info'>GitHub</a>
-<a href='https://www.biorxiv.org/content/early/2018/06/29/358622' class='btn btn--success'>Paper</a>
+<a href='https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30337-6' class='btn btn--success'>Paper</a>
 
 (repo contains code for preprocessing Axion Maestro multi-electrode array data.)
 
