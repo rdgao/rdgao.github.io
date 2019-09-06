@@ -8,8 +8,6 @@ header:
   overlay_image: /assets/images/blog/2019-09-03-mea.png
   overlay_filter: rgba(0,0,0,0.7)
   teaser: /assets/images/blog/2019-09-03-mea.png
-classes:
-  #- wide
 
 excerpt: "In hindsight, there was some bad luck, and also mistakes on our part. But by and large, and only because it is now officially over, I can say that it was a great learning experience. I shit you not, I had a dream one night that the organoid grew to be like a boulder-sized ball and it was literally rolling around chasing after me."
 ---
