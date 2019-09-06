@@ -144,6 +144,7 @@ To wrap up, I'd like to direct your attention to a magic trick I performed. As y
 
 And that, my friends, are the findings from this paper (glossing over all the other important shit in the figures and supplementals that you are encouraged to look at).
 
+---
 ### 2019 - ???: Enter The Matrix (No I'm Just Joking)
 It's been a week since the paper came out, and if this is not the first time you're reading about this, it's more likely than not that you first read it in the [New York Times][nyt] (than from Cell Stem Cell, or, god forbid, Buzzfeed). The article does an excellent job at covering the main narrative of the science without going into technical details, but also staying very much on course in terms of **not making hyperboles** about the research, even if *space* and *robot* were mentioned. This is apparent from the title, and that was the sense I got from talking to Carl Zimmer on the phone as well. In fact, he explicitly asked me (and I assume Alysson as well) to comment on what the public should know about this, and he had some very pointed scientific questions that are very well worth doing follow-up experiments on.
 
