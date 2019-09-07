@@ -169,7 +169,7 @@ For now, though, I can finally breathe a sigh of relief that it's over. For now.
 [itsoverbrad]:/assets/images/blog/2019-09-03-itsoverbrad.png
 [otherstuff]:/assets/images/blog/2019-09-03-otherstuff.png
 [expert]:/assets/images/blog/2019-09-03-bwexperts.png
-[mea]:/assets/images/blog/2019-09-03-mea.png
+[mea]:/assets/images/blog/2019-09-03-MEA.png
 [cleber_tw]:https://twitter.com/trujillo_cleber
 [rdgao]:https://twitter.com/_rdgao
 [orgs]:/assets/images/blog/2019-09-03-orgs.png
