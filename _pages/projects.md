@@ -48,7 +48,7 @@ Collected below are projects for my own PhD research in computational neuroscien
 ### Inferring Synaptic Excitation-Inhibition Balance (2017)
 <a href='https://github.com/voytekresearch/EISlope' class='btn btn--info'>GitHub</a>
 <a href='https://www.ncbi.nlm.nih.gov/pubmed/28676297' class='btn btn--success'>Paper</a>
-<a href='/2017-9-18-2552-first-research-paper-published/' class='btn btn--danger'>Blog Post</a>
+<a href='/first-research-paper-published/' class='btn btn--danger'>Blog Post</a>
 ### Relating Spectral Power Law Changes to Population Firing Rate (2016)
 <a href='https://github.com/voytekresearch/tutorials/blob/master/PowerLawPSD.ipynb' class='btn btn--info'>GitHub</a>
 <a href='https://www.physiology.org/doi/abs/10.1152/jn.00722.2015' class='btn btn--success'>Paper</a>
@@ -66,6 +66,7 @@ Figuring out how neurons in the brain organize themselves over time, both struct
 ### Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development
 <a href='https://github.com/voytekresearch/OscillatoryOrganoids' class='btn btn--info'>GitHub</a>
 <a href='https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30337-6' class='btn btn--success'>Paper</a>
+<a href='/oscillating-organoids/' class='btn btn--danger'>Blog Post</a>
 
 (repo contains code for preprocessing Axion Maestro multi-electrode array data.)
 
