@@ -31,7 +31,7 @@ My [blog][blog] is spanned by everything in my life, from musings to reflections
 -- Aldous Huxley
 
 ---
-### Some Highlighted Blog Posts:
+### Some Highlighted Blog Posts
 
 Stuff that you might find useful:
 - [Tutorial on the Hilbert Transform][hilbert]
