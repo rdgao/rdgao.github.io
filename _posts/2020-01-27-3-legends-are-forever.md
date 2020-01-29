@@ -56,6 +56,13 @@ The real punchline, of course, is that basketball is more than just a game betwe
 I guess that's why it feels so devastating. This person who has - unbeknownst to me - been a continued teacher and inspiration for not only basketball, but my own craft, and even life itself. Gone, just like that. No more Kobe wisdoms. And that's not how it was suppose to be. We feel that the presence of someone who was so much larger than life should not only extend far, but for a long, long time. Especially someone who felt literally and physically invincible, even through the injuries and rehabs. I don't really know how to end this, and there's so much more I have to say and [have said][goodnight], for a stranger who I never knew but influenced me so much as a kid and as an adult, like he did many other kids and adults across the world.
 
 I just want to hold onto the sadness and grief for a little longer.
+---
+Jan 28, 2020
+Two thoughts after talking to many people about this in the last two days:
+
+First, it's incredible to see people across the world sharing the same grief over the loss of this icon. Many of the tributes directly touch on that weird feeling of being affected by the passing of someone who you never knew personally (like [here][tonyreali] and [here][cowherd]), and to not to try rationalizing it, and just let it be. Another related sentiment that hits close to home is the feeling of being surprised by how much the passing of someone that's only on the fringe of your consciousness can affect you (a succinct quote from [BA][bonappetit], of all places: "Sometimes you don't know you care until you do"). Lastly, and most beautifully, how this tragedy inspired many to take no days for granted moving forward, and express the love you have for the people that are important to you, lest it [be too late][shaq].
+
+Second, many tributes similarly (and briefly) touch on the sexual assault case against Kobe Bryant, which you can read about [here][wiki]. There's really no good way of navigating this difficult aspect of his life as a commentator and fan, much less a victim or family member, which I think is reflected in the brevity of this topic when it is mentioned. This happened shortly before my own basketball career, but of course I'd heard all about it. In fact, when I first started hating Kobe, his lack of character was one of the reasons I'd cite. I also thought Vanessa should've dumped his ass right there and then. Maybe to pay proper tribute to an imperfect and evolving man, I should've mentioned it above as well. I hope the lack thereof does not come across as insensitive or unaware to the situation and victims of abuse in general. Selfishly, I hope he's remembered for the positive impacts he's had, the people he inspired, and the family he dedicated himself to in the later part of his life. But I think the right thing to do is that every bit of his story - be it inspirational, complex, unsavory, or downright hurtful - be recorded so that we can learn, not only from his greatness, but also his mistakes.
 
 ---
 [legends]:/assets/images/blog/2016-04-14-kobe.jpg
@@ -64,6 +71,12 @@ I just want to hold onto the sadness and grief for a little longer.
 [detail]:https://www.youtube.com/watch?v=yWyrp6CibdM
 [knuckleheads]:https://www.youtube.com/watch?v=hbMbkynzs30
 [goodnight]:http://www.rdgao.com/goodnight-mr-bryant/
+
+[tonyreali]:https://www.youtube.com/watch?v=SFhAeTSiezY
+[cowherd]:https://www.youtube.com/watch?v=D4HPie3aNKA
+[bonappetit]:https://www.bonappetit.com/story/on-kobe-and-dinner/amp?__twitter_impression=true&fbclid=IwAR0GCkWgcftbamU6v8YuGdRAomsIlz0r3QdNgYmq57ZaPZMg9lKx0pGGsKI
+[shaq]:https://www.youtube.com/watch?v=tiWPjun7KiU
+[wiki]:https://en.wikipedia.org/wiki/Kobe_Bryant_sexual_assault_case
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2Qpl1Q3OkA?start=279" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
