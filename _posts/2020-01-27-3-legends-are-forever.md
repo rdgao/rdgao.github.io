@@ -1,5 +1,5 @@
 ---
-title: 'Legends are Forever. Rest In Peace. '
+title: 'Legends are Forever. Rest In Peace. [3/52]'
 tags: [Reflections]
 status: publish
 type: post
