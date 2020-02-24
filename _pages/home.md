@@ -13,8 +13,8 @@ header:
   type: "center"
 
 feature_row_desert:
-  - image_path: /assets/images/singles/desert.jpg
-    alt: "Desert of Huacachina, Peru"
+  - image_path: /assets/images/singles/cowles.jpg
+    alt: "Cowles Mountain, San Diego"
     title: "Welcome."
 
 ---
@@ -30,6 +30,7 @@ My [blog][blog] is spanned by everything in my life, from musings to reflections
 > "The more science discovers and the more comprehension it gives us of the mechanisms of existence, the more clearly does the mystery of existence itself stand out."
 -- Aldous Huxley
 
+---
 ---
 ### Some Highlighted Blog Posts
 
