@@ -23,7 +23,7 @@ feature_row_desert:
 
 **Hello, I'm Richard.** I am currently a PhD student in the Department of Cognitive Science at the University of California, San Diego (UCSD). My research focus is in computational neuroscience and cognitive science, where I mostly work on simulation and characterization of oscillatory and asynchronous neural population activity, and sometimes dabble in mining and analysis of other types of data. You can find out more in [Projects][projects], my [CV][cv], or our [lab website][lab].
 
-Prior to that, I lived in [Toronto, Canada][toronto] for 11 years. It's the place I call home, and also where I received my Bachelor's Degree (University of Toronto, BASc in Engineering Science). I was born and raised in [Xinjiang, China][xinjiang], a place not unlike the deserts of Huacachina (Peru) in the photo above.
+Prior to that, I lived in [Toronto, Canada][toronto] for 11 years. It's the place I call home, and also where I received my Bachelor's Degree (University of Toronto, BASc in Engineering Science). I was born and raised in [Xinjiang, China][xinjiang]. There is a lot of grass, mountains, and also deserts there.
 
 My [blog][blog] is spanned by everything in my life, from musings to reflections to neuroscience to sports to science & technology to travels (to who knows what else). I ponder a lot about life and our place in this world, and I write about it. At worst, this website is a representation and a record of my life; at best, it becomes an inspiration to someone who will come back to inspire and educate me - on my journey to find mind from matter.
 
