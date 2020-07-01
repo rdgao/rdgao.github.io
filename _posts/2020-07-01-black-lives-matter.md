@@ -88,13 +88,13 @@ As for the changing way of life: I, too, fear sometimes that what could have bee
 Post-script 2: that ending got a little dramatic there, but it felt right. Sue me. I guess what I really want to say is: for as long as I'm in this thing, I offer my help and potentially poor advice to anyone - no matter what color or shape, but especially those underprivileged - wishing to pursue their goals in brain and cognitive sciences, freely.
 
 [yt_chappelle]:https://www.youtube.com/watch?v=3tR6mKcBbT4
-[wiki_GF]:[https://en.wikipedia.org/wiki/George_Floyd](https://en.wikipedia.org/wiki/George_Floyd)
-[wiki_EG]:[https://en.wikipedia.org/wiki/Killing_of_Eric_Garner](https://en.wikipedia.org/wiki/Killing_of_Eric_Garner)
-[wiki_EM]:[https://en.wikipedia.org/wiki/Death_of_Elijah_McClain#Death](https://en.wikipedia.org/wiki/Death_of_Elijah_McClain#Death)
-[tw_diversity]:https://mobile.twitter.com/sadieonscience/status/1271998586163736576]
-[cop_confessions]:[https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759](https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759)
-[cnn_stats]:[https://www.cnn.com/2020/06/08/us/us-police-floyd-protests-country-comparisons-intl/index.html](https://www.cnn.com/2020/06/08/us/us-police-floyd-protests-country-comparisons-intl/index.html)
-[sdut_salk]: [https://www.sandiegouniontribune.com/news/science/story/2020-06-08/salk-institute-email-black-lives-matter](https://www.sandiegouniontribune.com/news/science/story/2020-06-08/salk-institute-email-black-lives-matter)
+[wiki_GF]:https://en.wikipedia.org/wiki/George_Floyd
+[wiki_EG]:https://en.wikipedia.org/wiki/Killing_of_Eric_Garner
+[wiki_EM]:https://en.wikipedia.org/wiki/Death_of_Elijah_McClain#Death
+[tw_diversity]:https://mobile.twitter.com/sadieonscience/status/1271998586163736576
+[cop_confessions]:https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759
+[cnn_stats]:https://www.cnn.com/2020/06/08/us/us-police-floyd-protests-country-comparisons-intl/index.html
+[sdut_salk]:https://www.sandiegouniontribune.com/news/science/story/2020-06-08/salk-institute-email-black-lives-matter
 [img_diversity]:/assets/images/blog/2020-07-01-diversity.jpeg
 
 ---
