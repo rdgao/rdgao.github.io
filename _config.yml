@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard Gao"
-  avatar           : /assets/images/singles/not_me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/singles/desert_square.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Seeking the mind in the brain (and sometimes in other things). Thoughts are my past self's and come with implicit expiration date."
   location         : "San Diego | Toronto"
   email            :

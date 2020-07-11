@@ -13,8 +13,8 @@ header:
   type: "center"
 
 feature_row_desert:
-  - image_path: /assets/images/singles/cowles.jpg
-    alt: "Cowles Mountain, San Diego"
+  - image_path: /assets/images/singles/jtree.jpg
+    alt: "Ryan Mountain, Joshua Tree"
     title: "Welcome."
 
 ---
