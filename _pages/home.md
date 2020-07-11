@@ -13,7 +13,7 @@ header:
   type: "center"
 
 feature_row_desert:
-  - image_path: /assets/images/singles/jtree.jpg
+  - image_path: /assets/images/singles/jtree.jpeg
     alt: "Ryan Mountain, Joshua Tree"
     title: "Welcome."
 
