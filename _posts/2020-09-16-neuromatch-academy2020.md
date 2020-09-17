@@ -1,5 +1,5 @@
 ---
-title: 'NMA2020: (Late) Thoughts on NMA, Higher Education, and Computational Neuroscience'
+title: 'NMA2020: (Late) Thoughts on NMA, Higher Education, and Computational Neuroscience [11/52]'
 tags: [General Science, Data & Technology]
 status: publish
 type: post
