@@ -104,7 +104,7 @@ Practically, the days went something like this: as a TA, I'd prepare the night b
 
 **The one thing that's really worth highlighting is the advice somebody gave during the TA training (maybe Kate?), which is that students are encouraged to rotate amongst themselves on who's "driving".** I'm not sure if that's official NMA lingo or if I invented it for my pod, but the "driver" is the person sharing their screen on Zoom for the current coding exercise and actually typing into their notebook and running the code, while everyone else dictates for them what to type. This is a bit anxiety-inducing for everybody at first, especially for those that are not so confident about their coding abilities. But funny enough, the driver typically needs to do the least thinking (if they wished), because there are 3 other people telling them what to type, while it still keeps the driver "with it" enough to at least be syntactically correct. Once the code successfully runs, my pod was pretty good about checking each other's understanding and making sure that everyone was on the same page, and this is where encouraging people to ask questions really become useful, even though it might slow down progress sometimes. When everyone is satisfied, they move on to the next exercise, and somebody else drives. In this way, it keeps the pack more or less at the same speed, and is just better for group cohesion in general because everybody is constantly working together. It warmed my heart when I popped into a room and somebody asked "okay who's driving next", and there were times that I felt bad about this, because moving at the average speed means that it's either too fast or too slow for *somebody*. But as a whole, the slower folks asked incisive questions that improved understanding for everybody, be it a python syntax question or a conceptual question, and the faster folks were *really good* about being as didactic as possible, asking others for input and not just banging out the answer on their own. Shoutout to Sami and Yue, who were really as much of TAs as me, not just in the way they were familiar with the material, but in how they engaged the whole group to participate even if they'd known the answer.
 
-So all that for about 2 hours, then we break for an hour for lunch, which somehow was never enough for me to actually get done eating. This really was a full-time job for 3 weeks. Same thing after lunch, where we try to finish the rest of the tutorials for the day. Whether that actually happened varied day to day. Somedays we got very close, somedays it was an absolute slog, but we'd all be totally beat by 4pm. We always reconvened for the final 10-15 minutes though to review the high-level ideas of the day, how they relate to neuroscience, and then we all added to this ever-growing monstrosity of a concept map. You can't actually see any of the words, but I thought this [mind-mapping tool (Miro)](miro.com) was really neat (again, at the recommendation of someone during TA training). Part of the variance was because my own expertise also varied day to day, I was pretty honest about it, and it became a fun learning process for me as well, especially to see connections I hadn't realized before. It was like simultaneously knowing a lot of random shit I never use in my actual work, but also never being completely comfortable with a particular topic.
+So all that for about 2 hours, then we break for an hour for lunch, which somehow was never enough for me to actually get done eating. This really was a full-time job for 3 weeks. Same thing after lunch, where we try to finish the rest of the tutorials for the day. Whether that actually happened varied day to day. Somedays we got very close, somedays it was an absolute slog, but we'd all be totally beat by 4pm. We always reconvened for the final 10-15 minutes though to review the high-level ideas of the day, how they relate to neuroscience, and then we all added to this ever-growing monstrosity of a concept map. You can't actually see any of the words, but I thought this [mind-mapping tool (Miro)][miro] was really neat (again, at the recommendation of someone during TA training). Part of the variance was because my own expertise also varied day to day, I was pretty honest about it, and it became a fun learning process for me as well, especially to see connections I hadn't realized before. It was like simultaneously knowing a lot of random shit I never use in my actual work, but also never being completely comfortable with a particular topic.
 
 ![][concept_map]
 
@@ -158,18 +158,18 @@ Whoa, that got kind of long. Well, these are my thoughts from this whole experie
 [syllabus]: http://www.neuromatchacademy.org/syllabus/
 
 [etherealpony]: /assets/images/blog/2020-09-16-etherealpony.png
-[news_ucb]:[https://news.berkeley.edu/2020/07/15/update-on-budget-expense-reduction-measures/](https://news.berkeley.edu/2020/07/15/update-on-budget-expense-reduction-measures/)
-[tw_unc]: [https://twitter.com/BretDevereaux/status/1295909929228873728](https://twitter.com/BretDevereaux/status/1295909929228873728)
+[news_ucb]:https://news.berkeley.edu/2020/07/15/update-on-budget-expense-reduction-measures/
+[tw_unc]: https://twitter.com/BretDevereaux/status/1295909929228873728
 [commit_woes]:/assets/images/blog/2020-09-16-commit_woes.png
 [squiggles]: /assets/images/blog/2020-09-16-etherealpony_squiggles.png
 [daily_schedule]: /assets/images/blog/2020-09-16-daily_schedule.png
 [concept_map]:/assets/images/blog/2020-09-16-mindmap.jpg
 [tw_max]:https://twitter.com/mmyros/status/1285680750940094465
-
+[miro]: https://miro.com/
 [nhb]:https://www.nature.com/articles/s41562-019-0626-2
 [compneuro_venn]:/assets/images/blog/2020-09-16-compneuro_venn.png
-[cogsci_gm]: [https://www.cs.princeton.edu/~rit/geo/Miller.pdf](https://www.cs.princeton.edu/~rit/geo/Miller.pdf)
-[lnp]:[https://en.wikipedia.org/wiki/Linear-nonlinear-Poisson_cascade_model](https://en.wikipedia.org/wiki/Linear-nonlinear-Poisson_cascade_model)
-[marr_compneuro]:[https://link.springer.com/chapter/10.1007/978-1-4684-6775-8_12](https://link.springer.com/chapter/10.1007/978-1-4684-6775-8_12)
+[cogsci_gm]: https://www.cs.princeton.edu/~rit/geo/Miller.pdf
+[lnp]:https://en.wikipedia.org/wiki/Linear-nonlinear-Poisson_cascade_model
+[marr_compneuro]:https://link.springer.com/chapter/10.1007/978-1-4684-6775-8_12
 [glm_slide]:/assets/images/blog/2020-09-16-glm_slide.png
 [pam_glm]:/assets/images/blog/2020-09-16-pam_glm.png
