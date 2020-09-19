@@ -122,7 +122,7 @@ Let's start from a very specific and straightforward example in machine learning
 
 ![][glm_slide]
 
-So far, all standard machine learning stuff, no neuroscience. At a higher level, you can even swap out the architecture of the model, as well as the optimization target or "cost function" (e.g., maximum likelihood vs. minimize least squares error vs. with regularization). A special case occurs when you take the exponential function as the nonlinearity, and Poisson distributions as the likelihood, which gets you the Poisson GLM. At face value, this is just another machine learning model, and can be applied to any data when the assumptions are appropriately satisfied (e.g., non-negative integer outputs). But under the hood, **Poisson GLM models how single neurons encode and process information, and it has its own name in neuroscience: [linear-nonlinear Poisson (LNP) cascade model][lnp].**
+So far, all standard machine learning stuff, no neuroscience. At a higher level, you can even swap out the architecture of the model, as well as the optimization target or "cost function" (e.g., maximum likelihood vs. minimize least squares error vs. with regularization). A special case occurs when you take the exponential function as the nonlinearity, and Poisson distributions as the likelihood, which gets you the Poisson GLM. At face value, this is just another machine learning model, and can be applied to any data when the assumptions are appropriately satisfied (e.g., non-negative integer outputs). But under the hood, **Poisson GLM models how single neurons encode and process information, and it has its own name in neuroscience: [linear-nonlinear Poisson (LNP) cascade model][lnp].** (But see the end of the post for some corrections, more technical details, and historical tidbits on the difference between Poisson GLM and LNP, very kindly provided by Jonathan Pillow, quoted from [this exchange][tw_jpglm].)
 
 For example, V1 neurons are thought to act as linear convolutional filters of the visual field (e.g., Gabor patches), the output of these linear transformations are then mapped to firing rates via the exponential function, and finally, it stochastically emits a discrete number of action potentials based on the firing rate that follows a Poisson distribution. To be technically accurate, I believe Poisson GLM is one way of solving for the parameters of a LNP model (another being spike-triggered average). The sleight-of-hand is so subtle that it's very easy to lose the distinction: on the one hand, we have a purely machine learning model that tries to map input to output, on the other hand, we have a generative model of how single neurons behave when an animal sees a picture, and all of a sudden, they are one and the same! More importantly, the LNP neural model inherits assumptions of the Poisson GLM machine learning model, maybe the most philosophically challenging one being that when we solve for "what the neuron cares about" i.e., its parameters or filter weights, we assume it tries to do "the task" optimally. This then becomes a (rather light-weight) *normative model*, i.e., a computational model that solves a task optimally under the same environmental constraints the neuron (or person) is under, which we then posit to be solving the task the same way a biological neuron (or person) does, including even the internal representations.
 
@@ -145,6 +145,9 @@ The other blindspot is that strongly subscribing to the computational account, a
 
 Whoa, that got kind of long. Well, these are my thoughts from this whole experience, which has been incredibly rewarding and a definite highlight in this dumpster fire year of 2020. I could not recommend it more to people, either as a TA, student, volunteer, or mentor (or all of the above), and at the rate that this team iterates to improve, I'm sure NMA2021 will be even better.
 
+---
+**EDIT: details on pGLM and LNP.**
+JP: "One quick note on GLM vs the LNP model. (I agree the differences are subtle, but there are a few key diffs!) 1) GLM assumes a fixed nonlinearity (eg exponential, sigmoid), whereas fitting the LNP model generally involves fitting the nonlinearity. (Technically, if you fit the nonlinearity along with the filter, you wouldn't call it a GLM!). 2) The nonlinearity in GLM must be monotonic, whereas LNP nonlinearity can have arbitrary shape (eg quadratic). 3) LNP model can have multiple filters, whose outputs are combined nonlinearly (i.e. via a multi-dimensional nonlinearity), whereas GLM uses a single linear projection of the input. NB: the "maximally informative dimensions" (MID) estimator proposed by Sharpee et al 2004 is simply a maximum-likelihood estimator for the LNP model (albeit framed in terms of information instead of log-likelihood) [ref][MID_ref] (...) Although one additional complication is that with Poisson GLMs, it's common to use spike history as input... which makes the resulting spike trains non-Poisson. Generally people *don't* (for whatever reason) do this with LNP models. As a result, pGLM models can capture non-Poisson spiking statistics, whereas (standard) LNP models can't. When I was working on these models during my PhD, Eero Simoncelli wanted to call pGLM with spike-history the "recurrent LNP" model, which I think is nice, but Liam won out and (following Wilson Truccolo & Emery Brown) we stuck with GLM."
 
 ---
 
@@ -156,7 +159,6 @@ Whoa, that got kind of long. Well, these are my thoughts from this whole experie
 [nma_logistics]:https://www.youtube.com/watch?v=WiVIcJPGpsA
 [ML_slide]: https://mfr.ca-1.osf.io/render?url=https://osf.io/qxfz9/?direct%26mode=render%26action=download%26mode=render
 [syllabus]: http://www.neuromatchacademy.org/syllabus/
-
 [etherealpony]: /assets/images/blog/2020-09-16-etherealpony.png
 [news_ucb]:https://news.berkeley.edu/2020/07/15/update-on-budget-expense-reduction-measures/
 [tw_unc]: https://twitter.com/BretDevereaux/status/1295909929228873728
@@ -170,6 +172,8 @@ Whoa, that got kind of long. Well, these are my thoughts from this whole experie
 [compneuro_venn]:/assets/images/blog/2020-09-16-compneuro_venn.png
 [cogsci_gm]: https://www.cs.princeton.edu/~rit/geo/Miller.pdf
 [lnp]:https://en.wikipedia.org/wiki/Linear-nonlinear-Poisson_cascade_model
+[tw_jpglm]:https://twitter.com/jpillowtime/status/1306943813894770688
+[MID_ref]:http://pillowlab.princeton.edu/pubs/abs_Williamson15_PLoSCB.html
 [marr_compneuro]:https://link.springer.com/chapter/10.1007/978-1-4684-6775-8_12
 [glm_slide]:/assets/images/blog/2020-09-16-glm_slide.png
 [pam_glm]:/assets/images/blog/2020-09-16-pam_glm.png
