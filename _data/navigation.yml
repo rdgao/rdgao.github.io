@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "About"
+  - title: "about"
     #url: /about/
     url: /#about
-    description: "About Me"
-  - title: "Blog"
+    description: "about me"
+  - title: "blog"
     url: /blog/
-  - title: "Projects"
+  - title: "projects"
     url: /projects/
 
 docs:
-  - title: "Blog Posts by Topic"
+  - title: "blog posts by topic"
     children:
       - title: "Mind & Brain"
         url: /tags/#brain-cognition

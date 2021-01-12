@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 author_profile: False
 read_time: False
 permalink: /
@@ -7,15 +7,14 @@ share: False
 classes: narrow
 
 header:
-  #image: /assets/images/singles/sea_tall_streak_compress.jpg
-  image: /assets/images/singles/O.jpg
+  image: /assets/images/about/O.jpg
   title: ''  
   type: "center"
 
 feature_row_desert:
-  - image_path: /assets/images/singles/jtree.jpeg
+  - image_path: /assets/images/about/jtree.jpeg
     alt: "Ryan Mountain, Joshua Tree"
-    title: "Welcome."
+    title: "welcome."
 
 ---
 <a name="about"></a>
@@ -30,7 +29,9 @@ My [blog][blog] is spanned by everything in my life, from musings to reflections
 > "The more science discovers and the more comprehension it gives us of the mechanisms of existence, the more clearly does the mystery of existence itself stand out."
 -- Aldous Huxley
 
----
+
+
+<!-- ---
 ---
 ### Some Highlighted Blog Posts
 
@@ -50,7 +51,7 @@ Stuff I will always argue with people about:
 PhD Reflections:
 - [Year 1 Part 1][year1-1], [Part 2][year1-2]
 - [Year 2][year2]
-- [Year 3.5][year3]
+- [Year 3.5][year3] -->
 
 
 [projects]: /projects
@@ -60,6 +61,7 @@ PhD Reflections:
 [toronto]: https://www.google.com/maps/place/Toronto,+ON,+Canada/@43.6570321,-79.6010345,10z/data=!3m1!4b1!4m5!3m4!1s0x89d4cb90d7c63ba5:0x323555502ab4c477!8m2!3d43.653226!4d-79.3831843
 [xinjiang]: https://www.google.com/maps/place/Xinjiang,+China/@41.4234964,75.9557332,5z/data=!3m1!4b1!4m5!3m4!1s0x3806008cfd7b4dab:0xa84116ec366707a1!8m2!3d42.5246357!4d87.5395855
 
+<!-- highlighted blogs -->
 [jekyll]:/jekyll-website-blog/
 [cosyne19]:/COSYNE19/
 [hilbert]:/roemerhasit_Hilbert_Transform/
