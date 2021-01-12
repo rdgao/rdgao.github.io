@@ -31,13 +31,10 @@ html {
     font-size: 1.1em;    
 }
 
-a.site-title:hover{
-    color: rgb(199, 54, 54);
-}
-
 // # refers to id element, e.g., <div id="main">
-// this changes the body text link colors, but not masthead
-#main{
+// . refers to class element
+// this changes the blog list link colors to be less ugly
+.archive__item{
     /* unvisited link */
     a:link {
         color: rgb(0, 162, 255);
@@ -55,6 +52,11 @@ a.site-title:hover{
         color: rgb(158, 58, 58);
     }
 }
+
+a.site-title:hover{
+    color: rgb(199, 54, 54);
+}
+
 
 // sidebar & photo properties
 .author__avatar {
