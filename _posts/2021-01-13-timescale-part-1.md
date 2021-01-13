@@ -17,7 +17,7 @@ toc_icon: "space-shuttle"
 
 permalink: /blog/:year/:month/:day/
 
-excerpt: "Life's comedy is inspired by tragedies, especially someone else's. From that perspective, this blog post probably won't be anywhere nearly as entertaining as the [organoid one][org_blog], because I'm not unleashing 5 year's worth of pent up frustration and despair in one sitting. It was all quite pleasant, actually."
+excerpt: "How this project started had nothing to do with science, we didn't set out to measure timescale in humans because we inferred that it was an open question. Like I said, zero clue what that was. No, it was much more pedestrian than that."
 ---
 
 # 1. preamble
