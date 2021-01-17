@@ -129,8 +129,8 @@ And those were a couple of months in my life that I still think very fondly abou
 [murray_2014]:https://www.nature.com/articles/nn.3862
 [macaque_figure]:/assets/images/blog/2021-01-13-macaque_figure.png#center
 [macaque_psd]:/assets/images/blog/2021-01-13-macaque_psd.png#center
-[part_2]: /blog/2021/01/13/
-[part_3]: /blog/2021/01/13/
+[part_2]: /blog/2021/01/17/
+[part_3]: /blog/2021/01/23/
 
 
 ---
