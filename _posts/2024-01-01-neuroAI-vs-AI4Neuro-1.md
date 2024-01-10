@@ -12,7 +12,7 @@ classes:
   - wide
 permalink: /blog/:year/:month/:day/
 
-excerpt: "Is NeuroAI and AI4Neuro the new Computational Neuroscience and Computational Neuroscience?"
+excerpt: "Are NeuroAI and AI4Neuro the new Computational Neuroscience and Computational Neuroscience?"
 ---
 
 2023 came and went, and I somehow logged exactly 0 blog posts...for the first time since starting this blog in 2014. So I've resolved (once again) to write more and write more regularly, and as a consequence, post less polished thoughts. With that in mind, I'm going to start the year with a bang and potentially generate some good old ([niche][trends]) academic controversy:
@@ -68,7 +68,7 @@ You might disagree with the premise that computational neuroscience is narrowly 
 
 > "Computational neuroscience focuses on the description of biologically plausible neurons (and neural systems) and their physiology and dynamics, and **it is therefore not directly concerned** with biologically unrealistic models used in connectionism, control theory, cybernetics, quantitative psychology, machine learning, artificial neural networks, artificial intelligence and computational learning theory;"
 
-If this resonates with you, I'm afraid you are one of these weird people, like me, that is into biology but can't deal with the mess in a wetlab. But if you actually believe that modern computational neuroscience is not concerned with machine learning and artificial neural networks, well, I don't know what blissful hole you live under, but you should come out and play with the rest of us.
+If this resonates with you, I'm afraid you are one of these weird people, like me, that is into biology but can't deal with the mess in a wetlab. You probably also go to the *other* [Computational Neuroscience conference][other_cns]. But if you actually believe that modern computational neuroscience is not concerned with machine learning and artificial neural networks, well, I don't know what blissful hole you live under, but you should come out and play with the rest of us.
 
 On the other hand, you might shrug and say, "well, what's the alternative to studying neural computation?" 
 
@@ -88,3 +88,4 @@ And I still do, which is the reason why we are here today. At this point, you mi
 [wiki_compneuro]:https://en.wikipedia.org/wiki/Computational_neuroscience
 [trends]:https://trends.google.com/trends/explore?q=NeuroAI,AI4neuro&hl=en-GB
 [perspective]:https://www.nature.com/articles/s41467-023-37180-x
+[other_cns]:https://www.cnsorg.org/
