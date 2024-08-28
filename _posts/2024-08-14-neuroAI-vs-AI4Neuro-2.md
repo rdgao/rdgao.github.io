@@ -3,7 +3,7 @@ title: "Beyond #NeuroAI, we need #AI4Neuro---and we're going to suck at it (at f
 tags: [Reflections, General Science, Science Communication, Data & Technology]
 status: publish
 type: post
-published: True #False # False #True
+published: True
 header:
   overlay_image: /assets/images/blog/2024-08-14/venndiagram.png
   overlay_filter: rgba(0,0,0,0.7)
