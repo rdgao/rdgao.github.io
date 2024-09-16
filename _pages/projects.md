@@ -32,9 +32,13 @@ gallery_COG:
   - url: /assets/images/projects/cog2.png
     image_path: /assets/images/projects/thumbnail/cog2.png
 ---
-Collected below are projects for my own PhD research in computational neuroscience and cognitive science, stuff I contribute to, as well as some fun personal projects. Associated code and papers are included wherever possible. You can find all of them on [Google Scholar][g_scholar].
+
+Collected below are some of my ongoing and completed research projects in computational neuroscience and cognitive science, stuff I contribute to, as well as some fun personal projects. Associated code and papers are included wherever possible. You can find all of them on [Google Scholar][g_scholar], [GitHub][gh_rgao], or my [CV][cv].
 
 ---
+
+
+
 # dissertation
 You can find my full thesis [here][thesis], and the defense talk is available on [YouTube][yt_defense], thanks to the pandemic. This pretty much summarizes most of the works listed below.
 
@@ -114,3 +118,6 @@ Much of cognitive science and cognitive neuroscience aim to characterize and und
 [neurosynth]:http://neurosynth.org/
 [erp_scanr]:http://tomdonoghue.github.io/ERP_SCANR/
 [brain_scanr]:http://blog.brainscanr.com/
+
+[cv]: /assets/docs/cv.pdf
+[gh_rgao]: https://github.com/rdgao
