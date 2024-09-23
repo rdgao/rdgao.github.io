@@ -1,9 +1,10 @@
 ---
-title: "projects"
+title: "Research"
 layout: single
-permalink: /projects/
+permalink: /research_old/
 
 author_profile: True
+publish: false
 read_time: false
 share: false
 classes: wide
