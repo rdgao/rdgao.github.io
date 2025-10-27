@@ -14,15 +14,15 @@ header:
 feature_row_desert:
   - image_path: /assets/images/about/jtree.jpeg
     alt: "Ryan Mountain, Joshua Tree"
-    title: "hello, I'm Richard."
+    title: "Hello, I'm Richard."
 
 ---
 <a name="about"></a>
 {% include feature_row id="feature_row_desert" type="center" %}
 
-I am a computational and cognitive **neuroscientist**. My research centers on developing methods in probabilistic ML/AI, neural data and time series analysis, and computational simulations, with the goal of connecting neurobiology with cognition and behavior. I’m also interested in automating science with NLP and language models, and pretty much any kind of interesting data. I've taught [classes][cogs118c] and written [papers][gscholar_rgao] on such things. For more details, see [Research][research] & [CV][cv].
+I am a computational and cognitive **neuroscientist**, and currently a W1 Tenure-Track (Assistant) Professor in the Faculty of Computer Science and Mathematics at Goethe University Frankfurt. My research centers on developing methods in probabilistic ML/AI, neural data and time series analysis, and computational simulations, with the goal of connecting neurobiology with cognition and behavior. I’m also interested in automating science with NLP and language models, and pretty much any kind of interesting data. I've taught [classes][cogs118c] and written [papers][gscholar_rgao] on such things. For more details, see [Research][research] & [CV][cv].
 
-I'm currently a postdoctoral researcher with [Jakob Macke][jhm_twitter] in the [Machine Learning in Science][lab] group at the University of Tübingen and Tübingen AI Center. My main work is on developing simulation, emulation, analysis, and inference methods for neural population dynamics, using generative (ML) and mechanistic (biophysical) models, particularly within the framework of simulation-based inference.
+Previously, I did my postdoc with [Jakob Macke][jhm_twitter] in the [Machine Learning in Science][lab] group at the University of Tübingen and Tübingen AI Center. My main work was on developing simulation, emulation, analysis, and inference methods for neural population dynamics, using generative (ML) and mechanistic (biophysical) models, particularly within the framework of simulation-based inference.
 
 I did my PhD with [Bradley Voytek][bv_twitter] in the Department of Cognitive Science at the University of California, San Diego. Now I miss the ocean. Prior to that, I lived in [Toronto, Canada][toronto] for 11 years. It's the place I call home, and also where I received my Bachelor's Degree (University of Toronto, BASc in Engineering Science) and worked for a year at [Muse][interaxon] (InteraXon). I was born and raised in [Xinjiang, China][xinjiang]. There is a lot of grass, mountains, and also deserts there.
 
