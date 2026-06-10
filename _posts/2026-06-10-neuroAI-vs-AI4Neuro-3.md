@@ -5,9 +5,9 @@ status: publish
 type: post
 published: True
 header:
-  overlay_image: /assets/images/blog/2025-12-29/in_danger.png
+  overlay_image: /assets/images/blog/2026-06-10/in_danger.png
   overlay_filter: rgba(0,0,0,0.7)
-  teaser: /assets/images/blog/2025-12-29/in_danger.png
+  teaser: /assets/images/blog/2026-06-10/in_danger.png
 classes:
   - wide
 permalink: /blog/:year/:month/:day/
@@ -84,7 +84,7 @@ So deep learning, basically, and everything it enables. But the important proper
 
 *Below, by the way, is [Wikipedia's definition](https://en.wikipedia.org/wiki/Artificial_intelligence), which references the classical AI-as-human-intelligence (GOFAI-y) ideas in the first paragraph, then lists full-fledged modern "AI" applications in the second.*
 
-> ![](/assets/images/blog/2025-12-29/wikipedia_AI.png)
+> ![](/assets/images/blog/2026-06-10/wikipedia_AI.png)
 
 *I don't adopt either definition here because for a (neuro)scientist developing and using AI in their research, direct application of LLMs still only represents a subset, and it's more useful to think about the components powering those applications. In 2026, that is **mostly** deep learning and GPUs.*
 
@@ -108,7 +108,7 @@ The input / output could be neural data, behavioral data, experimental stimuli, 
 
 By and large, for such a box in the pre-AI days, **(1)** we knew exactly what the function is supposed to be and what it's supposed to do, **(2)** it "works the same way" no matter what data it sees, and **(3)** we know exactly how to (re)make the box. Phrased more technically, you might call them analytical---or at least interpretable---transformations or forward mapping, data-dependence, and inference procedure. **Having this understanding** about our algorithms guides our thinking and implicitly provides safeguards when using them for scientific research.
 
-<img src="/assets/images/blog/2025-12-29/classical_ml.png" alt="Classical ML." style="display: block; margin-left: auto; margin-right: auto; width: 60%;">
+<img src="/assets/images/blog/2026-06-10/classical_ml.png" alt="Classical ML." style="display: block; margin-left: auto; margin-right: auto; width: 60%;">
 
 As a trivial example, the `Fourier Transform` and `digital filters` work the same way and are derived the same way no matter what data you apply them on. The recipe for getting the coefficients from data is fixed, and so is what the transformation does, i.e., the forward mapping is analytically defined. The method development component of research then involves designing better algorithms and settings by, e.g., stacking multiple such transformations, but in a way where we always knew what's going on.
 
@@ -137,7 +137,7 @@ Again, "AI" here is (or uses) deep learning to approximate an unknown and often 
 
 In other words, it flaunts its disregard for these requirements of "understanding", and laughs in the face of danger. In fact, you could almost define "AI" as `any artifact for which we don't know exactly what it does, nor how exactly we arrived at it.` 
 
-![](/assets/images/blog/2025-12-29/i_laugh.png)
+![](/assets/images/blog/2026-06-10/i_laugh.png)
 
 What AI offers is powered precisely by its violation of the "need to know", enabled by the flexibility and a lack of specifications unless absolutely necessary. In fact, a tenet of modern AI is to have as few "inductive biases" as possible and just let data shape the very flexible function approximator (aka Transformer lol). This flexibility, coupled with clever ways of representing (e.g., tokenizing) your data as input to the network---and of course, a shitload of data and GPUs---resulted in not only powerful language models, but really interesting multi-purpose and context-sensitive models that can deal with messy, heterogeneous brain data.
 
@@ -145,7 +145,7 @@ But the **difference is that**, after crafting such a flexibly tailored transfor
 
 This presents a fundamentally different picture, where now "the box" contains not only the function we wanted to design, but everything else in the workflow. The worst part is, not only do we not know the other stuff that's in the box, we don't even really know what the function itself "does".
 
-![](/assets/images/blog/2025-12-29/AI.png)
+![](/assets/images/blog/2026-06-10/AI.png)
 
 **To be very clear**, this is not some groundbreaking insight I personally have about AI or deep learning. There have always been communities that worked on theoretical understanding and interpretability of deep learning (e.g., [Andrew Saxe][saxe2013], [Andrew Gordon Wilson][wilson2025], some non-Andrews too...), as well as more "defensively" framed topics like robustness, safety, and fairness. 
 
@@ -204,7 +204,7 @@ So why are we going to suck at using AI for neuroscience?
 
 Because, well, *we don't really know much about the brain yet to have good verifiers, beside our own two eyes*.
 
-![](/assets/images/blog/2025-12-29/in_danger.png)
+![](/assets/images/blog/2026-06-10/in_danger.png)
 
 This was pretty much the main point I wanted to convey 2 years ago, as indicated by the title that existed already then, and it hasn't changed much: There has been a massive adoption of AI in many areas of science, you can tell by the names that pop up as NeurIPS and ICML [workshops](https://openreview.net/group?id=ICML.cc%2F2026%2FWorkshop): AI4Physics, AI4Biology, AI4Materials, AI4Earth, etc. If those fields have seen successes with their usage of AI, can't we just import their playbook and do the same in neuroscience? 
 
@@ -237,7 +237,7 @@ If we are really being honest here, how many *conceptual* problems are there in 
 
 I cannot think of a more perfect summary of the situation we are in than [this](https://www.youtube.com/watch?v=cBw0c-cmOfc):
 
-![](/assets/images/blog/2025-12-29/unknownunknowns.png)
+![](/assets/images/blog/2026-06-10/unknownunknowns.png)
 
 And so comes the second premise: **AI is unlikely going to discover something *fundamentally new* about the brain.**
 
@@ -295,7 +295,7 @@ In this last section, I will briefly go over some clustered examples where peopl
 
 The list progresses through the years, from really "classical" deep learning all the way to our modern agentic LLM co-scientists. Hopefully you'll see that they are connected by a common thread, and that there is more to AI4Neuro than "foundation models". The more recent examples were haphazardly collected over the last 6 months or so, but shout out to **Reilly Tilbury & Dabin Kwon** (from the Harris / Carandini labs) for organizing a really fantastic and timely Cosyne workshop on "AI for Interpretable Model Discovery in Neuroscience" that really helped me to beef up my examples.
 
-![](/assets/images/blog/2025-12-29/timeline.png)
+![](/assets/images/blog/2026-06-10/timeline.png)
 
 ### The classics 
 I have to start with "vanilla" supervised / unsupervised machine learning and deep learning to cover the foundations, and to expose the "default" design pattern: In classical deep learning, you're looking for a function that takes in some input data and produces the intended output labels, which could be a supervised target (cat or dog) or unsupervised clustered identity. The **search** is over the space of functions that can be parameterized by differentiable deep neural networks, and solutions are **optimized** via stochastic gradient descent, aka follow the loss plus some random stumbling around. The **verifier** here, as has been the norm in ML, comes in the form of heldout test data, data you didn't train or tune hyperparameters on. If you're really looking for something that works instead of just publishing papers, you might even collect new data to verify.
@@ -319,7 +319,7 @@ If there was such a thing as "the genesis of modern AI" that excludes "MORE GPUs
 
 Again, I want to emphasize here the critical transition in **what a verifier looks like** here: supervised learning requires you to pay some (human) verifier to generate labeled data, self-supervised learning **has the data verifying itself**.
 
-![](/assets/images/blog/2025-12-29/waityouguys.png)
+![](/assets/images/blog/2026-06-10/waityouguys.png)
 > Banger.
 
 **This is transformative for neuroscience**, because we in general don't have great labels, but we certainly *can* produce a shitload of data. Yes, there are certain labels we care about like disease diagnosis, and behavioral task labels have been the natural choice though obviously the brain cares about more things than arbitrary lab tasks. But from a scientific point of view, if you gave me some brain recordings and asked me to "make a function to predict X with this data that constitutes understanding the brain", I wouldn't know what X should be.
@@ -357,7 +357,7 @@ With such a mechanistic model, what it allows us to do in the "forward direction
 
 If you can do that successfully, then you have effectively mimicked the system in a watered-down model of reality. Think shitty, low-resolution Porygon-Ditto. We can then manipulate that "digital twin" to do *in silico* experimentation or hypothesis-testing, and because its parameters and states represent real-world quantities, we can interpret those values as a kind of estimate of the underlying biological properties. In other words, this computer model lets you take "peeks" at the internals of your system for free. 
 
-![](/assets/images/blog/2025-12-29/dittoporygon.png)
+![](/assets/images/blog/2026-06-10/dittoporygon.png)
 > Anytime we say "digital twin", this graphic should pop up to emphasize how unseriously we should take ourselves. Credits to Gemini / nanobanana. 
 
 Some call this exercise parameter fitting or optimization, as in you're looking for parameter values that optimize how closely your model simulation reproduces your target observation. If you come from statistics, maybe you prefer parameter or model inference. In more engineering contexts, this might be referred to as system identification or inverse modeling. They all mean slightly different things with different assumptions about the model and the notion of "closeness", but the idea is the same.
@@ -397,7 +397,7 @@ A softer, less integrated version of this, which I already mentioned in the cont
 
 I think this is an underappreciated but extremely potent facet of AI4Neuro. It's underappreciated, potentially not even thought of as AI4Neuro, because there is no fancy AGI LLM or anything we think of as "AI" in the software sense, but just good old deep learning relying on GPUs go burrrr. 
 
-![](/assets/images/blog/2025-12-29/honestwork.png)
+![](/assets/images/blog/2026-06-10/honestwork.png)
 
 In this light, I would go so far as to say that **all of NeuroAI fits into this bucket** because it's almost entirely thanks to differentiable network models that NeuroAI exists in the first place: A typical NeuroAI recipe is to train a deep [feedforward](https://www.nature.com/articles/nn.4244) or [recurrent](https://www.nature.com/articles/nature12742) neural network on some digitized version of a behavioral task, like image recognition or decision-making, and then probing the internals of that model for mechanisms and representations similar to the real brain. In the spirit of a "functional digital twin", it's taken as a premise that the deep learning model **is** the mechanistic model of the computations involved. In that sense, I don't think it's controversial to say that AI infrastructure has enabled a very productive branch of computational and theoretical neuroscience, where >95% of papers following this recipe rely on pytorch / jax and GPU-accelerated optimization.
 
@@ -460,7 +460,7 @@ Finally, combining the last two ideas: if you take a thing that understands, eva
 
 [This paper](https://www.nature.com/articles/s41586-026-10265-5) came out recently that makes progress *towards* automating AI research. Here's [another recent one](https://arxiv.org/abs/2604.05587) on more general scientific research. If you have slightly lower expectations for your AI scientist child, you might call it [an intern](https://github.com/huggingface/ml-intern/tree/main) instead of a full-fledged scientist. If you have the massive expectations of an Asian parent, you might name it [AI-Newton](https://www.nature.com/articles/d41586-025-03659-4). There have been [many examples](https://www.nature.com/articles/d41586-025-02028-5) that [popped up](https://arxiv.org/abs/2604.05587) over the last year or so, and what feels like just as many startups and [industry-backed](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) research labs that expand on this concept.
 
-![](/assets/images/blog/2025-12-29/waityouguys2.png)
+![](/assets/images/blog/2026-06-10/waityouguys2.png)
 
 Not much more to say here except that the majority of these applications remain in the computational sciences, and more specifically, in the computer, and as far as I know, none in *real* neuroscience. The obvious reason for this is that the search-and-evaluate loop for ideas that only involve computer code is bottlenecked by nothing else except how many GPUs you have access to. But again, at some point, you have to come out of the matrix, at least if you're interested in the brain.
 
@@ -477,7 +477,7 @@ In any case, whatever predictions from novel models discovered by AI-enabled co-
 
 **Much of what I've written is regurgitating insights people have realized about the systems in general**, like the need for verification, or the "jagged frontier" of LLMs where they're truly outstanding at some tasks (like coding) and shit the bed in others (like producing images with text). I follow [Ethan Mollick](https://www.oneusefulthing.org/) and [Simon Willison's](https://simonwillison.net/) newsletters (**highly, highly recommend**), where in the latter, this recent [Karpathy tweet](https://x.com/karpathy/status/2042334451611693415) was brought up:
 
-![](/assets/images/blog/2025-12-29/karpathy.png)
+![](/assets/images/blog/2026-06-10/karpathy.png)
 
 One last interesting point here is that, the recent and very rapid advances in model capability for doing real work (like coding) is very much a product of the second point: revenue generation potential for organizational-scale subscribers. This is obviously never going to be science, much less neuroscience, unless you're doing something **so vague** that it plausibly solves intelligence and consciousness in one go so that some rich guy somewhere (and without fail, [it's usually a guy](https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/)) thinks this will make 1000x returns. 
 
@@ -491,208 +491,5 @@ So here is my final prediction to end this trilogy: when AI has really helped us
 
 In other words: we will have achieved success when our 'AI co-scientist' is no longer the headline, but just another paragraph buried in the Methods section.
 
-
-
-<!-- 
 ---
-
-# LOOSE NOTES
-
-
-
-
-### Is there something special about *AI4X-science*?
-Check the Channing paper, but brief note about domain expertise and especially respecting the idiosyncrasies of the data.
-
-### Some great examples of AI4Neuro
-
-
-
-In other words, insofar as AI4Neuro aims to help neuroscience and our understanding of the brain, the actual object of study is often the workflows and ML models (but brain data is obviously a part of it). It's like building microscopes or digital filters: the actual work per se is in physics or computer science, even though it's in service of neuroscience.
-
-
-
-- If NeuroAI is using AI as a model for biological / neuronal computation and intelligence, then what is AI4Neuro?
-- It's exactly what it sounds like: using AI for neuroscience research? How?
-- Well that's a great question---how, and when, can we actually use AI for neuroscience?
-- Before we answer that, there's the question of what "AI" even means. These days, when the word pops up on the news, it roughly equates to large language models (LLMs) and their secondary products, like language-based chat interfaces (ChatGPT), language-vison models (Stable Diffusion), etc. That's a good case. The bad cases are when whoever wrote that has no idea what the hell they meant by that. That's more common than you'd think, to be honest, and I've also done exactly that (mostly in grant-writing and other simiar advertising contexts).
-  - I have no idea what "AI" means because it very much depends on context. But for the most part, it either means LLMs, or machine learning more broadly, which in 2025 means data-constrained, GPU-accelerated optimization with artificial neural networks (aka, deep learning). This is in contrast to, say, classical statistical machine learning.
-- At its core, that means a deep "model" that approximates a function empirically, learned through data. The main difference is, we can be much, much more liberal about the kind of function, and more importantly, the form of the inputs and outputs such models can deal with, compared to 10 years ago. 
-- Two classical examples are signal processing functions (i.e., filters) which have or are well-defined operations (let's call that zeroth order), and statistical models whose parameters are fit through maximum likelihood inference or expectation-maximization (first-order).
-- These are loose "categories", but the point is, they are functions or models where we know what exactly how it works in the forward direction, and how to arrive at these model parameters, or both.
-- Deep learning or AI or whatever you want to call it, is changing that. We now have models where, although we define every single component in every module in the network (we know exactly what the attention operation is doing), we only define what we like it to do in terms of the I/O response, molded into the best approximator we can through the data we expose it to. Aside from that, we have very little idea 1) what it actually ends up doing, in terms of interpretable / understandble functions, and 2) how it got to such a solution.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-And *in those 18 months* since I first found this "NeuroAI vs. AI4Neuro" hill to die on, NeuroAI seems to no longer be the esoterica du jour. Don't get me wrong, people are still asking interesting questions about computation and representation, and there was even an [NeuroAI workshop at NeurIPS][neuroai_neurips] last December, where I learned that Sir Karl Friston himself was a bit of a NeuroAI enthusiast. Nevertheless, NeuroAI doesn't seem to be the only game in town anymore when it comes to AI and brains.
-
-
-Instead, I feel like there came a turning point during the last 6-12 months, where communities are emerging that rallied around systematic efforts in using AI for neuroscience (...but for some reason almost always associated with "foundation models"). I especially appreciate the efforts in curating brain datasets and benchmarks, as well as to think more deeply about the opportunities and challenges in applying the LLM-based AI playbook (and beyond) to advance neuroscience.
-
-Better late than never, these emerging trends are the perfect backdrop to motivate my unemployed ass to finish writing up these thoughts. So, after drawing the analogy of neural computation vs. computational (neuro)biology in Part I, and dissecting what NeuroAI is and is not in Part II, here comes Part III, the finale (fucking finally):
-
----
-# What is AI4Neuro, and why are we going to suck at it?
-
-**tldr;** I'm going to spare the drama and give you the punchline right here:
-
-In my personal opinion, *AI4Neuro* is concerned with the overarching research questions of **how to effectively, efficiently, and responsibly use AI to advance basic, translational, and clinical neuroscience,** in particular with considerations of the idiosyncracies and heterogeneities of brain and behavioral data.
-
-It's not about just doing it, but thinking about how to do it right. So, applying "AI out of the box" on brain data is not necessarily AI4Neuro. Banging your head against the wall over why that doesn't just work the way somebody has promised or assumed to work---even though nobody has done it for this particular problem in this particular way before---is. That is what *research* is.
-
-In other words, AI4Neuro is not just the intersection of AI and neuroscience minus NeuroAI. Rather, the actual work lies in figuring out where this intersection begins and ends, i.e., **when and how** to integrate and leverage "AI" (as we know it today) into the scientific process currently employed to study the brain with all its oddities and limitations.
-
-As a result, doing this kind of research means not only methodological development from the AI side and data-curation from the neuroscience side. It requires reflection and dialogue at the meta level about what AI is and is not, and how the solutions it represents can be matched to open the unidentified and undiscovered locks posed by neuroscience questions of very specific flavors.
-
-And why do I think that we will suck at it?
-
-Because AI is not magic: it can help us efficiently solve well-posed and well-constrained problems, especially **problems with solutions that can be verified**. Unfortunately, neuroscience doesn't have many of those problems yet. Frankly speaking, AI will suck at neuroscience for the same reason why we have sucked at neuroscience: 
-
-**AI-powered telescope won't ever help pre-Copernican astronomers understand the universe.**
-
-In the rest of this article, I will try to convince you why I think this is, and what I think we can do to move forward.
-
----
-### How did we get here?
-First, a quick recap: by late 2023, the intersection of neuroscience and AI seemed to be fully subsumed by the line of research called "NeuroAI", which, after some digging, I realized to have a very specific ideological commitment. Namely, NeuroAI looks for principles of **computation** (and representation) that are shared between biological and artificial networks, where computation is typically taken to be synonymous with---or at least necessary for---intelligence.
-
-On the other hand, there exists a large body of research at this intersection of AI and neuroscience that did **not** necessarily care for how brains compute things, or at least did not place universal computation at its center. In particular, lots of people developed and applied AI tools for problems in areas spanning from fundamental neurobiology and systems neuroscience to clinical neuroscience and neuroengineering.
-
-But like other "methods people", it felt like these people were relegated to being the data analysts of their subfield of neuroscience: second fiddle to experimentalists that collected the data, but not weird enough to be considered a "theorist", so works are scattered across different subfields and venues like bioinformatics and neural engineering.
-
-The interesting thing here is that we're at a stage where "AI", namely ChatGPT, is pervasive enough in our daily lives that it feels like a common commodity, but at the same time, to actually use AI on research or clinical data, is a non-trivial problem that brings a whole world of pain (more on this later).
-
-And people are starting to realize this! 
-
-Linear regression and FFTs became part of stable software way before neuroscientists needed them, and so when the time came to blindly use them, we did. But this is not the case with AI, not yet.
-
-
-- I feel like an old man yelling at the sun: is it really transformational, or just another one of the same
-- sometimes reading what exists at the intersection of neuroscience and AI makes me think I'm going insane
-
-- how is AI used now: ML, stats, etc.? What is AI?
-- gotta end with foundation models
-- AI scientist and the scientific process: scientists are obviously not gonna replace themselves
-- defend against two problems: false positives, false negatives, OOD, interpretability
-- neuroscience lacks clear metrics of success
-- need a lot---A LOT---of data
-
-- how should one use AI? only when you can check the answer, mopping up
-- gold standard in AI for biology and physics, alphafold
-- where are we now with neuroscience: pre-Copernican and ether
-- how do we move forward? the data revolution in ML
-- can we link neuroscience and behavior without positing computation or cognition as an intermediate?
-
-- It's not unique to neuroscience or even the sciences, how best to deploy AI in a useful manner is an open question in many settings, like in business organization 
-
-> To get organizational gains requires organizational innovation, rethinking incentives, processes, and even the nature of work. But the muscles for organizational innovation inside companies have atrophied. For decades, companies have outsourced this to consultants or enterprise software vendors who develop generalized approaches that address the issues of many companies at once. That won’t work here, at least for a while. Nobody has special information about how to best use AI at your company, or a playbook for how to integrate it into your organization. Even the major AI companies release models without knowing how they can be best used. They especially don’t know your industry, organization, or context.
-
-15 times to [use AI][mollick_15times], and then another billion examples of where to [use AI][carlini_useAI] (“helping me learn” and “automating boring tasks”), already 6 and 12 months old, respectively, highlight both how useful AI has gotten, and how quickly we have recalibrated our expectations of their abilities.
-
-[Jagged frontier][mollick_jagged] figuring out which of the things that AI is really good at fits which of the problems neuroscience has, and what are the immediate next steps in development to make the fit better
-
-Do we need to really think deeply about this problem? Or just [use Transformers?][wilson_mysterious]
-
-[miolane_2025]:https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003230
-
-[wilson_mysterious]:https://arxiv.org/abs/2503.02113
-
-[mollick_organization]:https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and
-[mollick_15times]:https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to
-[carlini_useAI]:https://nicholas.carlini.com/writing/2024/how-i-use-ai.html
-[mollick_jagged]:https://www.hbs.edu/ris/Publication%20Files/24-013_d9b45b68-9e74-42d6-a1c6-c72fb70c7282.pdf
-
-[neuroai_neurips]: https://neurips.cc/virtual/2024/workshop/84721
- -->
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-
-The core of AI in NeuroAI is that we can fit a model of computation to the data, i.e., computational tasks performed by humans and animals, whether that's classifying MNIST and ImageNet or solving a two-bit working memory task. 
-Extrapolating from this principle, but replacing "model of computation" by model of X, how can we leverage AI in similar ways?
-In other words, how can we use AI to fit other models, or models of other phenomena, to data?
-
-- differentiability
-- parameter inference for simulators
-- "implicit models", i.e., data analysis
-- blackbox control
-- ???
-
-
-- AI in biology, physics, climate sciences:
-https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool
-
-
-- known knowns and unknown unknowns: chatGPT
-
-
----
-
-
-
-### AI for Neuroscience
-
-
-[wiki_aiwinter]:https://en.wikipedia.org/wiki/AI_winter
-[tweet_mineault]:https://twitter.com/patrickmineault/status/1730989784678490589
-[tweet_rg]:https://twitter.com/_rdgao/status/1731376771763757298
-[wiki_compneuro]:https://en.wikipedia.org/wiki/Computational_neuroscience
-[trends]:https://trends.google.com/trends/explore?q=NeuroAI,AI4neuro&hl=en-GB
-[mattis_ai4neuro]:https://github.com/amathislab -->
-
-
-<!-- Fitting enough, NeurIPS---`Neural Information Processing Systems`---was arguably the modern ancestor conference for NeuroAI ("modern" because it came after "cybernetics", which was too...Soviet Union to catch on?). NeurIPS was a place for works looking at how information processing or computation happens in neural and neural-like systems, before weirdly finding itself being **the** place for completely brain-free machine learning papers for some time. Now, in 2024, as the economy goes to shit and big tech companies no longer giving 6-figure salaries to anybody that's ever written a line of `loss.backward()`, maybe we will see NeurIPS coming back to being the playground of computer neuroscientists? If the trend from this year holds up, we'll have gone full circle and come back to analyzing powerful-for-its-time artificial computing systems as we imagine how brains do things, or even as artificial brains, and this, my friends, is a tale as old as time itself. 
-
-But if history serves us correctly, this will not be how we solve neuroscience. Or at least, this alone will not be the way. Strangely enough, I'm convinced of this after being at NeurIPS---and after visiting the Deutsches Museum and playing with some really fun fundamental physics demos--- We need an AI4Neuroscience. 
-
-Computational neuroscience
-the method becomes the model
-measurements
-
-
- (no, the "neurons" in a deep neural network are not neural and we're not having this discussion here)
-
-
----
-[perspective]:https://www.nature.com/articles/s41467-023-37180-x
-[neurips_mineault]:https://airtable.com/appWMCgd7CqsVIRza/shrTRBBqmrT74fZLb/tbl1t9cr5qpkYsrpb
- -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-y9rkNXBuhg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
