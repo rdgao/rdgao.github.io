@@ -492,4 +492,4 @@ So here is my final prediction to end this trilogy: when AI has really helped us
 In other words: we will have achieved success when our 'AI co-scientist' is no longer the headline, but just another paragraph buried in the Methods section.
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-y9rkNXBuhg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GNNp4jtP_pk?si=N8ufmAEPB0OA3VJ_" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
